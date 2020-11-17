@@ -2,7 +2,7 @@
 layout: post
 title: How I got 8 in IELTS Speaking!
 ---
-{kramdown: style="text-align: justify"}
+{: .text-justify}
 It's been 2 weeks since I took the test again after 2 years. I was a little bit nervous because I didn't do so well in the previous test. I only got 6.0 in Speaking, which (obviously) doesn't reflect well enough my speaking skills. I think many people have the same problem that I had, your pronunciation is good, the stress, the intonation, the fluency are all superb, people don't even recognize your accent, and of course you already have a general idea of the topic you are talking, yet why we tend to get only average or even subpar speaking score? The answer is, my friend, lies in the way you persuade the judge, not how good your English is, but how skillful and erudite you are when handling the language. In other words, you need to show off, everything you have! 
 
 {: style="text-align: justify"}
