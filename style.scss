@@ -159,7 +159,7 @@ img {
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
-    text-align: center;
+    text-align: justify;
   }
 }
 
@@ -226,7 +226,7 @@ nav {
   a {
     margin-left: 20px;
     color: $darkGray;
-    text-align: right;
+    text-align: justify;
     font-weight: 300;
     letter-spacing: 1px;
 
