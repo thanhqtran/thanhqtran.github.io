@@ -76,6 +76,19 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  #- jekyll-language-plugin #support more language
+  - jekyll-feed #add RSS feed
+  - jekyll-archives
+  - jekyll-tagging
+  - jekyll-tagging-related-posts
+  - jekyll_figure
+  - jekyll-responsive_image
+  - jekyll-jemoji
+  - liquid_reading_time
+  - jekyll-pdf-embed
+  - jekyll-redirect-from
+  - jekyll-analytics
+  - jekyll-admin
 
 # Exclude these files from your production _site
 exclude:
