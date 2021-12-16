@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+a Ph.D student at Tohoku University, Graduate School of Economics & Management
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like Harri Seldon.
 
 ### Contact me
 
