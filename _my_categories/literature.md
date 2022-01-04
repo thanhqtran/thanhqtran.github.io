@@ -1,0 +1,6 @@
+---
+layout: default
+slug: literature
+name: literature
+color: '#1abc9c'
+---
