@@ -1,6 +1,7 @@
 ---
 layout: post
 title: de la Croix's Fertility - Education and Growth (chapter 1)
+usemathjax: true
 ---
 
 Notes for the benchmark model of de la Croix's endogenous fertility and education model. This post mostly consists of mathematical derivations and important analytical results.  
