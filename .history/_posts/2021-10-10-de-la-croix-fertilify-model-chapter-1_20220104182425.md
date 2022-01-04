@@ -10,19 +10,19 @@ De La Croix, D., & Doepke, M. (2003). Inequality and growth: why differential fe
 
 # Setup
 
-Household's objective function:
+Objective function:
 
 $$
 U^i_t = \ln(c^i_t) + \gamma \ln(n^i_t \pi(e^i_t))
-$$
+$$ 
 
 where $U$ is the life-time utility, $c$ is parent's consumption, $n$ is number of children, $\pi$ is the educational quality of each child. Parents enjoy utility from raising children.
 
-The probability for a child to become skilled (B type):
+The probability for a child to become skilled (B type): 
 
 $$
 \pi(e^i) = \mu^i (\theta + e^i)^\eta
-$$
+$$ 
 
 where \(\mu\) is parent's type \((i)\), specifically \(\mu^B > \mu^A\) with B being high-skilled and A being low-skilled. High-skilled workers' children tend to become more educated than the low-skilled counterpart's. \(\theta\) is the natural ability of a kid (without parent's money for education) and \(e\) is education input a child receives.
 
@@ -32,19 +32,19 @@ Since \(1-\pi \) would be the prob. of a child becoming unskilled, the evolution
 
 Parent's budget constraint:
 
-$$c_t = w(1-\phi n_t) - n_t e_t$$
+$$c_t = w(1-\phi n_t) - n_t e_t$$ 
 
 where \(\phi n\) is the fraction of time devoted to raise children and \(ne\) is cost of raising children.
 
-Simple production function:
+Simple production function: 
 
-$$Y_t = w^A L^A + w^B L^B$$
+$$Y_t = w^A L^A + w^B L^B$$ 
 
 where \(w\) is the wage-marginal product of labor, \(L\) is labor input.
 
-In equilibirum:
+In equilibirum: 
 
-$$P^i_t(1-\phi n_t^i) = L^i_t$$
+$$P^i_t(1-\phi n_t^i) = L^i_t$$ 
 
 where \(P\) is type-specific population. The LHS is labor supply and RHS is labor demand.
 
@@ -78,11 +78,11 @@ $$\begin{align*} &c=w(1-\phi n) - ne \\ &\iff c = w - \left(w\phi + \frac{\eta w
 
 # Comparative statics
 
-We see that:
+We see that: 
 
-$$\frac{\partial e}{\partial w} = \frac{\eta \phi}{1-\eta} > 0$$
+$$\frac{\partial e}{\partial w} = \frac{\eta \phi}{1-\eta} > 0$$ 
 
-Parental education spending increases with income.
+Parental education spending increases with income. 
 
 On the other hand:
 
@@ -92,7 +92,7 @@ Fertility decreases with income.
 
 \(e > 0\) if
 
-$$w > \frac{\theta}{\eta \phi}$$
+$$w > \frac{\theta}{\eta \phi}$$ 
 
 otherwise: if
 
