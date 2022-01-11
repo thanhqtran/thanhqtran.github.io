@@ -1,4 +1,0 @@
----
-slug: fertility
-name: fertility
----
