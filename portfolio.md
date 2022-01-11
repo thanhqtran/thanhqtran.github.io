@@ -1,7 +1,8 @@
 ---
-title: My Categories
+title: My Portfolio
 permalink: /portfolio/
 layout: page
 ---
 
-This is a placeholder page for my portfolio (which I would turn into a page containing all categories)
+This page will be updated after a series of related posts are generated.
+
