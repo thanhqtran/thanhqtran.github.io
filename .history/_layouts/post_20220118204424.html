@@ -20,7 +20,7 @@ layout: default
     <h4>You May Also Enjoy</h4>
     
     {% assign maxRelated = 4 %}
-    {% assign minCommonTags =  1 %}
+    {% assign minCommonTags =  0 %}
     {% assign maxRelatedCounter = 0 %}
     
     {% for post in site.posts %}
@@ -45,7 +45,7 @@ layout: default
                 <img width="100%" src="/thumbs/{{post.image}}">
             </div>
           </a>
-
+          
           {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
           {% if maxRelatedCounter >= maxRelated %}
             {% break %}
