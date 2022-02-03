@@ -34,7 +34,9 @@ pre.highlight {
 }
 
 code {
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+  background-color:#EEEEEE;
+  font-family:'Consolas','Courier', monospace;
+  font-size:1em;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
