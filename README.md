@@ -12,7 +12,8 @@ This blog is customized based upon Jekyll Now with the following additional feat
 - MathJax integration (customized where LaTeX syntax & functions can be used)
 - Comment integration (powered by disqus)
 - Google Analytics
-- Related Posts (...*pending*...) [link1](https://blog.webjeda.com/jekyll-related-posts/), [link2](https://medium.com/@jsware/jekyll-related-posts-f2bc1f420b5e)
+- Related Posts [link1](https://blog.webjeda.com/jekyll-related-posts/), [link2](https://medium.com/@jsware/jekyll-related-posts-f2bc1f420b5e)
+- Change fonts to Computer Modern [cmu](https://stackoverflow.com/questions/6476351/how-to-use-the-computer-modern-font-in-webpages), [how to change](http://sebrink.de/Google-Webfonts-for-my-Jekyll/)
 
 [See the demo here](https://thanhqtran.github.io)
 
