@@ -21,18 +21,47 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+    <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/1e8c5b6d2d1131a1b0f696d5a359e39532d8d12c/favicon.png">
+    <link rel="stylesheet" type="text/css"
+    href="https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css">
+    <link href='//fonts.googleapis.com/css?family=Lato:400,700|Raleway:400,700|Comfortaa:700' rel='stylesheet' type='text/css'>
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    <script>
-      MathJax = {
-        tex: {
-          inlineMath: [['$', '$'], ['\\(', '\\)']]
-        }
-      };
-      </script>
-      <script id="MathJax-script" async
-        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-      </script>
+    <script type="text/javascript" async
+      src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+          displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+          processEscapes: true
+        },
+        "HTML-CSS": { availableFonts: ["TeX"] }
+      });
+    </script> 
   </head>
+
+  <div class="grid" id="searchBar">
+    <div>
+        <div id="search">
+            <form role="search" method="get" action="{{ site.baseurl }}/search/">
+                <input id="searchString" name="searchString"
+                       placeholder="Learn Ionic, Be a Better Developer, etc." type="text">
+                <input id="searchButton" name="googleSearchName" type="button" value="Search">
+            </form>
+        </div>
+
+        <div id="archives">
+             Browse by <a title="The complete archive of {{ site.name }}'s Blog by category"
+                   href="{{ site.baseurl }}/categoryview">category</a>
+            or <a title="The complete archive of {{ site.name }}'s Blog by month"
+                  href="{{ site.baseurl }}/monthview">date</a>
+        </div>
+    </div>
+  </div>
+
 
   <body>
     <div class="wrapper-masthead">

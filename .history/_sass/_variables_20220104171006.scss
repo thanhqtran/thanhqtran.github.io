@@ -15,9 +15,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-/* $computer-modern: computer-modern-sans, sans-serif; */
-$computer-modern: "Computer Modern Sans", sans-serif;
-/* $georgia: Georgia, serif; */
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
