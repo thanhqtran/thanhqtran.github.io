@@ -3,7 +3,7 @@ layout: post
 title: Tips and Advice for Economists
 published: true
 date: 2022-02-02
-categories: [Must-know]
+categories: [Advice]
 tags: [tips]
 ---
 
