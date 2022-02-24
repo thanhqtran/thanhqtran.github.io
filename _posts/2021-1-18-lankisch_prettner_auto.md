@@ -3,7 +3,7 @@ layout: post
 title: A production with Automation (Lankisch et al. 2019)
 published: true
 date: 2021-1-18
-categories: [literature]
+categories: [Literature]
 tags: [automation]
 ---
 
