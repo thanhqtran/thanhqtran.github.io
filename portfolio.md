@@ -8,19 +8,19 @@ I am interested in Growth models. Simulation in Economics is also fun and intere
 
 ## Research
 
-[The Aging Tax on Potential Growth in Asia (January 9, 2022). Available at SSRN. preprint](http://dx.doi.org/10.2139/ssrn.4028464])
+**The Aging Tax on Potential Growth in Asia (January 9, 2022)**. [preprint Available at SSRN](http://dx.doi.org/10.2139/ssrn.4028464])
 
-
+| An Application of the OLG model with endogenous retirement and old-age productivity.
 ## Side Projects
 
-[Simple OLS to assess Chile's Inflation Targeting policy](https://github.com/thanhqtran/chile-inflationtarget-ols)
+**Simple OLS to assess Chile's Inflation Targeting Policy**.  [Github](https://github.com/thanhqtran/chile-inflationtarget-ols)   [Rpub](https://rpubs.com/thanhqtran/723473)
 
-Chile has adopted the inflation targeting monetary policy framework since 1991. The output growth ever since has remained high and economic volatility reduced. In this framework, we employed an OLS model to confirm the impact of this change in policy conduct on economic growth. Our estimation shows that thanks to the policy, economic growth has been more than 20% higher. The data were collected from 1980q1 to 2017q4.
+| Chile adopted the inflation targeting monetary policy since 1991 to reduce economic volatility. We employed an OLS model to confirm that economic growth has been 20% higher thanks to the policy. The data were collected from 1980q1 to 2017q4.
 
-[APG Decomposition](https://github.com/thanhqtran/APG-decomposition)(private)
+**APG Decomposition for Belgium**. [Rpub](https://rpubs.com/thanhqtran/775009)
 
-Using R to conduct an Aggregate Productivity Growth decomposition for Belgian economy.
+| Using R to conduct an Aggregate Productivity Growth decomposition for Belgian economy.
 
-[Genetic Algorith in Finance](https://github.com/thanhqtran/finance-agents-GAlearning)
+**Genetic Algorith in Finance**. [Github](https://github.com/thanhqtran/finance-agents-GAlearning)
 
-A simulation code in Python to reproduce Lettau Martin (1997)'s model of a portfolio decision model for boundedly rational agents in a financial market. Agents in this model learn by adopting the genetic algorithm (GA).
+| A simulation code in Python to reproduce Lettau Martin (1997)'s model of a portfolio decision model for boundedly rational agents in a financial market. Agents in this model learn by adopting the genetic algorithm (GA).
