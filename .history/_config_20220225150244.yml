@@ -3,17 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: tran-quang thanh (toran)
+name: toranecons 
 
 # Short bio or description (displayed in the header)
-description: Notes on Economics
+description: Notes on Economic theories and practice.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/66583019?s=400&v=4
 
 #
 # Flags below are optional
-#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -23,10 +22,10 @@ footer-links:
   flickr:
   github: thanhqtran
   instagram:
-  linkedin:
+  linkedin: tranquangthanhftu
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: tranquangthanh_
+  rss: thanhqtran.github.io # just type anything here for a working RSS icon
+  twitter: trannquangthanh
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -34,10 +33,10 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: thanhqtran
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics: G-ME7GXNV0VN
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -62,6 +61,7 @@ version: v1.2.0
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
+  math_engine: mathjax
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
@@ -76,7 +76,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  - jekyll-seo-tag
 # Exclude these files from your production _site
 exclude:
   - Gemfile
