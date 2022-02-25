@@ -11,16 +11,16 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    <h6>Written on {{ page.date | date: "%B %e, %Y" }}</h6>
     {% include GoogleTagManager_body.liquid %}
   </div>
 
   <div class="rect">
 
-    <h4>You May Also Enjoy</h4>
+    <h4>Related Posts:</h4>
     
     {% assign maxRelated = 4 %}
-    {% assign minCommonTags =  0 %}
+    {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
     
     {% for post in site.posts %}
@@ -39,13 +39,10 @@ layout: default
         {% endfor %}
     
         {% if sameTagCount >= minCommonTags %}
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            <div class="rel">
-                <h5>{{ post.title }}</h5>
-                <img width="100%" src="/thumbs/{{post.image}}">
-            </div>
-          </a>
-          
+        <div>
+          <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
+        </div>
+
           {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
           {% if maxRelatedCounter >= maxRelated %}
             {% break %}
@@ -58,3 +55,27 @@ layout: default
 
   {% include disqus.html %}
 </article>
+
+<!-- Copy code to clipboard -->
+<script>
+  document
+    .querySelector('.post-content')
+    .querySelectorAll('pre.highlight')
+    .forEach(function (pre) {
+      var button = document.createElement('button');
+      var copyText = 'Copy';
+      button.className = 'copy';
+      button.type = 'button';
+      button.ariaLabel = 'Copy code to clipboard';
+      button.innerText = copyText;
+      button.addEventListener('click', function () {
+        var code = pre.querySelector('code').innerText.trim();
+        navigator.clipboard.writeText(code);
+        button.innerText = 'Copied';
+        setTimeout(function () {
+          button.innerText = copyText;
+        }, 4000);
+      });
+      pre.appendChild(button);
+    });
+</script>
