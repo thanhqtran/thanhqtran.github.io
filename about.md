@@ -7,7 +7,7 @@ permalink: /about/
 
 **My name**: Quang-Thanh, Tran.
 
-Pronounced like "Thanks" without the /ks/ sound. Or "Tedd".
+Please call me "Thanh". It's pronounced like "Thanks" without the /ks/ sound. My nickname is "Tedd".
 
 ### Bio
 
@@ -15,6 +15,8 @@ Pronounced like "Thanks" without the /ks/ sound. Or "Tedd".
 I am a Ph.D. student majoring in Economics ([GPEM](https://www.econ.tohoku.ac.jp/english/page-gpem.html)) at [Tohoku University](https://www.timeshighereducation.com/world-university-rankings/tohoku-university), Japan.
 
 This blog is a collection of notes when I study Economics (mostly Macro). They can be literature review, reverse engineering of important papers or my works.
+
+I also monitor the Grad Student Association (of the Econs. department) at Tohoku University. You can visit us here [inseikai tohoku](inseikaitohoku.wordpress.com) where latest events and university-related information can be found.
 
 ### My Information
 
