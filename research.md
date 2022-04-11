@@ -8,9 +8,9 @@ I am interested in Macroeconomics, Economic growth and Computational Economics.
 
 ## Works
 
-**1. The Aging Tax on Potential Growth in Asia (Jan. 9, 2022)**. [[preprint Available at SSRN]](http://dx.doi.org/10.2139/ssrn.4028464])
+**1. The Aging Tax on Potential Growth in Asia (Jan. 9, 2022)**. [[preprint Available at SSRN]](http://dx.doi.org/10.2139/ssrn.40284644])
 
-\. An OLG model with endogenous retirement and old-age productivity to study the impacts of population aging on potential growth in some Asian economies.
+\. An OLG model with endogenous retirement and old-age productivity to study the impacts of population aging on potential growth in some Asian economies. We find that aging can harm potential growth if old-age productivity is not high enough, and labor share in production is relatively high.
 ## Side Projects
 
 **1. Simple OLS to assess Chile's Inflation Targeting Policy**.  [[Github]](https://github.com/thanhqtran/chile-inflationtarget-ols)   [[Rpub]](https://rpubs.com/thanhqtran/723473)
