@@ -4,7 +4,13 @@ permalink: /reading/
 layout: page
 ---
 
-Reading list:
+## Guidebook
+
+Thomson, William. A guide for the young economist. MIT press, 2001.
+
+Weisbach, Michael S. The Economist’s Craft: An Introduction to Research, Publishing, and Professional Development. Princeton University Press. 2021.
+
+McCloskey, Donald. "Economical writing." Economic Inquiry 23, no. 2 (1985): 187-222.
 
 ## Papers
 
