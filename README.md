@@ -36,4 +36,6 @@ For reference, visit [his blogseries repo](https://github.com/digitaldrummerj/je
 
 Develop locally by using VSCode to push updates to Repo. Github pages will automatically verify and update changes. 
 
+A lot of simple plugin-free addons are available [here](https://jekyllcodex.org/without-plugins/) 
+
 **My repo can be used as a reference of implementing a customized Jekyll**
