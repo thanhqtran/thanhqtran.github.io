@@ -4,8 +4,6 @@ permalink: /research/
 layout: page
 ---
 
-I am interested in Macroeconomics, Economic growth and Computational Economics.
-
 ## Works
 
 **1. The Aging Tax on Potential Growth in Asia (Jan. 9, 2022)**. [[preprint Available at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028464)
