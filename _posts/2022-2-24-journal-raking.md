@@ -19,6 +19,8 @@ Aiming for the very top journals is what everybody does, but doing so may cost a
 
 [Google Scholar](https://scholar.google.co.jp/citations?view_op=top_venues&hl=en&vq=bus_economics)
 
+[CNRS (French)](https://www.gate.cnrs.fr/spip.php?rubrique31&lang=en)
+
 ## The General Online Rankings
 
 [Web of Science](https://jcr.clarivate.com/jcr/browse-journals)
@@ -45,7 +47,7 @@ See the "ambitious" list on p. 134
 
 One of the most comprehensive lists, with grand field and subfield lists.
 
-Other rankings:
+**Other rankings**:
 
 [Lehmann, R., & Wohlrabe, K. (2017). An Elo ranking for economics journals''. Economics Bulletin, 37(4), 2282-2291.](http://www.accessecon.com/Pubs/EB/2017/Volume37/EB-17-V37-I4-P204.pdf)
 
