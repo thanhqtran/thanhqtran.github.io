@@ -6,7 +6,7 @@ layout: page
 
 ## Published Papers
 
-**1. The Aging Tax on Potential Growth in Asia (2022)**. (forthcoming) Journal of Asian Economics. [[preprint Available at SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028464)
+**1. The Aging Tax on Potential Growth in Asia (2022)**. (Article-in-Press) Journal of Asian Economics. [URL](https://doi.org/10.1016/j.asieco.2022.101495)
 
 This paper constructs an OLG model with endogenous retirement to analyze the effect of population aging on economic growth in Asian economies. Key contributions: 1) analytically examine the effect of the "aging tax" and 2) quantitatively assess these effects through numerical simulations of the model calibrated to selected Asian economies. We find that countries with higher labor share and lower educational attainment should face larger negative impacts of population aging.
 
