@@ -16,6 +16,10 @@ This paper constructs an OLG model with endogenous retirement to analyze the eff
 
 A general equilibrium OLG model to study Automation, using historical data in Japan and the US.
 
+**2. Aggregate Productivity Growth in Vietnam: The Gain From Trade.**
+
+Using the APO data and ADB's Input-Output Table recorded from 2007-2020 to identify and decompose Vietnamese Aggregate Productivity Growth (APG) into Technical Efficiency, Inputs Reallocation Efficiency and Trade Efficiency.
+
 ## Side Projects
 
 **1. Simple OLS to assess Chile's Inflation Targeting Policy**.  [[Github]](https://github.com/thanhqtran/chile-inflationtarget-ols)   [[Rpub]](https://rpubs.com/thanhqtran/723473)
