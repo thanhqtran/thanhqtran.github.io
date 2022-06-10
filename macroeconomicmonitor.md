@@ -14,3 +14,5 @@ A Real-time Macroeconomic Monitor for **Vietnamese economy**
 
 ![](https://github.com/thanhqtran/gso-macro-monitor/blob/195cbe1b059a7f921d274db88d01e72d6632a7a7/gdp/generated/gdp_sector.gif?raw=true)
 
+### Industrial Production Index 
+![](https://github.com/thanhqtran/gso-macro-monitor/blob/66e7a09c50390f304b56b87be4d8a5caf7915977/iip/generated/iip.gif?raw=true)
