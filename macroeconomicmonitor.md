@@ -4,13 +4,13 @@ permalink: /macroeconomicmonitor/
 layout: page
 ---
 
-A Real-time Macroeconomic Monitor for **Vietnam**
+A Real-time Macroeconomic Monitor for **Vietnamese economy**
 
-### GDP in 2020 USD.
+### GDP (current domestic currency).
 
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/63e32aecc410f62947f40ac057571e9eab0ce1dd/gdp/generated/gdp.png?raw=true)
+![](https://github.com/thanhqtran/gso-macro-monitor/blob/195cbe1b059a7f921d274db88d01e72d6632a7a7/gdp/generated/gdp_na.gif?raw=true)
 
 ### GDP structure by sector.
 
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/63e32aecc410f62947f40ac057571e9eab0ce1dd/gdp/generated/gdp_structure.png?raw=true)
+![](https://github.com/thanhqtran/gso-macro-monitor/blob/195cbe1b059a7f921d274db88d01e72d6632a7a7/gdp/generated/gdp_sector.gif?raw=true)
 
