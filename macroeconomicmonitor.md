@@ -1,10 +1,10 @@
 ---
-title: Macroeconomic Monitor
+title: Vietnamese Macroeconomic Monitor
 permalink: /macroeconomicmonitor/
 layout: page
 ---
 
-A Real-time Macroeconomic Monitor for **Vietnamese economy**
+A Real-time Macroeconomic Data for **Vietnamese economy**
 
 ### GDP (current domestic currency).
 
@@ -16,3 +16,6 @@ A Real-time Macroeconomic Monitor for **Vietnamese economy**
 
 ### Industrial Production Index 
 ![](https://github.com/thanhqtran/gso-macro-monitor/blob/66e7a09c50390f304b56b87be4d8a5caf7915977/iip/generated/iip.gif?raw=true)
+
+
+Figures are automatically updated everyday.
