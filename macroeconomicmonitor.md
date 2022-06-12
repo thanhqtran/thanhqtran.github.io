@@ -1,5 +1,5 @@
 ---
-title: Vietnamese Macroeconomic Monitor
+title: Vietnamese Macroeconomics Monitor
 permalink: /macroeconomicmonitor/
 layout: page
 ---
