@@ -8,14 +8,20 @@ A Real-time Macroeconomic Data for **Vietnamese economy**
 
 ### GDP (current domestic currency).
 
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/195cbe1b059a7f921d274db88d01e72d6632a7a7/gdp/generated/gdp_na.gif?raw=true)
+![](https://github.com/thanhqtran/gso-macro-monitor/blob/bb60f0364e2c355ec115a2b361eac866b9030c76/generated_gif/gdp_na.gif?raw=true)
 
 ### GDP structure by sector.
 
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/195cbe1b059a7f921d274db88d01e72d6632a7a7/gdp/generated/gdp_sector.gif?raw=true)
+![](https://github.com/thanhqtran/gso-macro-monitor/blob/bb60f0364e2c355ec115a2b361eac866b9030c76/generated_gif/gdp_sector.gif?raw=true)
+
+### Consumer Price Index
+![](https://github.com/thanhqtran/gso-macro-monitor/blob/bb60f0364e2c355ec115a2b361eac866b9030c76/generated_gif/cpi.gif?raw=true)
+
+### CPI by components
+![](https://github.com/thanhqtran/gso-macro-monitor/blob/bb60f0364e2c355ec115a2b361eac866b9030c76/generated_gif/cpi_component.gif?raw=true)
 
 ### Industrial Production Index 
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/66e7a09c50390f304b56b87be4d8a5caf7915977/iip/generated/iip.gif?raw=true)
+![](https://github.com/thanhqtran/gso-macro-monitor/blob/bb60f0364e2c355ec115a2b361eac866b9030c76/generated_gif/iip.gif?raw=true)
 
 
-Figures are automatically updated everyday.
+
