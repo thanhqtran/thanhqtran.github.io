@@ -32,6 +32,10 @@ Real GDP - Services (constant 2010 prices)
 
 ![](https://github.com/thanhqtran/gso-macro-monitor/blob/06134b9696a37970965c8506b4fa2c99214f1b43/generated_gif/Real%20GDP%20Services.gif?raw=true)
 
+Government Accounts
+
+![](https://github.com/thanhqtran/dataset/blob/c4b2338e373dee0032021537374b461f5898ed6a/vietnam/mofbalance/figure1.png?raw=true)
+
 ### Inflation
 
 Overall CPI and core CPI trends
