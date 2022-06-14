@@ -34,7 +34,7 @@ Real GDP - Services (constant 2010 prices)
 
 Government Accounts
 
-![](https://github.com/thanhqtran/dataset/blob/c4b2338e373dee0032021537374b461f5898ed6a/vietnam/mofbalance/figure1.png?raw=true)
+![](https://github.com/thanhqtran/dataset/blob/7f32d099a3e49a5de01f5910b054f83a3d215595/vietnam/mofbalance/budget.gif?raw=true)
 
 ### Inflation
 
