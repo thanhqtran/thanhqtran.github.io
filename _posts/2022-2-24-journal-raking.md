@@ -53,6 +53,11 @@ One of the most comprehensive lists, with grand field and subfield lists.
 
 [Hole, A. R. (2017). Ranking economics journals using data from a national research evaluation exercise. Oxford Bulletin of Economics and Statistics, 79(5), 621-636.](https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12185)
 
+[Journals under JSTOR](https://www.jstor.org/subject/economics)
+
+[Journals by University of Chicago](https://www.journals.uchicago.edu/action/showPublications?category=10.1555%2Fcategory.40000122)
+
+
 ## How to publish in top journals
 
 [How to Publish in Top Journals (Kwan Choi)](http://www3.nccu.edu.tw/~jthuang/publish.pdf)
