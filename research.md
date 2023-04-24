@@ -8,13 +8,13 @@ layout: page
 
 **1. The Aging Tax on Potential Growth in Asia (2022)**. Journal of Asian Economics, Vol. 81, p.101495. [URL](https://doi.org/10.1016/j.asieco.2022.101495)
 
-This paper constructs an OLG model with endogenous retirement to analyze the effect of population aging on economic growth in Asian economies. Key contributions: 1) analytically examine the effect of the "aging tax" and 2) quantitatively assess these effects through numerical simulations of the model calibrated to selected Asian economies. We find that countries with higher labor share and lower educational attainment should face larger negative impacts of population aging.
+*Abstract:* Population aging is becoming a prominent issue in Asia, especially for developing countries where demographic changes have asserted a downward pressure on the rate of growth. This paper refers to such potential unwanted effects as an “aging tax” and analytically examines them from a neoclassical perspective, using a Diamond-type overlapping generations model with endogenous retirement, survival rate, and old-age productivity. Based on this setup, negative impacts exist if too many old workers that are sufficiently unproductive choose to defer retirement under the aging pressure, which drains resources from future generations. Numerical simulations show that an aging tax can reduce the potential per capita growth rate (technology-adjusted) by up to 0.12 percentage points annually for some countries in Asia. Our results highlight that countries with sufficiently large labor shares (due to a high ratio of self-employment or a manual labor-centric production) and inadequate educational attainment are potentially the most sensitive and vulnerable to population aging.
 
 ## Working Papers
 
-**1. Automation and Skill Premium: Why Fertility and Employment Protection Matter.**
+**1. Fertility, Innovation, and Technological Spillovers  in An Endogenous Growth Model with Overlapping Generations**
 
-A general equilibrium OLG model to study Automation, using historical data in Japan and the US.
+*Abstract:* Recent years have witnessed a sharp rise in robot stock and industrial patents, in contrast to the reduction in fertility in many countries. To properly investigate these developments in the long run, we build a two-sector Diamond-type Overlapping Generations Model (OLG) with endogenous R\&D growth, fertility, and education. The innovation in our paper is the inclusion of education quality and spillover effects from the high-skilled to the low-skilled sector. The model predicts that reduced fertility is inevitable because parents must race with machines regarding education expenses; skill premiums will likely rise, while the ratio of the truly high-skilled population may decline. We further perform the simulations for the Japanese economy since the boom of industrial robots (1975) and see that the model dynamics are consistent with actual data. Furthermore, depending on the strength of the spillovers, different states of equilibrium are realized, with high or low growth and high or low skill premium economies. As a result, the model provides several insights into understanding and predicting the complex dynamics of demographics, labor skills, and technological progress in the future.
 
 **2. Aggregate Productivity Growth in Vietnam: The Gain From Trade.**
 
@@ -37,7 +37,6 @@ Using R to conduct an Aggregate Productivity Growth decomposition for Belgian ec
 
 A simulation code in Python to reproduce Lettau Martin (1997)'s model of a portfolio decision made by boundedly rational agents in the financial market. 
 
-## in Vietnamese
+## Teaching
 
-1. (2019)\.The Impacts of Inflation Targeting Policy on Economic Growth: The Case of Chile and Lessons for Vietnam, External Economics Review No. 114/2019, p. 83--103. [URL](http://tracuutapchi.ftu.edu.vn/index.php/tcqlktqt/article/view/602)
-2. (2018)\. Unconventional Monetary Policy: Lessons from the Bank of Japan (BOJ), External Economics Review No. 110/2018, p. 76--94. [URL](http://tracuutapchi.ftu.edu.vn/index.php/tcqlktqt/article/view/638)
+Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp)
