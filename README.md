@@ -23,7 +23,7 @@ This blog is customized based upon Jekyll Now with the following additional feat
 
 ### Step 1
 
-To start, folk [Jekyll Now](https://github.com/barryclark/jekyll-now)'s repo.
+To start, folk [Jekyll Now](https://github.com/barryclark/jekyll-now).
 
 ### Step 2
 
@@ -36,6 +36,4 @@ For reference, visit [his blogseries repo](https://github.com/digitaldrummerj/je
 
 Develop locally by using VSCode to push updates to Repo. Github pages will automatically verify and update changes. 
 
-A lot of simple plugin-free addons are available [here](https://jekyllcodex.org/without-plugins/) 
-
-**My repo can be used as a reference of implementing a customized Jekyll**
+A lot of simple plugin-free addons are available [here](https://jekyllcodex.org/without-plugins/).
