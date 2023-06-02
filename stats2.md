@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Blog stats
-subtitle: "Where all the graphs wash ashore"
-permalink: /stats2/
-feature-img: "assets/img/pexels/wave.png"
-icon: "fas fa-chart-pie"
+
 ---
 
 
