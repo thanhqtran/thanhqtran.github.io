@@ -1,9 +1,0 @@
----
-layout: post
-title: Testing Quiz N2 (beta)
-published: false
-categories: [Programming]
-tags: [quiz]
----
-Click vào "Run" để làm quiz.
-<p><iframe src="https://trinket.io/embed/python3/48201265a2?outputOnly=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe></p>
