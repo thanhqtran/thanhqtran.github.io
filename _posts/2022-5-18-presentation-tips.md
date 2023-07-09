@@ -3,7 +3,7 @@ layout: post
 title: How to Nail Academic Presentations
 published: true
 date: 2022-05-18
-categories: [Advice]
+categories: [Guide]
 tags: [tips]
 ---
 

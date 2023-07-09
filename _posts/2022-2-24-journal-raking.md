@@ -3,7 +3,7 @@ layout: post
 title: Ranking of Journals in Economics
 published: true
 date: 2022-02-24
-categories: [Advice]
+categories: [Guide]
 tags: [ranking]
 ---
 

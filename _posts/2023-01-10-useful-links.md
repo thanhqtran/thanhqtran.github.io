@@ -3,7 +3,7 @@ layout: post
 title: Some Useful Links
 published: true
 date: 2023-01-10
-categories: [Advice]
+categories: [Resource]
 tags: [tips]
 ---
 

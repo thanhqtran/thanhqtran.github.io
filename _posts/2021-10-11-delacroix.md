@@ -3,7 +3,7 @@ layout: post
 title: Differential Fertility
 published: true
 date: 2021-10-11
-categories: [Literature]
+categories: [Paper Digest]
 tags: [delacroix]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Economics Podcasts
 published: true
 date: 2022-06-09
-categories: [Advice]
+categories: [Resource]
 tags: [tips]
 ---
 

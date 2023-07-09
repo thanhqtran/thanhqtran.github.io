@@ -3,7 +3,7 @@ layout: post
 title: Inseikai Tohoku Spring Camp 2023 -- Mathematics & Computation
 published: true
 date: 2023-03-24
-categories: [Literature]
+categories: [Resource]
 tags: [math]
 ---
 
