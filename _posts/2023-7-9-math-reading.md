@@ -79,9 +79,15 @@ General guides:
 
 ## Econometrics
 
-- Econometric Analysis of Cross Section and Panel Data (Wooldrige)
-- Econometrics (Hayashi)
-- Econometric Analysis (Greene)
-- Applied Econometric Time Series (Enders)
-- Applied Economic Forecasting Using Time Series Methods (Ghysels & Marcellino) -- has R codes.
-- Probability & Statistics for Economists (Hansen)
+- **General**:
+  - Introductory Econometrics: A Modern Approach (Wooldridge)
+  - Econometric Analysis of Cross Section and Panel Data (Wooldridge)
+  - Econometrics (Hayashi)
+  - [Econometric Analysis (Greene)](https://pages.stern.nyu.edu/~wgreene/Text/tables/tablelist6.htm)
+  - Probability & Statistics for Economists (Hansen)
+  - [Mostly Harmless Econometrics (Angrist)](https://github.com/vikjam/mostly-harmless-replication)
+
+- **Time Series**:
+  - Time Series Analysis (Hamilton) with [Solutions](http://henrikmadsen.org/books/time-series-analysis/solutions/)
+  - [Applied Econometric Time Series (Enders)](https://wenders.people.ua.edu/3rd-edition.html)
+  - [Applied Economic Forecasting Using Time Series Methods (Ghysels & Marcellino)](https://www.dropbox.com/sh/sillgeh8x4grldp/AADas6dbmREz_YRzyDrXtuv-a?dl=0) -- has R codes.
