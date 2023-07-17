@@ -23,7 +23,7 @@ layout: page
 
 Using the APO data and ADB's Input-Output Table recorded from 2007-2020 to identify and decompose Vietnamese Aggregate Productivity Growth (APG) into Technical Efficiency, Inputs Reallocation Efficiency and Trade Efficiency.
 
-## Side Projects
+## Fun Projects
 
 **1. Simple OLS to assess Chile's Inflation Targeting Policy**.  [[Github]](https://github.com/thanhqtran/chile-inflationtarget-ols)   [[Rpub]](https://rpubs.com/thanhqtran/723473)
 
@@ -42,4 +42,5 @@ A simulation code in Python to reproduce Lettau Martin (1997)'s model of a portf
 
 ## Teaching
 
-Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp)
+Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/spring2023)
+Inseikai Summer Bootcamp 2023, Mathematics II [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/summer2023)
