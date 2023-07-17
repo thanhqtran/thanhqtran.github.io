@@ -14,9 +14,10 @@ layout: page
 
 ## Working Papers
 
-**1. Fertility, Innovation, and Technological Spillovers  in An Endogenous Growth Model with Overlapping Generations**
+**1. Fertility, Innovation, and Technological Spillovers in An Endogenous Growth Model with Overlapping Generations**
 
 *Abstract:* Since the 1970s, Japan's skill premium has exhibited a U-shape relationship with capital stock or machines per worker, in contrast to some other developed countries. To investigate this puzzle, we build a two-sector Diamond-type Overlapping Generations Model (OLG) with endogenous R\&D-based growth, fertility, education, and skill differentials. The model highlights capital-complimentary technological change, spillover effects from the high-skilled sector to the low-skilled sector, and the quality of parents' education expenses. Our analysis shows that in Japan, since 1975, skill premium first declined due to an oversupply of high-skilled (university graduates) labor ratio, and the technology-capital stock was relatively low. However, as the technology-capital stock keeps increasing, skill premium is predicted to rise, while the ratio of high-skilled individuals can be stagnant in the future. Consistent with observed data, our calibration shows that fertility is expected to fall further so that parents can spend more on children's education and maintain their competitiveness. Counterfactual simulations imply that depending on the strength of the spillovers, different states of equilibrium are realized, with lower (higher) spillover being associated with lower (higher) growth and higher (lower) skill premiums.
+
 
 **2. Aggregate Productivity Growth in Vietnam: The Gain From Trade.**
 
