@@ -14,14 +14,8 @@ For mathematics, the content covers most of the techniques commonly used in mult
 The lecture notes have been uploaded to 
 [https://github.com/thanhqtran/spring23_camp](https://github.com/thanhqtran/spring23_camp).
 
-**Live view**
 
-<object data="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/main.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/main.pdf">
-        <p>You can download the PDF to view it: <a href="https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/main.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/main.pdf">Live view</a>
 
-<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/main.pdf">CV</a>
 
 For the [next camp](https://github.com/thanhqtran/tohoku_bootcamp/tree/2ac0403420d8d35fdf73970df8b2cf709142a48b/summer2023), we intend to cove Differential Equations and Dynamic Optimization, whereas the Computation can extend to cover techniques in MATLAB and econometrics with R. 
