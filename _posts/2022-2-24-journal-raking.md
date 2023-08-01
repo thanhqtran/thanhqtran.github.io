@@ -21,6 +21,8 @@ Aiming for the very top journals is what everybody does, but doing so may cost a
 
 [CNRS (French)](https://www.gate.cnrs.fr/spip.php?rubrique31&lang=en)
 
+[ABDC (Australia)](https://abdc.edu.au/abdc-journal-quality-list/)
+
 ## The General Online Rankings
 
 [Web of Science](https://jcr.clarivate.com/jcr/browse-journals)
