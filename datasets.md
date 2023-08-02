@@ -70,6 +70,7 @@ Datasets for Economic Growth and Development Analysis
 
 - [World Governance and Corruption Index](https://www.kaggle.com/datasets/cvengr/government-corruption-data-of-180-countries)
 
+- [Fragile State Index](https://fragilestatesindex.org/excel/)
 
 Sources: 
 
