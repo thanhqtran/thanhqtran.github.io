@@ -22,13 +22,13 @@ General guides:
   - Essential Mathematics for Economic Analysis (Sydsaeter, Hammond, Carvajal) -- covering algebra and very elementary subjects -- easy to read and a good start for those who are not so good at math.
   - Fundamental Methods of Mathematical Economics (Alpha Chiang) -- covering a wide range of topics in static optimization and matrix algebra (without dynamic optimization) with lots of useful formulae and exposition.
   - Elements of Dynamic Optimization (Alpha Chiang) -- covering well-explained Calculus of Variations and Optimal control theory (Dynamic Optimization).
-  - The Structure of Economics: A Mathematical Analysis (Eugene Silverberg). -- student-friendly with a lot of necessary derivations that often omitted in textbooks.
+  - The Structure of Economics: A Mathematical Analysis (Eugene Silverberg). -- student-friendly with a lot of necessary derivations that are often omitted in textbooks.
 - **Advanced**
   - Mathematics for Economists (Simon, Blume) -- the classic everyone should read and master.
   - Mathematical Methods and Models for Economists (Angel de la Fuente) -- a good addition to the previous one with more economic applications (models)
   - Further Mathematics for Economic Analysis (Sydsaeter, Hammond) -- More advanced topics in Differential Equations, Calculus of Variations, Optimal Control theory.
   - Mathematical Optimization and Economic Theory (Intrilligator) -- Feels like Simon & Blume's sister.
-  - Introduction to Mathematical Statistics (Hogg, McKean, Craig) -- saved me a lot in Statistics and Probability class (pre econometrics)
+  - Introduction to Mathematical Statistics (Hogg, McKean, Craig) -- saved me a lot in Statistics and Probability class (pre-econometrics)
 - **Proofs**
   - How to Prove It (Velleman)
   - How to read and do proofs: an introduction to mathematical thought processes (Solow)
@@ -40,10 +40,11 @@ General guides:
 ## Micro
 
 - Microeconomic Analysis (Hal Varian) -- extremely intuitive
+- A Course in Microeconomic Theory (Kreps)
 - Microeconomic Theory (Mas-Colell / Whinston / Green)
 - **Game Theory**
   - A Course on Game Theory (Osborne & Rubinstein)
-  - *Basics*: Games, Strategies, and Decision Making (Harrington) & Stratery (Watson)
+  - *Basics*: Games, Strategies, and Decision Making (Harrington) & Strategy (Watson)
   - *Advanced*: Game Theory: an introduction (Tadelis), Game Theory for Applied Economists (Gibbons), Strategy and Game Theory: Practice Exercises with Answers (Munoz-Garcia & Toro-Gonzalez)
 
 ## Macro
@@ -51,24 +52,24 @@ General guides:
 - **Transitional** (fast read and good build-up)
   - Advanced Macroeconomics: An Introduction for Undergraduates -- covering Hamiltonian, and basic Ramsey
   - Introduction to Economic Growth (C.I.Jones) -- Solow, Romer's and Jones' endogenous growth theory. The Math appendix is very helpful.
-  - Unified Growth Theory (Galor) -- good introduction to OLG and microfounded macro dynamics
+  - Unified Growth Theory (Galor) -- a good introduction to OLG and micro-founded macro dynamics
 
 - **Classics**
   - Economic Growth (Barro, Sala-i-Martin) -- people praised the appendix for a good reason. A lot of empirical evidence.
-  - Advanced Macroeconomics (Romer) -- not really "that" technical but the explanation is superb. Also accompanied by a solutions manual.
+  - Advanced Macroeconomics (Romer) -- not really "that" technical, but the explanation is superb. Also accompanied by a solutions manual.
   - Introduction to Modern Economic Growth (Acemoglu) -- quite technical with lots of proofs for a good reason. The book contains everything you need. There is one Solutions Manual by Peters and Simsek.
-  - Lectures on Macroeonomics (Blanchard, Fischer) -- I like the continous and discrete treatment of the OLG.
+  - Lectures on Macroeconomics (Blanchard, Fischer) -- I like the continuous and discrete treatment of the OLG.
   - Foundations of Modern Macroeconomics (Heijdra) -- literature survey with good explanations and comprehensive package. There is one companion book "Foundations of Modern Macroeconomics: Exercise & Solutions Manual"
   - Advanced Macroeconomics: An Easy Guide (Campante, Sturzenegger, Velasco) -- very much like Heijdra's
-  - Intertemporal Macroeconomics (Azariadis) -- lots of graphs and dynamical systems that give you the idea of how your model should look like.
+  - Intertemporal Macroeconomics (Azariadis) -- lots of graphs and dynamical systems that give you an idea of how your model should look like.
   - [Groth's Lecture Notes in Macroeconomics](https://web.econ.ku.dk/okocg/VM/VM-general/Material/Chapters-VM.htm)
 
 - **Subfield-focused**
   - RBC: The ABC of RBCs (McCandless), [Real Business Cycle Theory: A Semiparametric Approach (Kimball)](http://www-personal.umich.edu/~mkimball/Econ611/book-ec611-2004.pdf), [Groth's Lecture Notes in Macroeconomics (chapter 30)](https://web.econ.ku.dk/okocg/VM/VM-general/Kapitler%20til%20bog/Ch30-2016-1.pdf)
   - Discrete OLG: A Theory of Economic Growth: Dynamics and Policy in Overlapping Generations (de la Croix, Michel), Fertility, Education, Growth, and Sustainability (de la Croix), Growth and International Trade (Farmer), Intertemporal Resource Economics (Farmer)
-  - Continuous OLG: Dynamic Fiscal Policy (Auerbach & Kotlikoff), [Groth's Lecture Notes in macroeconomcis (chapter 12)](https://web.econ.ku.dk/okocg/VM/VM-general/Kapitler%20til%20bog/Ch12-2016-1.pdf)
-  - DSGE: Introduction to Dynamic Macroeocnomic General Equilibrium Models (Torres), Understanding DSGE models (Jose Costa), Dynamic General Equilibrium Modeling (Maussner)
-  - Open: Open Economy Macroeconomics (Uribe, Schmitt-Groh), International Macroeconomic Dynamics (Turnovsky), Foudations of International Economics (Obstfeld & Rogoff), Capital Accumulation and Economic Growth in Small Open Economy (Turnovsky)
+  - Continuous OLG: Dynamic Fiscal Policy (Auerbach & Kotlikoff), [Groth's Lecture Notes in macroeconomics (chapter 12)](https://web.econ.ku.dk/okocg/VM/VM-general/Kapitler%20til%20bog/Ch12-2016-1.pdf)
+  - DSGE: Introduction to Dynamic Macroeconomic General Equilibrium Models (Torres), Understanding DSGE models (Jose Costa), Dynamic General Equilibrium Modeling (Maussner)
+  - Open: Open Economy Macroeconomics (Uribe, Schmitt-Groh), International Macroeconomic Dynamics (Turnovsky), Foundations of International Economics (Obstfeld & Rogoff), Capital Accumulation and Economic Growth in Small Open Economy (Turnovsky)
   - Endogenous Growth: Endogenous Growth Theory (Aghion & Howitt), Human Capital (Becker)
   - Search: Equilibrium Unemployment Theory (Pissarides), Matching with Transfers (Chiappori)
   - Labor: Labor Economics (Cahuc & Zylberberg)
