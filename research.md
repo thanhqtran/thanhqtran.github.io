@@ -16,31 +16,16 @@ layout: page
 
 **1. Fertility, Innovation, and Technological Spillovers in An Endogenous Growth Model with Overlapping Generations**
 
-*Abstract:* Since the 1970s, Japan's skill premium has exhibited a U-shape relationship with capital stock or machines per worker, in contrast to some other developed countries. To investigate this puzzle, we build a two-sector Diamond-type Overlapping Generations Model (OLG) with endogenous R\&D-based growth, fertility, education, and skill differentials. The model highlights capital-complimentary technological change, spillover effects from the high-skilled sector to the low-skilled sector, and the quality of parents' education expenses. Our analysis shows that in Japan, since 1975, skill premium first declined due to an oversupply of high-skilled (university graduates) labor ratio, and the technology-capital stock was relatively low. However, as the technology-capital stock keeps increasing, skill premium is predicted to rise, while the ratio of high-skilled individuals can be stagnant in the future. Consistent with observed data, our calibration shows that fertility is expected to fall further so that parents can spend more on children's education and maintain their competitiveness. Counterfactual simulations imply that depending on the strength of the spillovers, different states of equilibrium are realized, with lower (higher) spillover being associated with lower (higher) growth and higher (lower) skill premiums.
+*Abstract:* Since the 1970s, Japan's skill premium has exhibited a U-shape relationship with capital stock per worker, in contrast to some countries. To investigate this puzzle, we build a two-sector Diamond-type Overlapping Generations Model (OLG) with endogenous R&D-based growth, fertility, education, and skill differentials. The model captures capital-complimentary technological change, spillover effects from the high-skilled to the low-skilled sector, and the quality of parents' education expenses. Our analysis shows that in Japan, since 1975, thanks to high spillover and a strong quantity-quality trade-off, skill premium declined mainly because of an oversupply of high-skilled worker ratio and a sufficiently high initial capital per high-skilled labor, which can be different from the US. However, as the technology-capital stock keeps increasing, skill premium is predicted to rise with technological progress, while the growth of the high-skilled ratio is slower in the future. Counterfactual simulations imply that depending on the strength of the spillovers, different states of equilibrium are realized, with lower (higher) spillover being associated with lower (higher) growth and higher (lower) skill premiums.
 
+**2. Employment Protection, Innovation, and Growth**
 
-**2. Aggregate Productivity Growth in Vietnam: The Gain From Trade.**
+**3. Aggregate Productivity Growth in Vietnam: The Gain From Trade.**
 
-Using the APO data and ADB's Input-Output Table recorded from 2007-2020 to identify and decompose Vietnamese Aggregate Productivity Growth (APG) into Technical Efficiency, Inputs Reallocation Efficiency and Trade Efficiency.
+Using the APO data and ADB's Input-Output Table recorded from 2007-2020, I identify and decompose Vietnamese Aggregate Productivity Growth (APG) into Technical Efficiency, Inputs Reallocation Efficiency, and Trade Efficiency. The goal is to see how much trade liberation contributes to economic growth. The prototype version (without trade) was implemented here: [[Rpub]](https://rpubs.com/thanhqtran/775009)
 
-## Fun Projects
-
-**1. Simple OLS to assess Chile's Inflation Targeting Policy**.  [[Github]](https://github.com/thanhqtran/chile-inflationtarget-ols)   [[Rpub]](https://rpubs.com/thanhqtran/723473)
-
-
-Using an OLS model to estimate the effectiveness of the policy on economic growth (result: 20% higher), Chilean data from 1980q1 to 2017q4.
-
-**2. APG Decomposition for Belgium**. [[Rpub]](https://rpubs.com/thanhqtran/775009)
-
-
-Using R to conduct an Aggregate Productivity Growth decomposition for Belgian economy, which shows productivity gains from inputs reallocation.
-
-**3. Genetic Algorith in Finance**. [[Github]](https://github.com/thanhqtran/finance-agents-GAlearning)
-
-
-A simulation code in Python to reproduce Lettau Martin (1997)'s model of a portfolio decision made by boundedly rational agents in the financial market. 
 
 ## Teaching
 
-Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/spring2023)
-Inseikai Summer Bootcamp 2023, Mathematics II [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/summer2023)
+- Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/spring2023)
+- Inseikai Summer Bootcamp 2023, Mathematics II [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/summer2023)
