@@ -68,8 +68,7 @@ Datasets for Economic Growth and Development Analysis
 
 - [Fertility Rates](https://data.world/oecd/fertility-rates)
 
-
-
+- [World Governance and Corruption Index](https://www.kaggle.com/datasets/cvengr/government-corruption-data-of-180-countries)
 
 
 Sources: 
