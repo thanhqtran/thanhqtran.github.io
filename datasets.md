@@ -78,7 +78,7 @@ Datasets for Economic Growth and Development Analysis
 
 - [Oxford Global Multidimensional Poverty Index](https://ophi.org.uk/multidimensional-poverty-index/data-tables-do-files/) -- all data in Table 8.
 
-Sources: 
+Sources:
 
 - <https://dash.harvard.edu/bitstream/handle/1/13576366/development_datasets.pdf?sequence=1&isAllowed=y>
 - <https://guides.library.cmu.edu/datasets>
