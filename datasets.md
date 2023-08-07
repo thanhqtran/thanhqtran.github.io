@@ -84,3 +84,4 @@ Sources:
 - <https://guides.library.cmu.edu/datasets>
 - <https://scholar.harvard.edu/bauhoff/datalinks.html>
 - <https://datahub.io/collections/economic-data>
+- <https://www.kaggle.com/datasets?tags=11205-Economics>
