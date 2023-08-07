@@ -74,6 +74,10 @@ Datasets for Economic Growth and Development Analysis
 
 - [Cross-National Equivalent File on Household Panel Surveys](https://www.pdrc.keio.ac.jp/en/paneldata/datasets/jhps-cnef/)
 
+- [Global poverty and inequality dataset](https://www.kaggle.com/datasets/utkarshx27/global-poverty-and-inequality-dataset?select=pip_dataset.csv)
+
+- [Oxford Global Multidimensional Poverty Index](https://ophi.org.uk/multidimensional-poverty-index/data-tables-do-files/) -- all data in Table 8.
+
 Sources: 
 
 - <https://dash.harvard.edu/bitstream/handle/1/13576366/development_datasets.pdf?sequence=1&isAllowed=y>
