@@ -108,6 +108,12 @@ Datasets for Economic Growth and Development Analysis.
 
 - [Data for developing countries](http://ipl.econ.duke.edu/dthomas/dev_data/index.html)
 
+- [Global Alcohol Consumption](https://www.kaggle.com/datasets/sansuthi/alcohol-consumption)
+
+- [International Cigarette Consumption Database](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/AOVUW7)
+
+- 
+
 Sources:
 
 - <https://dash.harvard.edu/bitstream/handle/1/13576366/development_datasets.pdf?sequence=1&isAllowed=y>
@@ -115,3 +121,5 @@ Sources:
 - <https://scholar.harvard.edu/bauhoff/datalinks.html>
 - <https://datahub.io/collections/economic-data>
 - <https://www.kaggle.com/datasets?tags=11205-Economics>
+- <https://github.com/fivethirtyeight/data>
+- <https://github.com/awesomedata/awesome-public-datasets>
