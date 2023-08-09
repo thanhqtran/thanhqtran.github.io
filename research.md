@@ -30,4 +30,4 @@ Using the APO data and ADB's Input-Output Table recorded from 2007-2020, I ident
 ## Teaching
 
 - Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/spring2023) -- [[Lecture Notes]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/main.pdf)
-- Inseikai Summer Bootcamp 2023, Mathematics II [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/summer2023) -- [[Lecture Notes]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/summer2023/math/main.pdf)
+- Inseikai Summer Bootcamp 2023, Mathematics II [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/summer2023) -- [[Lecture Notes]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/summer2023/math/summer_math.pdf)
