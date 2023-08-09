@@ -16,16 +16,18 @@ layout: page
 
 **1. Fertility, Innovation, and Technological Spillovers in An Endogenous Growth Model with Overlapping Generations**
 
-*Abstract:* Since the 1970s, Japan's skill premium has exhibited a U-shape relationship with capital stock per worker, in contrast to some countries. To investigate this puzzle, we build a two-sector Diamond-type Overlapping Generations Model (OLG) with endogenous R&D-based growth, fertility, education, and skill differentials. The model captures capital-complimentary technological change, spillover effects from the high-skilled to the low-skilled sector, and the quality of parents' education expenses. Our analysis shows that in Japan, since 1975, thanks to high spillover and a strong quantity-quality trade-off, skill premium declined mainly because of an oversupply of high-skilled worker ratio and a sufficiently high initial capital per high-skilled labor, which can be different from the US. However, as the technology-capital stock keeps increasing, skill premium is predicted to rise with technological progress, while the growth of the high-skilled ratio is slower in the future. Counterfactual simulations imply that depending on the strength of the spillovers, different states of equilibrium are realized, with lower (higher) spillover being associated with lower (higher) growth and higher (lower) skill premiums.
+*Abstract:* Since the 1970s, Japan's skill premium has exhibited a U-shape relationship with capital stock per worker, in contrast to some countries. To investigate this puzzle, we build a two-sector Diamond-type Overlapping Generations Model (OLG) with endogenous R&D-based growth, fertility, education, and skill differentials. The model captures capital-complimentary technological change, spillover effects from the high-skilled to the low-skilled sector, and the quality of parents' education expenses. Our analysis shows that in Japan, since 1975, skill premium has declined mainly due to an oversupply of high-skilled worker ratio and a strong quality-quantity trade-off enabled by a strong technological spillover effect. However, in the future, as the technology and capital stock keep increasing, skill premium is predicted to rise, while the growth in the high-skilled ratio is slower. Counterfactual simulations imply that depending on the strength of the spillovers, different states of equilibrium are realized, with lower (higher) spillover being associated with lower (higher) growth and higher (lower) skill premiums.
 
 **2. Employment Protection, Innovation, and Growth**
 
-**3. Aggregate Productivity Growth in Vietnam: The Gain From Trade.**
+**3. Parasite Singles in a Growth Model of Fertility, Education and Labor Choice**
+
+**4. Aggregate Productivity Growth in Vietnam: The Gain From Trade.**
 
 Using the APO data and ADB's Input-Output Table recorded from 2007-2020, I identify and decompose Vietnamese Aggregate Productivity Growth (APG) into Technical Efficiency, Inputs Reallocation Efficiency, and Trade Efficiency. The goal is to see how much trade liberation contributes to economic growth. The prototype version (without trade) was implemented here: [[Rpub]](https://rpubs.com/thanhqtran/775009)
 
 
 ## Teaching
 
-- Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/spring2023)
+- Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/spring2023) | [Lecture Notes](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/main.pdf)
 - Inseikai Summer Bootcamp 2023, Mathematics II [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/summer2023)
