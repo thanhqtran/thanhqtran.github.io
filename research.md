@@ -34,4 +34,6 @@ Using the APO data and ADB's Input-Output Table recorded from 2007-2020, I ident
 
 ## Misc.
 
-[Elsevier's Call for Papers](https://www.sciencedirect.com/browse/calls-for-papers?subject=economics-and-econometrics)
+- [Elsevier's Call for Papers](https://www.sciencedirect.com/browse/calls-for-papers?subject=economics-and-econometrics)
+- [Useful Links](https://thanhqtran.github.io/useful-links/)
+- [Economics Journal Ranking](https://thanhqtran.github.io/journal-raking/)
