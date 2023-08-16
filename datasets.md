@@ -73,6 +73,8 @@ Datasets for Economic Growth and Development Analysis.
 
 - [ILO Statistics on Women](https://ilostat.ilo.org/topics/women/#)
 
+- [World Values Survey (Social Capital)](https://www.worldvaluessurvey.org/AJDocumentation.jsp?CndWAVE=7&COUNTRY=)
+
 
 ## Energy & Environment
 
