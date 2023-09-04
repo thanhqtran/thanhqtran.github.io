@@ -90,6 +90,8 @@ Datasets for Economic Growth and Development Analysis.
 
 - [Natural Resource Revenue Dataset](https://www.resourcedata.org/dataset/natural-resource-revenue-dataset) + [Total natural resources rents](https://www.resourcedata.org/dataset/rgi-total-natural-resources-rents-of-gdp-)
 
+- [Air Pollution](https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database)
+
 
 ## Politics
 
