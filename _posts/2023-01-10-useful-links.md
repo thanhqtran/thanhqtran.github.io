@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Some Useful Links
+title: Useful Links
 published: true
 date: 2023-01-10
 categories: [Resource]
 tags: [tips]
 ---
 
-In case links may die in the future, download all available pdf files as soon as possible.
+- [Presentation](https://econ.lse.ac.uk/staff/spischke/phds/The%20Big%205.pdf)
+
+- Open-source grammar and style checker: [angryreviewer](https://www.angryreviewer.com/) (to use with Grammarly)
 
 - EconPhD Lecture notes: <http://econphd.econwiki.com/notes.htm>
   

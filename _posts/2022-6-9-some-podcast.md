@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Economics Podcasts
+title: Podcasts
 published: true
 date: 2022-06-09
 categories: [Resource]

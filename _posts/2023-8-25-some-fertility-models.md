@@ -3,7 +3,7 @@ layout: post
 title: Some Models of Fertility
 published: true
 date: 2023-8-25
-categories: [Paper Digest]
+categories: [Modeling]
 tags: [fertility]
 ---
 Summary from [THE ECONOMICS OF FERTILITY: A NEW ERA](https://www.nber.org/system/files/working_papers/w29948/w29948.pdf)

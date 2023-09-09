@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Ranking of Journals in Economics
+title: Rankings 
 published: true
 date: 2022-02-24
-categories: [Guide]
+categories: [Resource]
 tags: [ranking]
 ---
 
-Aiming for the very top journals is what everybody does, but doing so may cost a lot of time and opportunities. On the other hand, you also don't want to sell short your hard-working papers. A graduate student should consider submitting papers only to the journals listed in these rankings.
 
 ## The Specialized Online Rankings
 
@@ -35,19 +34,18 @@ Aiming for the very top journals is what everybody does, but doing so may cost a
 
 [Ritzberger, K. (2008). A ranking of journals in economics and related fields. German Economic Review, 9(4), 402-430.](http://www.ritsumei.ac.jp/~y-gokan/Ranking.pdf)
 
-See the list of Recommended Journals on p. 143. 
+The list of Recommended Journals on p. 143. 
 
 [Barrett, C. B., Olia, A., & Bailey, D. V. (2000). Subdiscipline-specific journal rankings: whither Applied Economics?. Applied Economics, 32(2), 239-252.](https://www.tandfonline.com/doi/pdf/10.1080/000368400322921?needAccess=true)
 
-See the top 10 journals for each subfield of Economics on p. 242.
+The top 10 journals for each subfield of Economics on p. 242.
 
 [Engemann, K. M., & Wall, H. J. (2009). A journal ranking for the ambitious economist. Federal Reserve Bank of St. Louis Review, 91(3), 127-139.](https://files.stlouisfed.org/files/htdocs/publications/review/09/05/Engemann.pdf)
 
-See the "ambitious" list on p. 134
+The "ambitious" list on p. 134
 
 [Combes, P. P., & Linnemer, L. (2010). Inferring missing citations: A quantitative multi-criteria ranking of all journals in economics.](https://halshs.archives-ouvertes.fr/halshs-00520325/document)
 
-One of the most comprehensive lists, with grand field and subfield lists.
 
 **Other rankings**:
 
