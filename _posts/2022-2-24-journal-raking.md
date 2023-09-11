@@ -7,6 +7,7 @@ categories: [Resource]
 tags: [ranking]
 ---
 
+A collection of ranking sources.
 
 ## The Specialized Online Rankings
 
