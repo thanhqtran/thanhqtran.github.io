@@ -77,7 +77,7 @@ Literature:
 
 ## Marketization of Childcare
 
-Instead of providing childcare on their won, a couple can buy this on the market with price $p_s$. The share of childcare a couple can buy is $s\in[0,\bar{s}]$ where $\bar{s}$ is the maximum amount of childcare that can be outsourced. The couple's problem is
+Instead of providing childcare on their own, a couple can buy this on the market at price $p_s$. The share of childcare a couple can buy is $s\in[0,\bar{s}]$ where $\bar{s}$ is the maximum amount of childcare that can be outsourced. The couple's problem is
 
 $$
     \max_{c,n,s} \log(c) + \delta \log(n)
