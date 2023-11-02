@@ -19,7 +19,7 @@ A collection of ranking sources.
 
 [Google Scholar](https://scholar.google.co.jp/citations?view_op=top_venues&hl=en&vq=bus_economics)
 
-[CNRS (French)](https://www.gate.cnrs.fr/spip.php?rubrique31&lang=en)
+[CNRS (French)](https://www.gate.cnrs.fr/research/journal-rankings/)
 
 [ABDC (Australia)](https://abdc.edu.au/abdc-journal-quality-list/)
 
