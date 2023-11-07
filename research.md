@@ -29,7 +29,7 @@ Using the APO data and ADB's Input-Output Table recorded from 2007-2020, I ident
 
 ## Activities
 
-- Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/spring2023) -- [[Lecture Notes]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/main.pdf)
+- Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/spring2023) -- [[Lecture Notes]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/spring_math.pdf)
 - Inseikai Summer Bootcamp 2023, Mathematics II [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/summer2023) -- [[Lecture Notes]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/summer2023/math/summer_math.pdf)
 
 ## Links
@@ -40,4 +40,4 @@ Using the APO data and ADB's Input-Output Table recorded from 2007-2020, I ident
 - [IRIS Macroeconomic Modeling Toolbox](https://iris.igpmn.org/docs/)
 - [Macroeconomic Model Data Base](https://www.macromodelbase.com/)
 - [QuantEcon](https://quantecon.org/projects/#filter=lecture)
-- [Value Function Iteration Toolkit](https://github.com/vfitoolkit/VFIToolkit-matlab)
+- [Value Function Iteration Toolkit](https://github.com/vfitoolkit/VFIToolkit-matlab) 
