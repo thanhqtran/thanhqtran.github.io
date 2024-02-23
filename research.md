@@ -4,7 +4,7 @@ permalink: /research/
 layout: page
 ---
 
-## Published Papers
+## Publication
 
 **1. The Aging Tax on Potential Growth in Asia (2022)**. Journal of Asian Economics, Vol. 81, p.101495. [doi.org/10.1016/j.asieco.2022.101495](https://doi.org/10.1016/j.asieco.2022.101495)
 
@@ -12,19 +12,13 @@ layout: page
 
 [View Working Paper version.](https://docs.google.com/viewer?url=https://www2.econ.tohoku.ac.jp/~PDesign/dp/TUPD-2022-002.pdf)
 
-<!-- ## Working Papers
+ ## Working Papers
 
-**1. Fertility, Innovation, and Technological Spillovers in An Endogenous Growth Model with Overlapping Generations**
+**1. Fertility, Innovation, and Skill Premium in An Endogenous Growth Model with Technological Spillover**
 
-*Abstract:* With technology and capital accumulation, skill premium has been expected to rise monotonically over time. However, since the late 1970s, Japan's skill premium has exhibited a U-shaped relationship with capital stock per worker. To investigate this puzzle, we build a two-sector Diamond-type overlapping generations (OLG) model with endogenous R\&D-based growth, fertility, education, and skill differentials. The model highlights capital-complimentary technological change, spillover effects from the high-skilled to the low-skilled sector, and the quality of parents' education expenses. Our analysis shows that the skill premium can decrease due to an oversupply of high-skilled workers thanks to a strong child quantity-quality tradeoff enabled by a substantially strong technological spillover effect. However, as the technology and capital stock accumulate, and the high-skilled worker ratio (university advancement rate) stays relatively constant, the skill premium is likely to rise again, thus forming a U-shaped curve. The model's simulations are consistent with Japanese data since 1975. Counterfactual exercises further reveal the importance of spillovers on the steady states of skill premium and capital stock. -->
+*Abstract:* Recent years have witnessed a sharp rise in robot stock and industrial patents, in contrast to the reduction in fertility in many countries. To properly investigate these developments in the long run, we build a two-sector Diamond-type Overlapping Generations Model (OLG) with endogenous R\&D growth, fertility, and education. The innovation in our paper is the inclusion of education quality and spillover effects from the high-skilled to the low-skilled sector. The model predicts that reduced fertility is inevitable because parents must race with machines regarding education expenses; skill premiums will likely rise, while the ratio of the truly high-skilled population may decline. We further perform the simulations for the Japanese economy since the boom of industrial robots (1975) and see that the model dynamics are consistent with actual data. Furthermore, depending on the strength of the spillovers, different states of equilibrium are realized, with high or low growth and high or low skill premium economies. As a result, the model provides several insights into understanding and predicting the complex dynamics of demographics, labor skills, and technological progress in the future. -->
 
-<!-- **2. Employment Protection, Innovation, and Growth**
-
-**3. Parasite Singles in a Growth Model of Fertility, Education and Labor Choice**
-
-**4. Aggregate Productivity Growth in Vietnam: The Gain From Trade.**
-
-Using the APO data and ADB's Input-Output Table recorded from 2007-2020, I identify and decompose Vietnamese Aggregate Productivity Growth (APG) into Technical Efficiency, Inputs Reallocation Efficiency, and Trade Efficiency. The goal is to see how much trade liberation contributes to economic growth. The prototype version (without trade) was implemented here: [[Rpub]](https://rpubs.com/thanhqtran/775009) -->
+**2. Sandwich Caregivers, Employment, and Elderly Care in a Fertility Declining Society**
 
 
 ## Activities
