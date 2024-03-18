@@ -29,7 +29,7 @@ A collection of ranking sources.
 
 [Scimagojr](https://www.scimagojr.com/journalrank.php?category=2002&area=2000)
 
-[Scopus](https://www.scopus.com/sources.uri)
+[Scopus](https://www.scopus.com/sourceid/29431?origin=sourceInfo&zone=refpointrank#tabs=1)
 
 ## The Papers that do the Rankings
 
