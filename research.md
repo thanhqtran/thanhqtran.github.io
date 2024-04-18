@@ -12,7 +12,7 @@ layout: page
 
 [View Working Paper version.](https://docs.google.com/viewer?url=https://www2.econ.tohoku.ac.jp/~PDesign/dp/TUPD-2022-002.pdf)
 
-## Working
+## Working Papers
 
 **1. Fertility, Innovation, and Skill Premium in An Endogenous Growth Model with Technological Spillover**
 
