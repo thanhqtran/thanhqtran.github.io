@@ -1,12 +1,27 @@
 ---
-title: Datasets
-permalink: /datasets/
+title: Misc
+permalink: /misc/
 layout: page
 ---
 
-Datasets for Economic Growth and Development Analysis.
+## Activities
 
-## Macro
+- Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/spring2023) -- [[Lecture Notes]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/spring_math.pdf)
+- Inseikai Summer Bootcamp 2023, Mathematics II [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/summer2023) -- [[Lecture Notes]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/summer2023/math/summer_math.pdf)
+
+## Links
+
+- [Useful Links](https://thanhqtran.github.io/useful-links/)
+- [Dynare Forum](https://forum.dynare.org/)
+- [EconArk](https://econ-ark.org/toolkit)
+- [IRIS Macroeconomic Modeling Toolbox](https://iris.igpmn.org/docs/)
+- [Macroeconomic Model Data Base](https://www.macromodelbase.com/)
+- [QuantEcon](https://quantecon.org/projects/#filter=lecture)
+- [Value Function Iteration Toolkit](https://github.com/vfitoolkit/VFIToolkit-matlab) 
+
+## Data Sources
+
+### Macro
 
 - [Penn World Table](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
 
@@ -25,7 +40,7 @@ Datasets for Economic Growth and Development Analysis.
 - [Cross-National Equivalent File on Household Panel Surveys](https://www.pdrc.keio.ac.jp/en/paneldata/datasets/jhps-cnef/)
 
 
-## Trade
+### Trade
 
 - [ADB Input-Output Table](https://data.adb.org/search/content/tags/211)
 
@@ -40,7 +55,7 @@ Datasets for Economic Growth and Development Analysis.
 - [World Input-Output Database](https://www.rug.nl/ggdc/valuechain/wiod/)
 
 
-## Finance
+### Finance
 
 - [National Transfer Accounts (NTA)](https://ntaccounts.org/web/nta/show/Browse%20database#H-zfl0oo)
 
@@ -51,7 +66,7 @@ Datasets for Economic Growth and Development Analysis.
 - [Financial Access and Usage](https://www.kaggle.com/datasets/thedevastator/financial-access-and-usage-data-2004-2016)
 
 
-## Human Capital & Labor
+### Human Capital & Labor
 
 - [Barro-Lee Educational Attainment Dataset](<http://www.barrolee.com/>)
 
@@ -76,7 +91,7 @@ Datasets for Economic Growth and Development Analysis.
 - [World Values Survey (Social Capital)](https://www.worldvaluessurvey.org/AJDocumentation.jsp?CndWAVE=7&COUNTRY=)
 
 
-## Energy & Environment
+### Energy & Environment
 
 - [BIS Financial Database](https://www.bis.org/statistics/full_data_sets.htm)
 
@@ -93,7 +108,7 @@ Datasets for Economic Growth and Development Analysis.
 - [Air Pollution](https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database)
 
 
-## Politics
+### Politics
 
 - [Economic Freedom](https://www.kaggle.com/datasets/gsutters/economic-freedom)
 
@@ -108,7 +123,7 @@ Datasets for Economic Growth and Development Analysis.
 - [Fragile State Index](https://fragilestatesindex.org/excel/)
 
 
-## Misc.
+### Misc.
 
 - [Data for developing countries](http://ipl.econ.duke.edu/dthomas/dev_data/index.html)
 
