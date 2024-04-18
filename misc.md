@@ -9,7 +9,7 @@ layout: page
 - Inseikai Spring Bootcamp 2023, Mathematics I [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/spring2023) -- [[Lecture Notes]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/spring2023/math/spring_math.pdf)
 - Inseikai Summer Bootcamp 2023, Mathematics II [[course link]](https://github.com/thanhqtran/tohoku_bootcamp/tree/main/summer2023) -- [[Lecture Notes]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/thanhqtran/tohoku_bootcamp/main/summer2023/math/summer_math.pdf)
 
-## Links
+## Useful Links
 
 - [Useful Links](https://thanhqtran.github.io/useful-links/)
 - [Dynare Forum](https://forum.dynare.org/)
