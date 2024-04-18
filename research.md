@@ -14,6 +14,6 @@ layout: page
 
 ## Working Papers
 
-**1. Fertility, Innovation, and Skill Premium in An Endogenous Growth Model with Technological Spillover**
+1. Fertility, Innovation, and Skill Premium in An Endogenous Growth Model with Technological Spillover
 
-**2. Sandwich Caregivers, Employment, and Elderly Care in a Fertility Declining Society**
+2. Sandwich Caregivers, Employment, and Elderly Care in a Fertility Declining Society
