@@ -9,11 +9,15 @@ tags: [ranking]
 
 A collection of ranking sources.
 
-## The Specialized Online Rankings
+## By RePec
 
 [IDEAS/RePEc Aggregate Rankings for Journals](https://ideas.repec.org/top/top.journals.all.html)
 
 [IDEAS/RePEc Simple Impact Factors for Journals](https://ideas.repec.org/top/old/0702/top.journals.simple.html)
+
+[Repec Citec](https://citec.repec.org/s/2023/)
+
+## Online Rankings
 
 [EconPhd](http://econphd.econwiki.com/journals/jmacro.htm)
 
