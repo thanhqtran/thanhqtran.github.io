@@ -7,7 +7,7 @@ layout: page
 
 ## Boot Camp Instructor, Tohoku University
 
-This intensive boot camp is organized by the Graduate Student Association. The target participants are advanced undergraduate and first-year graduate students. [URL](https://thanhqtran.github.io/tohoku_bootcamp/) [Github](https://github.com/thanhqtran/tohoku_bootcamp).
+This intensive boot camp is organized by the Graduate Student Association. The target participants are advanced undergraduate and first-year graduate students. [[URL]](https://thanhqtran.github.io/tohoku_bootcamp/). [[Github]](https://github.com/thanhqtran/tohoku_bootcamp).
 
 - Mathematics for Economist I. Period: March 06 – March 24, 2023. (English, 45 hours in total).
 - Mathematics for Economist II. Period: August 28 – September 15, 2023. (English, 30 hours in total).
