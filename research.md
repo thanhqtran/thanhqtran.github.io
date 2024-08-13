@@ -10,7 +10,7 @@ layout: page
 
 ## Working Papers
 
-1. Sandwich Caregivers, Elderly Care, and Employment in an OLG Model with Endogenous Fertility. [[Working Paper]](https://github.com/thanhqtran/working_papers/blob/97b592defa557e5aa53583251c342d10c5f31757/QTTran_Elderly.pdf)
+1. Sandwich Caregivers, Elderly Care, and Employment in an OLG Model with Endogenous Fertility. [[Working Paper]](https://docs.google.com/viewer?url=https://github.com/thanhqtran/working_papers/blob/97b592defa557e5aa53583251c342d10c5f31757/QTTran_Elderly.pdf)
 
 ## Work in Progress
 
