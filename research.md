@@ -6,7 +6,7 @@ layout: page
 
 ## Publications
 
-1. The Aging Tax on Potential Growth in Asia (2022). Journal of Asian Economics, Vol. 81, p.101495. [[Paper]](https://doi.org/10.1016/j.asieco.2022.101495). [[PDF]](https://www2.econ.tohoku.ac.jp/~PDesign/dp/TUPD-2022-002.pdf)
+1. The Aging Tax on Potential Growth in Asia (2022). Journal of Asian Economics, Vol. 81, p.101495. [[Paper]](https://doi.org/10.1016/j.asieco.2022.101495). [[Working Paper]](https://www2.econ.tohoku.ac.jp/~PDesign/dp/TUPD-2022-002.pdf)
 
 ## Working Papers
 
