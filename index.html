@@ -2,57 +2,33 @@
 layout: default
 ---
   
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Two Column Layout</title>
+<!doctype html>
+<html>
+  <head>
     <style>
-        .container {
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
-            align-items: flex-start;
-        }
-
-        .left-column {
-            flex: 1;
-            padding: 10px;
-        }
-
-        .right-column {
-            flex: 1;
-            padding: 10px;
-        }
-
-        .left-column img {
-            max-width: 100%;
-            height: auto;
-        }
-
-        /* For smaller screens */
-        @media (max-width: 768px) {
-            .container {
-                flex-direction: column;
-                align-items: center;
-            }
-        }
+      .image-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: left;
+        margin-top: 20px;
+        /* Add some space between the content and images */
+      }
+  
+      .image-row img {
+        max-width: 30%;
+        height: auto;
+      }
     </style>
-</head>
-<body>
-    <div class="container">
-        <div class="left-column">
-            <img src="https://github.com/thanhqtran/thanhqtran.github.io/blob/92cdc32381a670fe577c32bbce02b56cff82f70e/avatar.JPG" alt="Profile Picture">
-        </div>
-        <div class="right-column">
-            <p>I am a PhD candidate in Macroeconomics at Tohoku University. I have broad research interests in demography, macroeconomic growth, and life cycle.</p>
-            <p>I am currently employed as a JSPS DC2 Research Fellow.</p>
-        </div>
-    </div>
-</body>
+  </head>
 
-<body>
+  <body>
+
+    <h2>About</h2>
+
+    <p>I am a PhD candidate in Macroeconomics at Tohoku University. I have broad research interests in demography, macroeconomic growth, and life cycle.</p>
+    
+    <p>I am currently employed as a JSPS DC2 Research Fellow. </p>
+
     
     <h2>Contact</h2>
 
