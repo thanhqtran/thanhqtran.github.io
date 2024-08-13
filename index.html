@@ -2,33 +2,57 @@
 layout: default
 ---
   
-<!doctype html>
-<html>
-  <head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Column Layout</title>
     <style>
-      .image-row {
-        display: flex;
-        justify-content: space-between;
-        align-items: left;
-        margin-top: 20px;
-        /* Add some space between the content and images */
-      }
-  
-      .image-row img {
-        max-width: 15%;
-        height: auto;
-      }
+        .container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: flex-start;
+        }
+
+        .left-column {
+            flex: 1;
+            padding: 10px;
+        }
+
+        .right-column {
+            flex: 1;
+            padding: 10px;
+        }
+
+        .left-column img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* For smaller screens */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
     </style>
-  </head>
+</head>
+<body>
+    <div class="container">
+        <div class="left-column">
+            <img src="https://avatars3.githubusercontent.com/u/66583019?s=400&v=4" alt="Profile Picture">
+        </div>
+        <div class="right-column">
+            <p>I am a PhD candidate in Macroeconomics at Tohoku University. I have broad research interests in demography, macroeconomic growth, and life cycle.</p>
+            <p>I am currently employed as a JSPS DC2 Research Fellow.</p>
+        </div>
+    </div>
+</body>
 
-  <body>
-
-    <h2>About</h2>
-
-    <p>I am a PhD candidate in Macroeconomics at Tohoku University. I have broad research interests in demography, macroeconomic growth, and life cycle.</p>
-    
-    <p>I am currently employed as a JSPS DC2 Research Fellow. </p>
-
+<body>
     
     <h2>Contact</h2>
 
