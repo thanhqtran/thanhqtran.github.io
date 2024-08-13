@@ -10,10 +10,14 @@ layout: page
 
 ## Working Papers
 
-1. Fertility, Innovation, and Skill Premium in An Endogenous Growth Model with Technological Spillover
+1. Sandwich Caregivers, Elderly Care, and Employment in an OLG Model with Endogenous Fertility. [[Working Paper]](https://github.com/thanhqtran/working_papers/blob/97b592defa557e5aa53583251c342d10c5f31757/QTTran_Elderly.pdf)
 
-2. Sandwich Caregivers, Employment, and Elderly Care in a Fertility Declining Society
+## Work in Progress
+
+1. Declining Fertility and R\&D-based Growth: The Role of Higher Education
+2. Technology, Childlessness, and Involuntary Unemployment.
+
 
 ## Conferences
 
-Japanese Economic Association Spring Meeting (May 29, 2022, Yokohama). The 1st RCPD Research Seminar on Contemporary Economics (Tohoku University, 2022). ISER Seminar Series (Osaka University, 2023) .The 14th Vietnam Economist Annual Meeting (University of DaNang, 2023). Japanese Economic Association Fall Meeting (Kansai University, 2023). The 18th Macroeconomics Conference for Young Economists (Kyoto University, 2024). Joint workshop TU Research Center for Policy Design and Sophia Institute for Human Security (Tohoku University, 2024)
+Japanese Economic Association Spring Meeting (May 29, 2022, Yokohama). The 1st RCPD Research Seminar on Contemporary Economics (Tohoku University, 2022). ISER Seminar Series (Osaka University, 2023) .The 14th Vietnam Economist Annual Meeting (University of DaNang, 2023). Japanese Economic Association Fall Meeting (Kansai University, 2023). The 18th Macroeconomics Conference for Young Economists (Kyoto University, 2024). Joint workshop TU Research Center for Policy Design and Sophia Institute for Human Security (Tohoku University, 2024).
