@@ -14,7 +14,7 @@ Population aging is becoming a prominent issue in Asia, especially for developin
 
 ## Working Papers
 
-1. Sandwich Caregivers, Elderly Care, and Employment in an OLG Model with Endogenous Fertility. [[Working Paper PDF]](https://www.dropbox.com/scl/fi/oedtfi87anfxb4vq4xtaz/QTTran_Elderly_Sandwichcare.pdf?rlkey=10bdtrl054inblmmw1gxytqtb&st=urbm8c55&dl=0)
+1. Sandwich Caregivers, Elderly Care, and Employment in an OLG Model with Endogenous Fertility. [[Working Paper PDF]](https://www.dropbox.com/scl/fi/xr9qr05jw0df2fhd4kzsd/QTTran_Elderly.pdf?rlkey=vte4fo80110uaaqci1b3pxlgz&st=9tso0mo2&dl=0)
 <details> 
 <summary>Abstract</summary>
 "Sandwich caregivers" are defined as adults who must care for their dependent parents and children simultaneously. In this paper, we consider an overlapping generations model to study the consequences of such a double burden on their decisions on fertility and career (type of employment). In a fertility-declining environment, subsequent generations face a heavier care burden since they have fewer siblings to share. We show that if the pressure of elderly care on a young worker's time is sufficiently large, more workers will resort to taking nonregular jobs. Furthermore, a sufficiently high upskilling time cost (due to increased studying and training requirements) can prevent the economy from achieving a full regular employment ratio in the long run, regardless of the initial value of the capital stock. We then extend the model to analyze the case when a government elderly care support program is in place. A numerical simulation shows that such a policy can have a positive welfare effect and improve the full-time employment capability of the economy.
