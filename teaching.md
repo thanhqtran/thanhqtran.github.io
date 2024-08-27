@@ -12,7 +12,7 @@ This intensive boot camp is organized by the Graduate Student Association. The t
 - Mathematics for Economist I. Period: March 06 – March 24, 2023. (English, 45 hours in total).
 - Mathematics for Economist II. Period: August 28 – September 15, 2023. (English, 30 hours in total).
 - Mathematical Macroeconomics. Period: March 04 – March 08, 2024. (English, 20 hours in total).
-- Computational Macroeconomics. Period: August 26 – August 30, 2024. (English, 20 hours in total).
+- Computational Macroeconomics. Period: September 02 – September 06, 2024. (English, 20 hours in total).
 
 ## Teaching Assistant, Tohoku University
 
