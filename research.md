@@ -26,6 +26,8 @@ Population aging is becoming a prominent issue in Asia, especially for developin
 In this paper, we examine the relationship between declining birth rates and economic growth in an overlapping generations framework with endogenous fertility, tertiary education choices, and R\&D activities. As technology expands, it increases the returns to education and motivates individuals to obtain a higher education degree. However, suppose the childrearing opportunity cost is sufficiently high, and the entry to higher education is sufficiently loose. In that case, an oversupply of tertiary education takers with subreplacement fertility can lead the economy to a state of prolonged stagnation or population decline. In both cases, there is no technological progress, but the former can maintain a fixed population size and welfare level, while the latter experiences an asymptotically empty population and a persistent decrease in welfare. We find that a policy intervention that restricts admission to tertiary education could fix the long-run trajectory and secure a balanced growth path for future generations. However, implementing such a policy requires careful consideration due to the potential loss in welfare it may impose on current generations.
 </details>
 
+(3) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. 
+
 ## Work in Progress
 
 - Technology, Childlessness, and Involuntary Unemployment.
