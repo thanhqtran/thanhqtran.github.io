@@ -19,6 +19,7 @@ layout: page
 ## Work in Progress
 
 (1) Technology, Childlessness, and Involuntary Unemployment.
+
 (2) Intergenerational Responsibilities: The Impacts of Elderly and Childcare in Family Structures
 
 
