@@ -12,9 +12,9 @@ layout: page
 
 (1) Sandwich Caregivers, Elderly Care, and Employment in an OLG Model with Endogenous Fertility. [[PDF]](https://www.dropbox.com/scl/fi/xr9qr05jw0df2fhd4kzsd/QTTran_Elderly.pdf?rlkey=vte4fo80110uaaqci1b3pxlgz&st=9tso0mo2&dl=0)
 
-(2) Declining Fertility and R\&D-based Growth: The Role of Higher Education. [[PDF]](https://www.dropbox.com/scl/fi/51b1sug5wckaqk639zyj7/QTTran_DeclineFertility_RD.pdf?rlkey=z3oi7rjrfy5mgm96hc98mkjw5&st=bo6uqwol&dl=0)
+(2) Declining Fertility and R&D-based Growth: The Role of Higher Education. [[PDF]](https://www.dropbox.com/scl/fi/51b1sug5wckaqk639zyj7/QTTran_DeclineFertility_RD.pdf?rlkey=z3oi7rjrfy5mgm96hc98mkjw5&st=bo6uqwol&dl=0)
 
-(3) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. [[PDF (coming soon)]]
+(3) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. [[PDF]](https://www.dropbox.com/scl/fi/c7w4scqzodthxsgzu8dn5/Kitagawa_Tran_contractionOLG.pdf?rlkey=r0hn2t7rv826im7uqszu58vft&st=9o4d7b4z&dl=0)
 
 ## Work in Progress
 
