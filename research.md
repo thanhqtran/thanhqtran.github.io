@@ -27,7 +27,3 @@ layout: page
 ### Past Presentations
 
 Japanese Economic Association Spring Meeting (May 29, 2022, Yokohama). The 1st RCPD Research Seminar on Contemporary Economics (Tohoku University, 2022). ISER Seminar Series (Osaka University, 2023) .The 14th Vietnam Economist Annual Meeting (University of DaNang, 2023). Japanese Economic Association Fall Meeting (Kansai University, 2023). The 18th Macroeconomics Conference for Young Economists (Kyoto University, 2024). Joint workshop TU Research Center for Policy Design and Sophia Institute for Human Security (Tohoku University, 2024).
-
-### Upcoming
-- [15th Vietnam Economist Annual Meeting](https://veam.org/), Eastern International University, Binh Duong. December 05-06, 2024
-- [Asian and Australasian Society of Labour Economics 2024 Conference](https://www.aasle.org/), Chulalongkorn University, Bangkok. December 12 - 14, 2024.
