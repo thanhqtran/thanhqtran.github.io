@@ -10,17 +10,18 @@ layout: page
 
 ## Working Papers
 
-(1) Double Caregivers, Elderly Care, and Employment in an OLG Model with Endogenous Fertility. [[PDF]](https://www.dropbox.com/scl/fi/xr9qr05jw0df2fhd4kzsd/QTTran_Elderly.pdf?rlkey=vte4fo80110uaaqci1b3pxlgz&st=9tso0mo2&dl=0)
+(1) Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers. [[PDF]](https://www.dropbox.com/scl/fi/xr9qr05jw0df2fhd4kzsd/QTTran_Elderly.pdf?rlkey=vte4fo80110uaaqci1b3pxlgz&st=9tso0mo2&dl=0)
 
-(2) Declining Fertility and R&D-based Growth: The Role of Higher Education. 
+(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. 
 
-(3) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. 
+(3) Dual Caregiving and Survival of the Economy.
+
+(4) Fertility and R&D-based Growth: The Role of Higher Education. 
+
 
 ## Work in Progress
 
 (1) Technology, Childlessness, and Involuntary Unemployment.
-
-(2) Intergenerational Responsibilities: The Impacts of Elderly and Childcare in Family Structures
 
 
 ## Conferences
