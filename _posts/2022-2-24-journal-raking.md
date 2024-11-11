@@ -27,6 +27,8 @@ A collection of ranking sources.
 
 [ABDC (Australia)](https://abdc.edu.au/abdc-journal-quality-list/)
 
+[JUFO (Finland)](https://jfp.csc.fi/jufoportal)
+
 ## The General Online Rankings
 
 [Web of Science](https://jcr.clarivate.com/jcr/browse-journals)
