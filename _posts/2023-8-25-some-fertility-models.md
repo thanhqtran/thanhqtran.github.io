@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Models of Fertility
+title: Notes on Models with Endogenous Fertility
 published: true
 date: 2023-8-25
 categories: [Modeling]
