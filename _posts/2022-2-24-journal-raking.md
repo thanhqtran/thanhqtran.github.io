@@ -7,6 +7,7 @@ categories: [Resource]
 tags: [ranking]
 ---
 
+Here are some quick links to reliable rankings of economics journals.
 
 ## By RePec
 
