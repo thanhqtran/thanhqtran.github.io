@@ -7,6 +7,8 @@ categories: [Resource]
 tags: [tips]
 ---
 
+Some useful links and lecture notes I collected on the internet.
+
 - [Presentation](https://econ.lse.ac.uk/staff/spischke/phds/The%20Big%205.pdf)
 
 - Open-source grammar and style checker: [angryreviewer](https://www.angryreviewer.com/) (to use with Grammarly)
