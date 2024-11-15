@@ -10,9 +10,9 @@ layout: page
 
 ## Working Papers
 
-(1) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. 
+(1) Dual Caregiving and Survival of the Economy. 
 
-(2) Dual Caregiving and Survival of the Economy.
+(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. 
 
 (3) Fertility and R&D-based Growth: The Role of Higher Education. 
 
