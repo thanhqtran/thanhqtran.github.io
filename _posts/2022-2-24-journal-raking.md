@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Rankings 
+title: Notes on Journal Rankings 
 published: true
 date: 2022-02-24
 categories: [Resource]
 tags: [ranking]
 ---
 
-A collection of ranking sources.
 
 ## By RePec
 
