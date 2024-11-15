@@ -1,22 +1,31 @@
 ---
 layout: default
 ---
-  
+
 <!doctype html>
 <html>
   <head>
     <style>
-      .image-row {
+      .about-section {
         display: flex;
-        justify-content: space-between;
-        align-items: left;
         margin-top: 20px;
-        /* Add some space between the content and images */
       }
-  
-      .image-row img {
-        max-width: 70%;
-        height: auto;
+
+      .headshot-column {
+        flex: 1; /* Headshot takes 1 part of the total space */
+        display: flex;
+        justify-content: center; /* Center the headshot */
+        align-items: center; /* Vertically center the headshot */
+      }
+
+      .headshot-column img {
+        max-width: 100%; /* Ensure it doesn't overflow */
+        border-radius: 50%; /* Circular headshot */
+      }
+
+      .text-column {
+        flex: 2; /* Text takes 2 parts of the total space */
+        padding-left: 20px; /* Add some space between columns */
       }
     </style>
   </head>
@@ -25,16 +34,24 @@ layout: default
 
     <h2>About</h2>
 
-    <p>I am a PhD candidate in Macroeconomics at Tohoku University with JSPS DC2 Fellowship. I have broad research interests in demography, macroeconomic growth, and life cycle.</p>
+    <div class="about-section">
+      <!-- Headshot Column -->
+      <div class="headshot-column">
+        <img src="headshot.jpg" alt="Your Headshot">
+      </div>
+      
+      <!-- Text Column -->
+      <div class="text-column">
+        <p>I am a PhD candidate in macroeconomics at Tohoku University with a JSPS DC2 Fellowship.</p>
+        <p>I am on the 2024-2025 job market.</p>
+        <p>My research interests include demography, economic growth, and life cycle.</p>
+      </div>
+    </div>
 
-    
     <h2>Contact</h2>
 
     <p><a href="https://researchmap.jp/tranquangthanh">researchmap</a></p>
-
-    You can contact me by email at [tran.quang.thanh.p1@dc.tohoku.ac.jp]
-
+    <p>You can contact me by email at [tran.quang.thanh.p1@dc.tohoku.ac.jp]</p>
 
   </body>
-
 </html>
