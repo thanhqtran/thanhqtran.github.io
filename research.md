@@ -12,9 +12,9 @@ layout: page
 
 (1) Dual Caregiving and Survival of the Economy. (JMP) [[PDF]](https://www.dropbox.com/scl/fi/s00pcg0017vtyeb364hlc/main_dualcare-copy.pdf?rlkey=koecpcdaoeroijigjm5x4dtzv&st=ep1322kr&dl=0)
 
-(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. [*PDF available upon request*]
+(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy.
 
-(3) Fertility and R&D-based Growth: The Role of Higher Education. [*PDF available upon request*]
+(3) Fertility and R&D-based Growth: The Role of Higher Education.
 
 
 ## Work in Progress
