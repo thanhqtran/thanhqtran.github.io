@@ -21,7 +21,7 @@ layout: page
 
 (1) Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers.
 
-(2) The Impact of Air Pollution on Child Growth in Myanmar: Insights from the 2015-2016 DHS and Satellite Data (*with Sophia Lay, Akira Hibiki*)
+(2) The Impact of Air Pollution on Child Growth in Myanmar: Insights from the 2015-2016 DHS and Satellite Data (*with Sophia Lay, Akira Hibiki*).
 
 ## Conferences
 ### Past Presentations
