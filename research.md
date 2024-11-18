@@ -10,19 +10,20 @@ layout: page
 
 ## Working Papers
 
-(1) Dual Caregiving and Survival of the Economy. (2024) (*with Akiomi Kitagawa*). (JMP) [[PDF]](https://www.dropbox.com/scl/fi/s00pcg0017vtyeb364hlc/main_dualcare-copy.pdf?rlkey=koecpcdaoeroijigjm5x4dtzv&st=ep1322kr&dl=0)
+(1) Dual Caregiving and Survival of the Economy (*with Akiomi Kitagawa*). (JMP) [[PDF]](https://www.dropbox.com/scl/fi/s00pcg0017vtyeb364hlc/main_dualcare-copy.pdf?rlkey=koecpcdaoeroijigjm5x4dtzv&st=ep1322kr&dl=0)
 
-(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. (2024) (*with Akiomi Kitagawa*)
+(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy (*with Akiomi Kitagawa*).
 
-(3) Fertility and R&D-based Growth: The Role of Higher Education. (2024) (*with Akiomi Kitagawa*).
+(3) Fertility and R&D-based Growth: The Role of Higher Education (*with Akiomi Kitagawa*).
 
 
 ## Work in Progress
 
 (1) Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers.
 
+(2) The Impact of Air Pollution on Child Growth in Myanmar: Insights from the 2015-2016 DHS and Satellite Data (*with Sophia Lay, Akira Hibiki*)
 
 ## Conferences
 ### Past Presentations
 
-Japanese Economic Association Spring Meeting (May 29, 2022, Yokohama). The 1st RCPD Research Seminar on Contemporary Economics (Tohoku University, 2022). ISER Seminar Series (Osaka University, 2023) .The 14th Vietnam Economist Annual Meeting (University of DaNang, 2023). Japanese Economic Association Fall Meeting (Kansai University, 2023). The 18th Macroeconomics Conference for Young Economists (Kyoto University, 2024). Joint workshop TU Research Center for Policy Design and Sophia Institute for Human Security (Tohoku University, 2024).
+Japanese Economic Association Spring Meeting (May 29, 2022, Yokohama). The 1st RCPD Research Seminar on Contemporary Economics (Tohoku University, 2022). ISER Seminar Series (Osaka University, 2023). The 14th Vietnam Economist Annual Meeting (University of DaNang, 2023). Japanese Economic Association Fall Meeting (Kansai University, 2023). The 18th Macroeconomics Conference for Young Economists (Kyoto University, 2024). Joint workshop TU Research Center for Policy Design and Sophia Institute for Human Security (Tohoku University, 2024).
