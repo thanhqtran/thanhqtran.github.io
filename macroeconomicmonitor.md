@@ -1,10 +1,10 @@
 ---
-title: Vietnamese Macroeconomics Monitor
+title: Vietnam's Economic Indicators
 permalink: /macroeconomicmonitor/
 layout: page
 ---
 
-Some Macroeconomic Data for **Vietnamese economy**.
+Vietnam's main economic indicators.
 
 ### Data Sources for Vietnam
 
@@ -13,13 +13,17 @@ Some Macroeconomic Data for **Vietnamese economy**.
 - VHLSS (Household Living Standards) [[link]](https://github.com/thanhqtran/dataset/tree/main/vietnam/VHLSS) 
 - LFS (Labor Force) [[link]](https://www.ilo.org/surveyLib/index.php/catalog/LFS/?page=1&country%5B%5D=196&ps=15&repo=LFS)
 - VES (Enterprise Survey) [[link1]](https://dulieunghiencuu.com/shop/subcategory/survey), [[link2]](https://microdata.worldbank.org/index.php/catalog/2664/get-microdata), [[SME]](https://www.wider.unu.edu/database/viet-nam-sme-database)
+- Vietnam consolidated macroeconomic data: [DSBB Standard](http://nsdp.gso.gov.vn/index.htm)
 
-** Notes: [[Notes on Vietnamese data]](https://sites.google.com/site/briandmccaig/notes-on-vhlsss), [[Notes on VES]](https://www.wider.unu.edu/database/viet-nam-data)
+** Notes: 
+- [[Notes on Vietnamese data]](https://sites.google.com/site/briandmccaig/notes-on-vhlsss), [[Notes on VES]](https://www.wider.unu.edu/database/viet-nam-data)
+- You can download [the latest dataset here](https://github.com/thanhqtran/gso-macro-monitor/releases)
+- [Git repo](https://github.com/thanhqtran/gso-macro-monitor)
 
 
 ### National Accounts
 
-GDP in curren prices
+GDP in current prices
 
 ![](https://github.com/thanhqtran/gso-macro-monitor/raw/main/generated_gif/gdp_na.gif?raw=true)
 
@@ -34,10 +38,6 @@ Real GDP - Agriculture (constant 2010 prices)
 Real GDP - Construction and Industrial Production (constant 2010 prices)
 
 ![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/Real%20GDP%20Construction%20and%20Industry.gif?raw=true)
-
-Industrual Production Index
-
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/iip.gif?raw=true)
 
 Real GDP - Services (constant 2010 prices)
 
@@ -57,23 +57,11 @@ CPI components
 
 ![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/CPI%20Components.gif?raw=true)
 
-Producer Price Index by industry
-
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/Producer%20Price%20Index.gif?raw=true)
-
 ### Trade
 
 Trade Balances
 
 ![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/trade.gif?raw=true)
-
-Exports
-
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/Export.gif?raw=true)
-
-Imports
-
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/Import.gif?raw=true)
 
 ### Finance
 
@@ -85,17 +73,9 @@ Investment into Vietnam
 
 ![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/Investment.gif?raw=true)
 
-Stock market indices
-
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/Stock%20Main%20Indices.gif?raw=true)
-
 Stock market indices (top 30)
 
 ![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/Stock%20Main%20Indices%20Top%2030.gif?raw=true)
-
-Interest Rates set by the SBV
-
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/Interest%20Rates.gif?raw=true)
 
 ### Labor
 
@@ -115,5 +95,3 @@ Total Population by Gender
 
 ![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/Population.gif?raw=true)
 
-
-[Git Repo](https://github.com/thanhqtran/gso-macro-monitor)
