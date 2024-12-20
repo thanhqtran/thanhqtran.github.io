@@ -10,12 +10,11 @@ layout: page
 
 ## Working Papers
 
-(1) Dual Caregiving and Survival of the Economy (*with Akiomi Kitagawa*). (JMP) [[PDF]](https://www.dropbox.com/scl/fi/s00pcg0017vtyeb364hlc/main_dualcare-copy.pdf?rlkey=koecpcdaoeroijigjm5x4dtzv&st=ep1322kr&dl=0)
+(1) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. (JMP).
 
-(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy (*with Akiomi Kitagawa*).
+(2) Fertility and R&D-based Growth: The Role of Higher Education.
 
-(3) Fertility and R&D-based Growth: The Role of Higher Education (*with Akiomi Kitagawa*).
-
+(3) Dual Caregiving and Survival of the Economy.
 
 ## Work in Progress
 
