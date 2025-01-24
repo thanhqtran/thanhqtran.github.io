@@ -10,17 +10,17 @@ layout: page
 
 ## Working Papers
 
-(1) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. (JMP).
+(1) Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers (R&R)
 
-(2) Fertility and R&D-based Growth: The Role of Higher Education.
+(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. 
 
-(3) Dual Caregiving and Survival of the Economy.
+(3) Fertility and R&D-based Growth: The Role of Higher Education.
+
+(4) Dual Caregiving and Survival of the Economy.
 
 ## Work in Progress
 
-(1) Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers.
-
-(2) The Impact of Air Pollution on Child Growth in Myanmar: Insights from the 2015-2016 DHS and Satellite Data (*with Sophia Lay, Akira Hibiki*).
+(1) The Impact of Air Pollution on Child Growth in Myanmar: Insights from the 2015-2016 DHS and Satellite Data (*with Sophia Lay, Akira Hibiki*).
 
 ## Conferences
 ### Past Presentations
