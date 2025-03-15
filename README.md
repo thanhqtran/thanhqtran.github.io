@@ -10,11 +10,12 @@ This blog is customized based upon Jekyll Now with the following additional feat
 - Search Bar
 - Multiple-page display
 - MathJax integration (customized where LaTeX syntax & functions can be used)
-- Comment integration (powered by disqus)
+- Comment integration (powered by Disqus)
 - Google Analytics
 - Related Posts [link1](https://blog.webjeda.com/jekyll-related-posts/), [link2](https://medium.com/@jsware/jekyll-related-posts-f2bc1f420b5e)
 - Change fonts to Computer Modern [cmu](https://stackoverflow.com/questions/6476351/how-to-use-the-computer-modern-font-in-webpages), [how to change](http://sebrink.de/Google-Webfonts-for-my-Jekyll/)
 - Stats: [Generate-jekyll-blog-stats](https://sylhare.github.io/2021/05/26/Generate-jekyll-blog-stats.html)
+- Font change: [stack](https://stackoverflow.com/a/41552380/13418845)
 
 [See the demo here](https://thanhqtran.github.io)
 
