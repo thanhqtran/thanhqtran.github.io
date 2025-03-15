@@ -12,8 +12,8 @@ This intensive boot camp is organized by the Graduate Student Association. The t
 - Computational Macroeconomics with Dynare. Period: March 19 -- March 26, 2025. (English, 20 hours)
 - Computational Macroeconomics. Period: September 02 – September 06, 2024. (English, 20 hours).
 - Special Topics in Macroeconomics. Period: March 04 – March 08, 2024. (English, 20 hours).
-- Mathematics for Economist II. Period: August 28 – September 15, 2023. (English, 30 hours).
-- Mathematics for Economist I. Period: March 06 – March 24, 2023. (English, 45 hours).
+- Mathematics for Economists II. Period: August 28 – September 15, 2023. (English, 30 hours).
+- Mathematics for Economists I. Period: March 06 – March 24, 2023. (English, 45 hours).
 
 
 ## Teaching Assistant, Tohoku University
