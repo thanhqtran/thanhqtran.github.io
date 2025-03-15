@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on Journal Rankings 
+title: Economics Journals
 published: true
 date: 2022-02-24
 categories: [Resource]
