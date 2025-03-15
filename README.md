@@ -17,8 +17,6 @@ This blog is customized based upon Jekyll Now with the following additional feat
 - Stats: [Generate-jekyll-blog-stats](https://sylhare.github.io/2021/05/26/Generate-jekyll-blog-stats.html)
 - Font change: [stack](https://stackoverflow.com/a/41552380/13418845)
 
-[See the demo here](https://thanhqtran.github.io)
-
 ## Installation
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs.
