@@ -9,21 +9,21 @@ layout: page
 
 This intensive boot camp is organized by the Graduate Student Association. The target participants are advanced undergraduate and graduate students. [[URL]](https://thanhqtran.github.io/tohoku_bootcamp/). [[Github]](https://github.com/thanhqtran/tohoku_bootcamp).
 
-- Computational Macroeconomics with Dynare. (Spr2025 Camp)
+- Computational Macroeconomics with Dynare. **(Spr2025 Camp)**
 
-Period: March 19 -- March 26, 2025. (English, 20 hours)
-- Computational Macroeconomics. (Fall2024 Camp)
+March 19 -- March 26, 2025. (English, 20 hours)
+- Computational Macroeconomics. **(Fall2024 Camp)**
 
-Period: September 02 – September 06, 2024. (English, 20 hours).
-- Special Topics in Macroeconomics. (Spr2024 Camp)
+September 02 – September 06, 2024. (English, 20 hours).
+- Special Topics in Macroeconomics. **(Spr2024 Camp)**
 
-Period: March 04 – March 08, 2024. (English, 20 hours).
-- Mathematics for Economists II. (Fall2023 Camp)
+March 04 – March 08, 2024. (English, 20 hours).
+- Mathematics for Economists II. **(Fall2023 Camp)**
 
-Period: August 28 – September 15, 2023. (English, 30 hours).
-- Mathematics for Economists I. (Spr2023 Camp)
+August 28 – September 15, 2023. (English, 30 hours).
+- Mathematics for Economists I. **(Spr2023 Camp)**
 
-Period: March 06 – March 24, 2023. (English, 45 hours).
+March 06 – March 24, 2023. (English, 45 hours).
 
 
 ## Teaching Assistant, Tohoku University
