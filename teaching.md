@@ -7,18 +7,20 @@ layout: page
 
 ## Boot Camp Instructor, Tohoku University
 
-This intensive boot camp is organized by the Graduate Student Association. The target participants are advanced undergraduate and first-year graduate students. [[URL]](https://thanhqtran.github.io/tohoku_bootcamp/). [[Github]](https://github.com/thanhqtran/tohoku_bootcamp).
+This intensive boot camp is organized by the Graduate Student Association. The target participants are advanced undergraduate and graduate students. [[URL]](https://thanhqtran.github.io/tohoku_bootcamp/). [[Github]](https://github.com/thanhqtran/tohoku_bootcamp).
 
-- Mathematics for Economist I. Period: March 06 – March 24, 2023. (English, 45 hours in total).
-- Mathematics for Economist II. Period: August 28 – September 15, 2023. (English, 30 hours in total).
-- Special Topics in Macroeconomics. Period: March 04 – March 08, 2024. (English, 20 hours in total).
-- Computational Macroeconomics. Period: September 02 – September 06, 2024. (English, 20 hours in total).
+- Computational Macroeconomics with Dynare. Period: March 19 -- March 26, 2025. (English, 20 hours)
+- Computational Macroeconomics. Period: September 02 – September 06, 2024. (English, 20 hours).
+- Special Topics in Macroeconomics. Period: March 04 – March 08, 2024. (English, 20 hours).
+- Mathematics for Economist II. Period: August 28 – September 15, 2023. (English, 30 hours).
+- Mathematics for Economist I. Period: March 06 – March 24, 2023. (English, 45 hours).
+
 
 ## Teaching Assistant, Tohoku University
 
+- Undergraduate Macroeconomics. Professor: Akiomi Kitagawa. Fall 2022. (Japanese).
+- Advanced Macroeconomics. Professor: Michio Suzuki. Fall 2022. (Japanese).
+- Formal Mathematics and Economic Modeling. Professor: Dai Zusai. Spring 2022. (English).
 - Microeconomics II. Professor: Dai Zusai. Fall 2021. (English).
 - Microeconomics I. Professor: Dai Zusai. Spring 2021. (English).
 - Computational Modeling and Simulation in Games. Professor: Dai Zusai. Spring 2021. (English).
-- Formal Mathematics and Economic Modeling. Professor: Dai Zusai. Spring 2022. (English).
-- Advanced Macroeconomics. Professor: Michio Suzuki. Fall 2022. (Japanese).
-- Undergraduate Macroeconomics. Professor: Akiomi Kitagawa. Fall 2022. (Japanese).
