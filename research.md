@@ -16,7 +16,7 @@ layout: page
 
 (3) Fertility and R&D-based Growth: The Role of Higher Education.
 
-(4) Dual Caregiving and Survival of the Economy.
+(4) Dual Caregiving and Survival of the Economy. [[PDF]](https://www2.econ.tohoku.ac.jp/~PDesign/dp/TUPD-2025-003.pdf)
 
 ## Work in Progress
 
