@@ -25,4 +25,11 @@ layout: page
 ## Conferences
 ### Past Presentations
 
-Japanese Economic Association Spring Meeting (May 29, 2022, Yokohama). The 1st RCPD Research Seminar on Contemporary Economics (Tohoku University, 2022). ISER Seminar Series (Osaka University, 2023). The 14th Vietnam Economist Annual Meeting (University of DaNang, 2023). Japanese Economic Association Fall Meeting (Kansai University, 2023). The 18th Macroeconomics Conference for Young Economists (Kyoto University, 2024). Joint workshop TU Research Center for Policy Design and Sophia Institute for Human Security (Tohoku University, 2024).
+- Japanese Economic Association Spring Meeting (May 29, 2022, Yokohama). 
+- The 1st RCPD Research Seminar on Contemporary Economics (Tohoku University, 2022).
+- ISER Seminar Series (Osaka University, 2023).
+- The 14th Vietnam Economist Annual Meeting (University of Da Nang, 2023).
+- Japanese Economic Association Fall Meeting (Kansai University, 2023).
+- The 18th Macroeconomics Conference for Young Economists (Kyoto University, 2024).
+- Joint workshop TU Research Center for Policy Design and Sophia Institute for Human Security (Tohoku University, 2024).
+- MFE Seminar (National Economics University, 2025/02)
