@@ -4,6 +4,10 @@ permalink: /teaching/
 layout: page
 ---
 
+## National Economics University
+
+- Optimization (Tối ưu hóa 1): [[Slides]](https://www.dropbox.com/scl/fo/4p3iq2ncgzevsagn60foq/ADl9H9Cl-sO57_vtF7lekRI?rlkey=lejfl3hrrdf6ffvz3qdpzxy10&st=pqh562s0&dl=0)
+
 
 ## Boot Camp Instructor, Tohoku University
 
