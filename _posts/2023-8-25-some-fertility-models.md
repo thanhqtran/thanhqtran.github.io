@@ -46,9 +46,10 @@ $$
 
 $$
 		\begin{align}
-			n^\ast = \dfrac{\delta}{1+\delta} \dfrac{1-\gamma}{\phi w-\gamma p\theta}
+			n^\ast = 
+   \begin{cases}
+   \dfrac{\delta}{1+\delta} \dfrac{1-\gamma}{\phi w-\gamma p\theta}
 			 &\text{ if } w > \dfrac{\theta p}{\gamma\phi}, \\
-			\begin{cases}
 				\dfrac{\delta}{1+\delta}\dfrac{1}{\phi}	 &\text{ if } w \leq \dfrac{\theta p}{\gamma\phi}
 			\end{cases}
 		\end{align}
