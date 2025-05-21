@@ -31,16 +31,19 @@ FOC
 $$
 c =  \frac{w}{1+\delta}
 $$
+
 and
+
 $$
 \begin{align}
-			e^\ast = 
+e^\ast = 
 			\begin{cases}
 				\dfrac{\gamma\phi w/p - \theta}{1-\gamma} > 0 	&\text{ if } w > \dfrac{\theta p}{\gamma\phi}, \\
 				0 												&\text{ if } w \leq \dfrac{\theta p}{\gamma\phi}
 			\end{cases}
 		\end{align}
 $$
+
 $$
 		\begin{align}
 			n^\ast = 
