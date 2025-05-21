@@ -28,6 +28,7 @@ $$
 where $c,e,n,p,w,\phi, \delta$ are consumption, education, fertility, price of education, wage, time-cost of child-rearing, utility derived from children, while $h, \theta, \gamma$ are human capital, default education without parents' investment, and returns to human capital.
 
 FOC
+
 $$
 c =  \frac{w}{1+\delta}
 $$
