@@ -28,13 +28,25 @@ $$
 where $c,e,n,p,w,\phi, \delta$ are consumption, education, fertility, price of education, wage, time-cost of child-rearing, utility derived from children, while $h, \theta, \gamma$ are human capital, default education without parents' investment, and returns to human capital.
 
 FOC
-
+$$
+c =  \frac{w}{1+\delta}
 $$
 \begin{align}
-    n &= \frac{\gamma}{1+\gamma} \frac{1-\gamma}{\phi - \theta p/w}, \\
-    e &= \frac{\gamma\phi w - p\theta}{p(1-\gamma)}
-\end{align}
-$$
+			e^\ast = 
+			\begin{cases}
+				\dfrac{\gamma\phi w/p - \theta}{1-\gamma} > 0 	&\text{ if } w > \dfrac{\theta p}{\gamma\phi}, \\
+				0 												&\text{ if } w \leq \dfrac{\theta p}{\gamma\phi}
+			\end{cases}
+		\end{align}
+		
+		\begin{align}
+			n^\ast = 
+			\begin{cases}
+				\dfrac{\delta}{1+\delta}\dfrac{1}{\phi} &\text{ if } w > \dfrac{\theta p}{\gamma\phi}, \\
+				\dfrac{\delta}{1+\delta} \dfrac{1-\gamma}{\phi w-\gamma p\theta} &\text{ if } w \leq \dfrac{\theta p}{\gamma\phi}
+			\end{cases}
+		\end{align}
+
 
 Literature: 
 - Becker & Lewis (1973), Barro & Becker (1989), Becker & Murphy & Tamura (1990), Galor & Weil (2000), Galor (2005), Delventhal & Fernandez-Villaverde & Guner (2021). 
