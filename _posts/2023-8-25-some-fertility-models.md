@@ -31,6 +31,8 @@ FOC
 $$
 c =  \frac{w}{1+\delta}
 $$
+and
+$$
 \begin{align}
 			e^\ast = 
 			\begin{cases}
@@ -38,7 +40,8 @@ $$
 				0 												&\text{ if } w \leq \dfrac{\theta p}{\gamma\phi}
 			\end{cases}
 		\end{align}
-		
+$$
+$$
 		\begin{align}
 			n^\ast = 
 			\begin{cases}
@@ -46,7 +49,7 @@ $$
 				\dfrac{\delta}{1+\delta} \dfrac{1-\gamma}{\phi w-\gamma p\theta} &\text{ if } w \leq \dfrac{\theta p}{\gamma\phi}
 			\end{cases}
 		\end{align}
-
+$$
 
 Literature: 
 - Becker & Lewis (1973), Barro & Becker (1989), Becker & Murphy & Tamura (1990), Galor & Weil (2000), Galor (2005), Delventhal & Fernandez-Villaverde & Guner (2021). 
