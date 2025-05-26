@@ -228,12 +228,14 @@ $$
 If the couple decides to have a child $n=1$, then the optimal choice of market-provided childcare is
 
 $$
+
 s = 
 \begin{cases}
     0 &\iff w_f < p_s - \frac{\tau s^*}{\phi}, \\
     s^* + \frac{(w_f-p_s)\phi}{\tau} &\iff p_s - \frac{\tau s^*}{\phi} \leq w_f \leq p_s + \frac{\tau(1-s^*)}{\phi}, \\
     1 &\iff w_f \geq p_s + \frac{\tau(1-s^*)}{\phi}
 \end{cases}
+
 $$
 
 Household's utility as a function of fertility decision
