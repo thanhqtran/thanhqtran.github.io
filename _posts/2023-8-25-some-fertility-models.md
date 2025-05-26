@@ -171,19 +171,19 @@ This result demonstrates the tradeoff between early fertility and career plannin
 1. No children $n_1 = n_2 = 0$
    
    $$
-    u_{0,0} = \log \left(\frac{w_f}{1+\gamma} \right) + \log\left(\kappa w_f\left(\frac{\gamma}{1+\gamma}\right)^\gamma\right)
+   u_{0,0} = \log \left(\frac{w_f}{1+\gamma} \right) + \log\left(\kappa w_f\left(\frac{\gamma}{1+\gamma}\right)^\gamma\right)
    $$
 
-2. Children early $n_1 = 1, n_2 = 0$.
+3. Children early $n_1 = 1, n_2 = 0$.
    
    $$
-    u_{1,0} = u_{0,0} + (1+\gamma)\log(1-\phi) + \nu
+   u_{1,0} = u_{0,0} + (1+\gamma)\log(1-\phi) + \nu
    $$
 
-3. Children late $n_1 = 0, n_2 = 1$.
+5. Children late $n_1 = 0, n_2 = 1$.
    
    $$
-    u_{0,1} = u_{0,0} + \pi [\log(1-\phi) + \nu].
+   u_{0,1} = u_{0,0} + \pi [\log(1-\phi) + \nu].
    $$
 
 It is better to have children early rather than late if
@@ -216,13 +216,13 @@ providing financially for their families.
 The social norm is represented as a level $s^*$ of purchased childcare that represents “what people typically do,” i.e., a reflection of society’s expectations of women’s proper role in childcare. The couple suffers a utility loss when deviating from this social norm. The couple maximizes the following utility
 
 $$
- u(c,n,s) = c + \nu n - n \frac{\tau(s-s^*)^2}{2}
+u(c,n,s) = c + \nu n - n \frac{\tau(s-s^*)^2}{2}
 $$
 
 subject to
 
 $$
- c + s p_s \phi n = w_m + w_f (1-(1-s)n\phi)
+c + s p_s \phi n = w_m + w_f (1-(1-s)n\phi)
 $$
 
 If the couple decides to have a child $n=1$, then the optimal choice of market-provided childcare is
