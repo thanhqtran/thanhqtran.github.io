@@ -207,25 +207,6 @@ Literature:
 - Moffitt (1984), Francesconi (2002), Keane & Wolpin (2010), Eckstein & Keane & Lifshitz (2019)
 - [**Different Earnings**]  Goldin (2014), Erosa et al. (2021), Jang & Yum (2020).
   
-## Family Policies
-
-The role of public childcare. Assume now government collects tax and provides free childcare. The family's problem reads
-
-$$
-\max \log(c) + \delta \log (n)
-$$
-
-subject to
-
-$$
-c + \psi n = w_m + w_f (1-(1-s)n\phi)
-$$
-
-where $w_m, w_f$ are after-tax incomes.
-
-Literature:
--  Olivetti & Petrongolo (2017), D’Albis & Gobbi & and Greulich (2017),  Apps & Rees (2004)
--  [**taxation on married women’s labor supply**] Guner & Kaygusuz & Ventura (2012), Bick & Fuchs-Schundeln (2017), Holter & Krueger & and Stepanchuk (2019), Borella & Nardi & Yang (2021), Hannusch (2021), Fehr & Ujhelyiova (2013).
 
 ## Social Norms
 
