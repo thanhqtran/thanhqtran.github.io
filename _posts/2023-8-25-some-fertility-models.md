@@ -213,7 +213,7 @@ Literature:
 An additional determinant of childcare arrangements that varies widely across countries consists of attitudes or social norms regarding women’s and men’s roles in raising children and
 providing financially for their families.
 
-The social norm is represented as a level $s^*$ purchased childcare that represents “what people typically do,” i.e., a reflection of society’s expectations of women’s proper role in childcare. The couple suffers a utility loss when deviating from this social norm. The couple maximizes the following utility
+The social norm is represented as a level $s^*$ of purchased childcare that represents “what people typically do,” i.e., a reflection of society’s expectations of women’s proper role in childcare. The couple suffers a utility loss when deviating from this social norm. The couple maximizes the following utility
 
 $$
  u(c,n,s) = c + \nu n - n \frac{\tau(s-s^*)^2}{2}
@@ -228,15 +228,14 @@ $$
 If the couple decides to have a child $n=1$, then the optimal choice of market-provided childcare is
 
 $$
-
 s = 
 \begin{cases}
-    0 &\iff w_f < p_s - \frac{\tau s^*}{\phi}, \\
-    s^* + \frac{(w_f-p_s)\phi}{\tau} &\iff p_s - \frac{\tau s^*}{\phi} \leq w_f \leq p_s + \frac{\tau(1-s^*)}{\phi}, \\
-    1 &\iff w_f \geq p_s + \frac{\tau(1-s^*)}{\phi}
+    0 & \iff w_f < p_s - \dfrac{\tau s^*}{\phi}, \\\\
+    s^* + \dfrac{(w_f - p_s)\phi}{\tau} & \iff p_s - \dfrac{\tau s^*}{\phi} \leq w_f \leq p_s + \dfrac{\tau(1 - s^*)}{\phi}, \\\\
+    1 & \iff w_f \geq p_s + \dfrac{\tau(1 - s^*)}{\phi}
 \end{cases}
-
 $$
+
 
 Household's utility as a function of fertility decision
 
