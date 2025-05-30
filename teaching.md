@@ -6,7 +6,7 @@ layout: page
 
 ## National Economics University
 
-- Optimization (Tối ưu hóa 1) D403, D407: [[Slides]](https://www.dropbox.com/scl/fo/4p3iq2ncgzevsagn60foq/ADl9H9Cl-sO57_vtF7lekRI?rlkey=lejfl3hrrdf6ffvz3qdpzxy10&st=q46eqkrl&dl=0)
+- Optimization (Tối ưu hóa 1) D403, D407: [[Slides]](https://www.dropbox.com/scl/fo/4p3iq2ncgzevsagn60foq/ADl9H9Cl-sO57_vtF7lekRI?rlkey=3emy4wtvcufpbp40kvehfjtd8&st=mpg5frln&dl=0)
 
 
 ## Boot Camp Instructor, Tohoku University
