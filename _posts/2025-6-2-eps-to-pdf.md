@@ -14,13 +14,15 @@ Normally, you just need to add `--shell-escape` to Commands and `\usepackage{eps
 The package should be able to create separated `.pdf` files from the original `.eps`.
 However, this does not work on my machine.
 
-Here is how I did it.
+Here is how I made it work.
 
-Step 1: Download `ghostscript` (which should include `ps2pdf`)
+**Step 1**: Download `ghostscript` (which should include `ps2pdf`)
 
-`brew install ghostscript`
+```
+brew install ghostscript
+```
 
-Step 2: Create a shell script that automatically search for all `.eps` files and convert them to `.pdf` 
+**Step 2**: Create a shell script that automatically search for all `.eps` files and convert them to `.pdf` 
 
 ```
 #!/bin/bash
@@ -30,9 +32,9 @@ for file in *.eps; do
 done
 ```
 
-save it as `convert_eps.sh`
+save it as `convert_eps.sh`.
 
-Step 3: Copy the script in the root folder (containing all the `.eps` files). Open Terminal, make the script executable and run it.
+**Step 3**: Copy the script in the root folder (containing all the `.eps` files). Open Terminal, make the script executable and run it.
 
 Right-click the folder, Services > New Terminal at Folder
 
@@ -50,7 +52,7 @@ Then run
 
 If you succeed, you should see a bunch of `.pdf` files newly created.
 
-Step 4: Add the following 2 lines to the preamble of the `.tex`  
+**Step 4**: Add the following 2 lines to the preamble of the `.tex`  
 
 ```
 \usepackage{graphicx}
@@ -69,3 +71,28 @@ When you includegraphics the `eps`, do not type the extension `.eps`, for exampl
 ```
 
 There is no need to add the `--shell-escape` option either.
+
+Can also make the script more informative
+
+```
+#!/bin/bash
+total=0
+success=0
+
+for file in *.eps; do
+  [ -e "$file" ] || continue  # Skip if no .eps files
+  ((total++))
+  base="${file%.eps}"
+  output="${base}-eps-converted-to.pdf"
+
+  if ps2pdf -dEPSCrop "$file" "$output"; then
+    echo "Converted: $file → $output"
+    ((success++))
+  else
+    echo "Failed to convert: $file"
+  fi
+done
+
+echo ""
+echo "Converted successfully ($success/$total files)"
+```
