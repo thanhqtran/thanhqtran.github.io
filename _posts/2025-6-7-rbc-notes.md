@@ -390,7 +390,7 @@ One can re-run the model with the Bayesian updated parameters.
 
 The table below shows the business cycle statistics of the model.
 
-| Variable | SD | Rel. SD | AR(1) | Contemp. Corr w/ Y |
+| Variable | Std. Dev | Rel. Std. Dev | First-order AR | Contemp. Corr w/ Y |
 | -------- | -------- | ----------------- | -------------- | ------------------------- |
 | Y        | 0.0157   | 1.0000            | 0.6993         | 1.0000                    |
 | I        | 0.0654   | 4.1663            | 0.6912         | 0.9939                    |
@@ -425,7 +425,7 @@ disp(data_stats);
 ```
 
 
-| Variable | SD    | Rel. SD |
+| Variable | Std. Dev    | Rel. Std. Dev |
 | -------- | --------- | --------- |
 | Y        | 0.0190  | 1         |
 | I        | 0.0611  | 3.2222   |
