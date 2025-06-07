@@ -14,6 +14,7 @@ Read more about calibration
 - [Computational Methods for Economics](https://opensourceecon.github.io/CompMethods/struct_est/GMM.html)
 - [Chad Fulton's notes on RBC calibration](https://www.chadfulton.com/topics/simple_rbc.html#calibration-maximum-likelihood-estimation)
 - [Sims' note](https://sites.nd.edu/esims/courses/ph-d-macro-theory-ii/)
+- [Example by Joao Madeira](https://sites.google.com/site/joaoantoniorodriguesmadeira/home/dynare)
 - ABCs of RBC, King and Rebelo (1999)
 
 ## Baseline model
