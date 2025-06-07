@@ -106,7 +106,7 @@ stoch_simul(order=2, irf=20, hp_filter = 1600) Y I C L W R K A;
 
 The last line produces the IRF.
 
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/irf.png)
+![](https://raw.githubusercontent.com/thanhqtran/gso-macro-monitor/main/generated_gif/irf.png)
 
 To extract the elements for the state-space representation, we can use the following code in MATLAB. (Please read [Sims' note](https://sites.nd.edu/esims/files/2023/05/using_dynare_sp17.pdf#page=8.77))
 
@@ -227,7 +227,8 @@ for i = 1:8
     title([var_names{i}]);
 end
 ```
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/simulated_random.png)
+
+![](https://raw.githubusercontent.com/thanhqtran/gso-macro-monitor/main/generated_gif/simulated_random.png)
 
 ## Model performance
 
@@ -341,7 +342,7 @@ plt.legend()
 plt.tight_layout()
 ```
 
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/data.png)
+![](https://raw.githubusercontent.com/thanhqtran/gso-macro-monitor/main/generated_gif/data.png)
 
 The business cycle moments are stored in `cycle`. 
 
@@ -373,7 +374,7 @@ end;
 // ---------- Estimation command ----------
 estimation(datafile='rbc_data.csv', first_obs=1, mh_replic=20000, mh_nblocks=2, mh_jscale=0.2, mode_compute=6);
 ```
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/bayesian.png)
+![](https://raw.githubusercontent.com/thanhqtran/gso-macro-monitor/main/generated_gif/bayesian.png)
 
 
 | Parameter | Prior Mean | Posterior Mean | 90% HPD Interval | Prior | Std. Dev. |
@@ -492,7 +493,7 @@ for i = 1:4
     legend('Model', 'Data');
 end
 ```
-![](https://github.com/thanhqtran/gso-macro-monitor/blob/main/generated_gif/simulated.png)
+![](https://raw.githubusercontent.com/thanhqtran/gso-macro-monitor/main/generated_gif/simulated.png)
 
 
 
