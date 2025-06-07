@@ -53,7 +53,10 @@ $$
 0 \approx \overline{Y}\tilde{Y}_t - \overline{C}\tilde{C}_t + \overline{K}[(1-\delta)\tilde{K}_t - \tilde{K}_{t+1}], \\
 z_{t+1} = \rho z_t + \varepsilon_t
 $$
+
 where $\tilde{x}_t = \ln x_t - \ln \overline{x}$.
+
+The steady state variables $\overline{x}$ can be calculated either by hand or Dynare.
 
 ## Dynare codes
 
