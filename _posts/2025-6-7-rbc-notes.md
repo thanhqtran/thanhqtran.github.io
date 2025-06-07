@@ -487,8 +487,6 @@ for i = 1:4
     plot(t, dat{:, data_vars{i}}, 'r-', 'LineWidth', 1); % data
     hold off;
     title(var_names{i});
-    xlabel('Time');
-    ylabel('Deviation');
     grid on;
     legend('Model', 'Data');
 end
