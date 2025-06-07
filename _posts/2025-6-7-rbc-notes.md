@@ -430,11 +430,13 @@ disp(data_stats);
 | Y        | 0.0190  | 1         |
 | I        | 0.0611  | 3.2222   |
 | C        | 0.0135   | 0.7152   |
-| I        | 0.0093 | 0.4881   |
+| L        | 0.0093 | 0.4881   |
 | K        | 0.0351  | 1.8490     |
 | eA       | 0.0082 | 0.4315   |
 
 Based on how closely the model performs compared to the real data, we can judge the goodness of fit of the model.
+
+Although this simple RBC model does not capture the economy described in the data very well, it does provide a useful starting point.
 
 ### Eyeball Simulation
 
