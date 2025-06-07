@@ -56,7 +56,7 @@ $$
 
 where $\tilde{x}_t = \ln x_t - \ln \overline{x}$.
 
-The steady state variables $\overline{x}$ can be calculated either by hand or Dynare.
+The steady-state variables $\overline{x}$ can be calculated either by hand or with Dynare.
 
 ## Dynare codes
 
