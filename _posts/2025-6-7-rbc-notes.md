@@ -13,16 +13,25 @@ Read more about calibration
 - [Dynare's manual](https://archives.dynare.org/manual/Estimation.html)
 - [Computational Methods for Economics](https://opensourceecon.github.io/CompMethods/struct_est/GMM.html)
 - [Chad Fulton's notes on RBC calibration](https://www.chadfulton.com/topics/simple_rbc.html#calibration-maximum-likelihood-estimation)
+- [Sims' note](https://sites.nd.edu/esims/courses/ph-d-macro-theory-ii/)
+- ABCs of RBC, King and Rebelo (1999)
 
 ## Baseline model
 
 Preferences
+
 $$
-u(C_t,1-L_t) = \frac{C_t^{1-\sigma}}{1-\sigma} - \frac{L_t^{1+\varphi}}{1+\varphi}
+u(C_t,L_t) = \frac{C_t^{1-\sigma}}{1-\sigma} - \frac{L_t^{1+\varphi}}{1+\varphi}
 $$
-and a Cobb-Douglas production function.
+
+and a Cobb-Douglas production function
+
+$$
+Y_t = A_t K_t^\alpha L_t^{1-\alpha}
+$$
 
 The model's building blocks are
+
 $$
 C_t^{\sigma} L_t^{\varphi} = W_t, \\
 	1 = \beta \mathbb{E}_t\left[ \frac{C_t}{C_{t+1}} (R_{t+1} + 1 - \delta)\right], \\
