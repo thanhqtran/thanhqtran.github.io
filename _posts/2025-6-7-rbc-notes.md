@@ -390,7 +390,7 @@ One can re-run the model with the Bayesian updated parameters.
 
 The table below shows the business cycle statistics of the model.
 
-| Variable | Std. Dev | Relative Std. Dev | First-order AR | Contemp. Corr with Output |
+| Variable | SD | Rel. SD | AR(1) | Contemp. Corr w/ Y |
 | -------- | -------- | ----------------- | -------------- | ------------------------- |
 | Y        | 0.0157   | 1.0000            | 0.6993         | 1.0000                    |
 | I        | 0.0654   | 4.1663            | 0.6912         | 0.9939                    |
@@ -425,14 +425,14 @@ disp(data_stats);
 ```
 
 
-| Variable | Std. Dev    | Relative Std. Dev |
+| Variable | SD    | Rel. SD |
 | -------- | --------- | --------- |
-| Y        | 0.018974  | 1         |
-| I        | 0.061137  | 3.2222    |
-| C        | 0.01357   | 0.71518   |
-| I        | 0.0092603 | 0.48806   |
-| K        | 0.035083  | 1.849     |
-| eA       | 0.0081878 | 0.43154   |
+| Y        | 0.0190  | 1         |
+| I        | 0.0611  | 3.2222   |
+| C        | 0.0135   | 0.7152   |
+| I        | 0.0093 | 0.4881   |
+| K        | 0.0351  | 1.8490     |
+| eA       | 0.0082 | 0.4315   |
 
 Based on how closely the model performs compared to the real data, we can judge the goodness of fit of the model.
 
