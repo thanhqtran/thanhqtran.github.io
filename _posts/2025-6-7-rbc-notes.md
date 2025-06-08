@@ -245,6 +245,11 @@ end
 
 ## Model performance
 
+This exercise is for demonstration only. Using the simple Solow residuals or TFP as measurements of $A_t$ can be problematic.
+
+Several adjustments have been made to have a more accurate TFP, such as the utilization of capital and labor. 
+See [fernald TFP](https://www.johnfernald.net/TFP) for such an example.
+
 ### Data retrieval
 
 First, we need some data. We use Python at this step.
