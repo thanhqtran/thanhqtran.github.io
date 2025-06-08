@@ -513,5 +513,6 @@ end
 ```
 ![](https://raw.githubusercontent.com/thanhqtran/gso-macro-monitor/main/generated_gif/simulated.png)
 
+The codes to replicate all plots are stored [here](https://github.com/thanhqtran/rbc).
 
 
