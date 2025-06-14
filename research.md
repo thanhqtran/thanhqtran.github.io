@@ -18,9 +18,7 @@ layout: page
 
 (4) Dual Caregiving and Survival of the Economy. [[PDF]](https://www2.econ.tohoku.ac.jp/~PDesign/dp/TUPD-2025-003.pdf)
 
-## Work in Progress
-
-(1) The Impact of Air Pollution on Child Growth in Myanmar: Insights from the 2015-2016 DHS and Satellite Data (*with Sophia Lay, Akira Hibiki*).
+(5) Health Expenditure, Social Security and Fiscal Balance in Vietnam.
 
 ## Conferences
 ### Past Presentations
