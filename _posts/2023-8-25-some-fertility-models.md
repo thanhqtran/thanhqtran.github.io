@@ -148,7 +148,7 @@ A woman lives for two periods and makes decisions on fertility and career planni
 The woman maximizes expected utility
 
 $$
- \max \log(c_1) + (1-\pi n_2)\log(c_{2,0}) + \pi n_2 \log(c_{2,1}) + \nu n_2 + \pi \nu n_2
+ \max \log(c_1) + (1-\pi n_2)\log(c_{2,0}) + \pi n_2 \log(c_{2,1}) + \nu n_1 + \pi \nu n_2
 $$
 
 subject to
