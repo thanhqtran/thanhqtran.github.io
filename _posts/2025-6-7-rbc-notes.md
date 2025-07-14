@@ -4,7 +4,7 @@ title: Notes on RBC calibration
 published: true
 date: 2025-06-07
 categories: [Modelling]
-tags: [tips]
+tags: [rbc]
 ---
 
 My notes on RBC calibration.
