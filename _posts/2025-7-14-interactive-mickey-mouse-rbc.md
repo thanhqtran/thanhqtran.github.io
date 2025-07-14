@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An interactive Mickey Mouse model of RBC
+title: An interactive Mickey Mouse RBC model
 published: true
 date: 2025-07-14
 categories: [Modelling]
