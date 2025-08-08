@@ -6,19 +6,20 @@ layout: page
 
 ## Publications
 
+(2) Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers. (Conditionally Accepted)
+
 (1) The Aging Tax on Potential Growth in Asia (2022). Journal of Asian Economics, Vol. 81, p.101495. [[Paper]](https://doi.org/10.1016/j.asieco.2022.101495), [[PDF]](https://www.dropbox.com/scl/fi/85aiq8dqzz2n2qy6f6e0q/QTTran_retirement_aging.pdf?rlkey=8ja8bvfr97cbt0xnop2j218mg&st=w5626qhw&dl=0)
 
-## Working in Progress
+## Working Papers
 
-(1) Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers (R&R)
-
-(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. 
+(4) Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam (with Huy Le Vu)
 
 (3) Fertility and R&D-based Growth: The Role of Higher Education.
 
-(4) Dual Caregiving and Survival of the Economy. [[PDF]](https://www2.econ.tohoku.ac.jp/~PDesign/dp/TUPD-2025-003.pdf)
+(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. 
 
-(5) Health Expenditure, Social Security and Fiscal Balance in Vietnam.
+(1) Dual Caregiving and Survival of the Economy. [[PDF]](https://www2.econ.tohoku.ac.jp/~PDesign/dp/TUPD-2025-003.pdf)
+
 
 ## Conferences
 ### Past Presentations
