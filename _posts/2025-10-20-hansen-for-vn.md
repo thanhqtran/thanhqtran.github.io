@@ -7,7 +7,7 @@ categories: [Modelling]
 tags: [rbc]
 ---
 
-This note applies the classic Hansen (1985, JME)[http://www.dklevine.com/archive/refs4233.pdf] on the Vietnamese economy.
+This note applies the classic [Hansen (1985, JME)](http://www.dklevine.com/archive/refs4233.pdf) on the Vietnamese economy.
 Note that the economy is closed. There is no government or monetary authority.
 All variables are measured in real value.
 While it is highly stylized and maybe not suitable for a small open economy such as Vietnam, it is a useful example on how to assess the model and its applicability.
