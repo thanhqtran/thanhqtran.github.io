@@ -26,8 +26,8 @@ subject to
 
 $$
 \begin{aligned}
-c_t + i_t &= w_t h_t + r_t k_t, \\
-k_{t+1} &= i_t + (1-\delta) k_t, \\
+c_t + i_t = w_t h_t + r_t k_t, \\
+k_{t+1} = i_t + (1-\delta) k_t, \\
 k_0 &> 0
 \end{aligned}
 $$
@@ -42,8 +42,8 @@ Factor prices:
 
 $$
 \begin{aligned}
-w_t &= (1-\alpha) \theta_t k_t^{\alpha} h_t^{-\alpha} = (1-\alpha) \frac{y_t}{h_t}, \\
-r_t &= \alpha \theta_t k_t^{\alpha-1} h_t^{1-\alpha} = \alpha \frac{y_t}{k_t}.
+w_t = (1-\alpha) \theta_t k_t^{\alpha} h_t^{-\alpha} = (1-\alpha) \frac{y_t}{h_t}, \\
+r_t = \alpha \theta_t k_t^{\alpha-1} h_t^{1-\alpha} = \alpha \frac{y_t}{k_t}.
 \end{aligned}
 $$
 
@@ -55,13 +55,13 @@ Furthermore, $a_t,\theta_t$ are structural shocks on demand and supply.
 
 $$
 \begin{aligned}
-y_t &= \theta_t k_t^\alpha h_t^{1-\alpha}, \\
-\ln \theta_t &= (1-\rho_\theta)\ln \bar{\theta} + \rho_\theta \ln \theta_{t-1} + \epsilon_t, \quad \epsilon_t \sim N(0,\sigma^2_\theta), \\
-y_t &= c_t + i_t, \\
-k_{t+1} &= (1-\delta)k_t + i_t, \\
-\gamma c_t h_t &= (1-\alpha) y_t, \\
-\frac{a_t}{c_t} &= \beta E_t \left[ \frac{a_{t+1}}{c_{t+1}} \left( \alpha \frac{y_{t+1}}{k_{t+1}} + 1 - \delta \right)\right], \\
-\ln a_t &= \rho_a \ln a_{t-1} + \xi_t, \quad \xi_t \sim N(0,\sigma^2_a)
+y_t = \theta_t k_t^\alpha h_t^{1-\alpha}, \\
+\ln \theta_t = (1-\rho_\theta)\ln \bar{\theta} + \rho_\theta \ln \theta_{t-1} + \epsilon_t, \quad \epsilon_t \sim N(0,\sigma^2_\theta), \\
+y_t = c_t + i_t, \\
+k_{t+1} = (1-\delta)k_t + i_t, \\
+\gamma c_t h_t = (1-\alpha) y_t, \\
+\frac{a_t}{c_t} = \beta E_t \left[ \frac{a_{t+1}}{c_{t+1}} \left( \alpha \frac{y_{t+1}}{k_{t+1}} + 1 - \delta \right)\right], \\
+\ln a_t = \rho_a \ln a_{t-1} + \xi_t, \quad \xi_t \sim N(0,\sigma^2_a)
 \end{aligned}
 $$
 
@@ -73,13 +73,13 @@ Note that we do not need $w_t$ here, and $r_{t+1}$ is substituted by a function 
 
 $$
 \begin{align}
-c_{ss} &= \frac{1-\alpha}{\gamma} \bar{\theta} \left[ \frac{\bar{\theta}\alpha}{(1/\beta)-1+\delta} \right]^{\alpha/(1-\alpha)}, \\
-k_{ss} &= \frac{\alpha c_{ss}}{(1/\beta)-1+\delta -\alpha\delta}, \\
-h_{ss} &= k_{ss} \left[ \frac{(1/\beta)-1+\delta}{\bar{\theta}\alpha} \right]^{1/(1-\alpha)}, \\
-y_{ss} &= \bar{\theta} k_{ss}^\alpha h_{ss}^{1-\alpha}, \\
-i_{ss} &= y_{ss} - c_{ss}, \\
-w_{ss} &= (1-\alpha) \frac{y_{ss}}{h_{ss}}, \\
-r_{ss} &= \alpha \frac{y_{ss}}{k_{ss}} - 1.
+c_{ss} = \frac{1-\alpha}{\gamma} \bar{\theta} \left[ \frac{\bar{\theta}\alpha}{(1/\beta)-1+\delta} \right]^{\alpha/(1-\alpha)}, \\
+k_{ss} = \frac{\alpha c_{ss}}{(1/\beta)-1+\delta -\alpha\delta}, \\
+h_{ss} = k_{ss} \left[ \frac{(1/\beta)-1+\delta}{\bar{\theta}\alpha} \right]^{1/(1-\alpha)}, \\
+y_{ss} = \bar{\theta} k_{ss}^\alpha h_{ss}^{1-\alpha}, \\
+i_{ss} = y_{ss} - c_{ss}, \\
+w_{ss} = (1-\alpha) \frac{y_{ss}}{h_{ss}}, \\
+r_{ss} = \alpha \frac{y_{ss}}{k_{ss}} - 1.
 \end{align}
 $$
 
@@ -100,17 +100,17 @@ $$
 
 
 $$
-((1/\beta)-1+\delta)\hat{y}_t &= ((1/\beta)-1+\delta-\alpha\delta) \hat{c}_t + \alpha\delta \hat{i}_t
+((1/\beta)-1+\delta)\hat{y}_t = ((1/\beta)-1+\delta-\alpha\delta) \hat{c}_t + \alpha\delta \hat{i}_t
 $$
 
 
 $$
-\hat{k}_{t+1} &= (1-\delta)\hat{k}_t + \delta \hat{i}_t
+\hat{k}_{t+1} = (1-\delta)\hat{k}_t + \delta \hat{i}_t
 $$
 
 
 $$
-\hat{c}_t + \hat{h}_t &= \hat{y}_t
+\hat{c}_t + \hat{h}_t = \hat{y}_t
 $$
 
 
