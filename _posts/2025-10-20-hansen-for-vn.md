@@ -7,6 +7,13 @@ categories: [Modelling]
 tags: [rbc]
 ---
 
+This note applies the classic Hansen (1985, JME)[http://www.dklevine.com/archive/refs4233.pdf] on the Vietnamese economy.
+Note that the economy is closed. There is no government or monetary authority.
+All variables are measured in real value.
+While it is highly stylized and maybe not suitable for a small open economy such as Vietnam, it is a useful example on how to assess the model and its applicability.
+In preparation of the data, I used only the data of consumption, investment, and hours worked from the GSO. 
+The domestic output is then constructed by adding consumption and investment together.
+
 ## Model
 
 A representative household maximizes consumption $c_t$, hours worked $h_t$, and investment $i_t$:
@@ -83,7 +90,7 @@ $$
 Define $\hat{x} = \ln x_t - \ln x_{ss}$, we have:
 
 $$
-\begin{aligned}
+\begin{align}
 \hat{y}_t &= \hat{\theta}_t + \alpha \hat{k}_t + (1-\alpha)\hat{h}_t, \\
 \hat{\theta}_t &= \rho_\theta \hat{\theta}_{t-1} + \epsilon_t, \\
 [(1/\beta)-1+\delta]\hat{y}_t &= [(1/\beta)-1+\delta-\alpha\delta] \hat{c}_t + \alpha\delta \hat{i}_t, \\
@@ -91,7 +98,7 @@ $$
 \hat{c}_t + \hat{h}_t &= \hat{y}_t, \\
 (1/\beta)\hat{a}_t - (1/\beta)\hat{c}_t &= -(1/\beta) E_t \hat{c}_{t+1} + [(1/\beta)-1+\delta](E_t\hat{y}_{t+1}-\hat{k}_{t+1}) + (1/\beta)E_t \hat{a}_{t+1}, \\
 \hat{a}_t &= \rho_a \hat{a}_{t-1} + \xi_t.
-\end{aligned}
+\end{align}
 $$
 
 ---
@@ -148,7 +155,7 @@ $$
 The dynamic equations:
 
 $$
-\begin{aligned}
+\begin{align}
 &\begin{bmatrix}
 1 & 0 \\
 1/\beta-1+\delta & 1/\beta
@@ -191,7 +198,7 @@ E_t \hat{h}_{t+1}
 \hat{\theta}_t \\
 \hat{a}_t
 \end{bmatrix}
-\end{aligned}
+\end{align}
 $$
 
 ## Estimation
@@ -200,3 +207,63 @@ The estimation procedure follows Chapter 10 of [Novales, A., Fernández, E., Rui
 
 First, we estimate the trend of the data for output, consumption, and hours worked.
 
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_trendvsdata.png)
+
+Then, we can run the maximum likelihood estimation for structural parameters.
+
+| Iteration | Func-count | f(x)      | Step-size     | Optimality |
+|------------|-------------|-----------|----------------|-------------|
+| 0  | 8  | 951478   | –            | 1.07e+06 |
+| 1  | 16 | 71127.3  | 9.34793e-07  | 8.26e+04 |
+| 2  | 24 | 57735.6  | 1            | 6.71e+04 |
+| 3  | 32 | 23347.6  | 1            | 2.72e+04 |
+| 4  | 40 | 12516.7  | 1            | 1.47e+04 |
+| 5  | 48 | 5992.47  | 1            | 7.14e+03 |
+| 6  | 56 | 2964.62  | 1            | 3.61e+03 |
+| 7  | 64 | 1419.30  | 1            | 1.79e+03 |
+| 8  | 72 | 665.733  | 1            | 884 |
+| 9  | 80 | 298.288  | 1            | 427 |
+| 10 | 88 | 125.398  | 1            | 198 |
+| 11 | 96 | 48.5919  | 1            | 83.3 |
+
+**Local minimum found.**
+
+The estimated parameters are:
+
+
+| Parameter                                         | Coefficient | Std. Error | t-statistic | p-value       |
+|---------------------------------------------------|-------------|------------|-------------|---------------|
+| Productivity shock mean ($\bar{\theta}$)          | 0.38993     | 0.050089   | 7.7848      | 6.8834e-15    |
+| Productivity persistence ($\rho$)                 | 0.95931     | 0.025398   | 37.772      | 0             |
+| Productivity innovation std ($\sigma_e$)          | 0.099209    | 0.013974   | 7.0997      | 1.2506e-12    |
+| Preference shock persistence ($\rho_a$)           | 0.93936     | 0.01472    | 63.815      | 0             |
+| Innovation of preference shock std ($\sigma_a$)   | 0.25173     | 0.0066917  | 37.619      | 0             |
+| Output elasticity of capital ($\alpha$)           | 0.26933     | 0.013686   | 19.679      | 0             |
+| Utility function parameter ($\gamma$)             | 0.013093    | 0.0012716  | 10.296      | 0             |
+
+**Calibrated parameters**
+
+Note that here, we did not estimate discount factor and the depreciation rate, so these parameters are calibrated.
+
+| Parameter                 | Value    |
+|---------------------------|----------|
+| Discount factor ($\beta$) | 0.99269  |
+| Depreciation rate ($\delta$) | 0.014677 |
+
+To test the goodness of fit, we apply a Kalman filtration on output using consumption and hours. We will use the residuals from the Kalman filtration to simulate the model's dynamics using the estimated parameters.
+
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_kalman.png)
+
+====================================================================
+Goodness-of-Fit for Output per Worker
+Correlation: 0.6771
+R-squared: 0.4584
+====================================================================
+
+One can also add back the trend components
+
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_kalman2.png)
+
+Now, an IRFs for supply and demand shocks can be generated
+
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_irf.png)
