@@ -94,7 +94,7 @@ $$
 $$
 
 $$
-\hat{\theta}_t = \rho_\theta \hat{\theta}_{t-1} + \epsilon_t
+\hat{\theta}_t = \rho_{\theta} \hat{\theta}_{t-1} + \epsilon_t
 $$
 
 $$
@@ -110,11 +110,11 @@ $$
 $$
 
 $$
-(1/\beta)\hat{a}_t - (1/\beta)\hat{c}_t = -(1/\beta) E_t \hat{c}_{t+1} + ((1/\beta)-1+\delta)(E_t\hat{y}_{t+1}-\hat{k}_{t+1}) + (1/\beta)E_t \hat{a}_{t+1}
+(1/\beta) \hat{a}_{t} - (1/ \beta) \hat{c}_t = -(1/\beta) E_t \hat{c}_{t+1} + ((1/\beta)-1+\delta)(E_t\hat{y}_{t+1}-\hat{k}_{t+1}) + (1/\beta)E_t \hat{a}_{t+1}
 $$
 
 $$
-\hat{a}_t = \rho_a \hat{a}_{t-1} + \xi_t.
+\hat{a}_t = \rho_{a} \hat{a}_{t-1} + \xi_t.
 $$
 
 ---
