@@ -94,7 +94,7 @@ $$
 $$
 
 $$
-\hat{\theta}_t = \rho_{\theta} \hat{\theta}_{t-1} + \epsilon_t
+\hat{\theta}_{t} = \rho_{\theta} \hat{\theta}_{t-1} + \epsilon_t
 $$
 
 $$
@@ -268,11 +268,9 @@ To test the goodness of fit, we apply a Kalman filtration on output using consum
 
 ![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_kalman.png)
 
-====================================================================
 Goodness-of-Fit for Output per Worker
 Correlation: 0.6771
 R-squared: 0.4584
-====================================================================
 
 One can also add back the trend components
 
