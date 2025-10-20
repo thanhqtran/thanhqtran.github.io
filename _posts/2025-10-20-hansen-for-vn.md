@@ -127,7 +127,7 @@ $$
 **Log-linearized system**
 
 - $\hat{y}_t = \hat{\theta}_t + \alpha \hat{k}_t + (1-\alpha)\hat{h}_t$  
-- $\hat{\theta}_t = \rho_\theta \hat{\theta}_{t-1} + \epsilon_t$  
+- $\hat{\theta}_t = \rho_{\theta} \hat{\theta}_{t-1} + \epsilon_t$  
 - $[(1/\beta)-1+\delta]\hat{y}_t = [(1/\beta)-1+\delta-\alpha\delta] \hat{c}_t + \alpha\delta \hat{i}_t$  
 - $\hat{k}_{t+1} = (1-\delta)\hat{k}_t + \delta \hat{i}_t$  
 - $\hat{c}_t + \hat{h}_t = \hat{y}_t$  
