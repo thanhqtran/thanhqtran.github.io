@@ -28,7 +28,7 @@ $$
 \begin{aligned}
 c_t + i_t = w_t h_t + r_t k_t, \\
 k_{t+1} = i_t + (1-\delta) k_t, \\
-k_0 &> 0
+k_0 > 0
 \end{aligned}
 $$
 
@@ -123,16 +123,6 @@ $$
 \hat{a}_t = \rho_{a} \hat{a}_{t-1} + \xi_t.
 $$
 
-
-**Log-linearized system**
-
-- $\hat{y}_t = \hat{\theta}_t + \alpha \hat{k}_t + (1-\alpha)\hat{h}_t$  
-- $\hat{\theta}_t = \rho_{\theta} \hat{\theta}_{t-1} + \epsilon_t$  
-- $[(1/\beta)-1+\delta]\hat{y}_t = [(1/\beta)-1+\delta-\alpha\delta] \hat{c}_t + \alpha\delta \hat{i}_t$  
-- $\hat{k}_{t+1} = (1-\delta)\hat{k}_t + \delta \hat{i}_t$  
-- $\hat{c}_t + \hat{h}_t = \hat{y}_t$  
-- $(1/\beta) \hat{a}_{t} - (1/ \beta) \hat{c}_t = -(1/\beta) E_t \hat{c}_{t+1} + ((1/\beta)-1+\delta)(E_t\hat{y}_{t+1}-\hat{k}_{t+1}) + (1/\beta)E_t \hat{a}_{t+1}$  
-- $\hat{a}_t = \rho_{a} \hat{a}_{t-1} + \xi_t.$
 
 ---
 
