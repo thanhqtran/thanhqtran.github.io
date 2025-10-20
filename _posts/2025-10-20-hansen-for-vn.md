@@ -233,7 +233,7 @@ The estimation procedure follows Chapter 10 of [Novales, A., Fernández, E., Rui
 
 First, we estimate the trend of the data for output, consumption, and hours worked.
 
-![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_trendvsdata.png)
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_trendvsdata.png?raw=true)
 
 Then, we can run the maximum likelihood estimation for structural parameters.
 
@@ -278,7 +278,7 @@ Note that here, we did not estimate discount factor and the depreciation rate, s
 
 To test the goodness of fit, we apply a Kalman filtration on output using consumption and hours. We will use the residuals from the Kalman filtration to simulate the model's dynamics using the estimated parameters.
 
-![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_kalman.png)
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_kalman.png?raw=true)
 
 Goodness-of-Fit for Output per Worker.
 
@@ -288,9 +288,9 @@ R-squared: 0.4584.
 
 One can also add back the trend components, which would results in:
 
-![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_kalman2.png)
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_kalman2.png?raw=true)
 
 
 Now, an IRFs for supply and demand shocks can be generated and analyzed.
 
-![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_irf.png)
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_irf.png?raw=true)
