@@ -224,7 +224,9 @@ $$
 
 ## Estimation
 
-The estimation procedure follows Chapter 10 of [Novales, A., Fernández, E., Ruiz, J. (2022). Empirical Methods: Frequentist Estimation. In: Economic Growth. Springer Texts in Business and Economics. Springer, Berlin, Heidelberg.](https://doi.org/10.1007/978-3-662-63982-5_10)
+The estimation procedure follows Chapter 10 of [Novales, A., Fernández, E., Ruiz, J. (2022). Empirical Methods: Frequentist Estimation. In: Economic Growth. Springer Texts in Business and Economics. Springer, Berlin, Heidelberg.](https://doi.org/10.1007/978-3-662-63982-5_10).
+
+[You can obtain the code here](https://www.ucm.es/fundamentos-analisis-economico2/economic-growth).
 
 First, we estimate the trend of the data for output, consumption, and hours worked.
 
