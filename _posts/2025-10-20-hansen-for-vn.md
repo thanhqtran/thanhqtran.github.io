@@ -11,8 +11,11 @@ This note applies the classic Hansen (1985, JME)[http://www.dklevine.com/archive
 Note that the economy is closed. There is no government or monetary authority.
 All variables are measured in real value.
 While it is highly stylized and maybe not suitable for a small open economy such as Vietnam, it is a useful example on how to assess the model and its applicability.
+
+
 In preparation of the data, I used only the data of consumption, investment, and hours worked from the GSO. 
 The domestic output is then constructed by adding consumption and investment together.
+There is no population growth, so all variables such as consumption, investment, and output are measured in per worker terms.
 
 ## Model
 
@@ -277,14 +280,17 @@ To test the goodness of fit, we apply a Kalman filtration on output using consum
 
 ![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_kalman.png)
 
-Goodness-of-Fit for Output per Worker
-Correlation: 0.6771
-R-squared: 0.4584
+Goodness-of-Fit for Output per Worker.
 
-One can also add back the trend components
+Correlation: 0.6771.
+
+R-squared: 0.4584.
+
+One can also add back the trend components, which would results in:
 
 ![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_kalman2.png)
 
-Now, an IRFs for supply and demand shocks can be generated
+
+Now, an IRFs for supply and demand shocks can be generated and analyzed.
 
 ![](https://github.com/thanhqtran/thanhqtran.github.io/blob/7fd5950eb1e45395c6d024ef95572c179489d838/_posts/_assets/fig_irf.png)
