@@ -90,13 +90,31 @@ $$
 Define $\hat{x} = \ln x_t - \ln x_{ss}$, we have:
 
 $$
-\hat{y}_t = \hat{\theta}_t + \alpha \hat{k}_t + (1-\alpha)\hat{h}_t, \\ 
-\hat{\theta}_t = \rho_\theta \hat{\theta}_{t-1} + \epsilon_t, \\
-[(1/\beta)-1+\delta]\hat{y}_t &= [(1/\beta)-1+\delta-\alpha\delta] \hat{c}_t + \alpha\delta \hat{i}_t, \\
-\hat{k}_{t+1} &= (1-\delta)\hat{k}_t + \delta \hat{i}_t, \\
-\hat{c}_t + \hat{h}_t &= \hat{y}_t, \\
-(1/\beta)\hat{a}_t - (1/\beta)\hat{c}_t &= -(1/\beta) E_t \hat{c}_{t+1} + [(1/\beta)-1+\delta](E_t\hat{y}_{t+1}-\hat{k}_{t+1}) + (1/\beta)E_t \hat{a}_{t+1}, \\
-\hat{a}_t &= \rho_a \hat{a}_{t-1} + \xi_t.
+\hat{y}_t = \hat{\theta}_t + \alpha \hat{k}_t + (1-\alpha)\hat{h}_t
+$$
+
+$$
+\hat{\theta}_t = \rho_\theta \hat{\theta}_{t-1} + \epsilon_t
+$$
+
+$$
+((1/\beta)-1+\delta)\hat{y}_t &= ((1/\beta)-1+\delta-\alpha\delta) \hat{c}_t + \alpha\delta \hat{i}_t
+$$
+
+$$
+\hat{k}_{t+1} &= (1-\delta)\hat{k}_t + \delta \hat{i}_t
+$$
+
+$$
+\hat{c}_t + \hat{h}_t &= \hat{y}_t
+$$
+
+$$
+(1/\beta)\hat{a}_t - (1/\beta)\hat{c}_t = -(1/\beta) E_t \hat{c}_{t+1} + ((1/\beta)-1+\delta)(E_t\hat{y}_{t+1}-\hat{k}_{t+1}) + (1/\beta)E_t \hat{a}_{t+1}
+$$
+
+$$
+\hat{a}_t = \rho_a \hat{a}_{t-1} + \xi_t.
 $$
 
 ---
