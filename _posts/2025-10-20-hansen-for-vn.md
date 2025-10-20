@@ -72,7 +72,7 @@ Note that we do not need $w_t$ here, and $r_{t+1}$ is substituted by a function 
 ## Steady state
 
 $$
-\begin{aligned}
+\begin{align}
 c_{ss} &= \frac{1-\alpha}{\gamma} \bar{\theta} \left[ \frac{\bar{\theta}\alpha}{(1/\beta)-1+\delta} \right]^{\alpha/(1-\alpha)}, \\
 k_{ss} &= \frac{\alpha c_{ss}}{(1/\beta)-1+\delta -\alpha\delta}, \\
 h_{ss} &= k_{ss} \left[ \frac{(1/\beta)-1+\delta}{\bar{\theta}\alpha} \right]^{1/(1-\alpha)}, \\
@@ -80,7 +80,7 @@ y_{ss} &= \bar{\theta} k_{ss}^\alpha h_{ss}^{1-\alpha}, \\
 i_{ss} &= y_{ss} - c_{ss}, \\
 w_{ss} &= (1-\alpha) \frac{y_{ss}}{h_{ss}}, \\
 r_{ss} &= \alpha \frac{y_{ss}}{k_{ss}} - 1.
-\end{aligned}
+\end{align}
 $$
 
 ---
@@ -115,8 +115,7 @@ $$
 \end{bmatrix}
 \begin{bmatrix}
 \hat{y}_t \\ \hat{i}_t \\ \hat{h}_t
-\end{bmatrix}
-=
+\end{bmatrix} = 
 \begin{bmatrix}
 \alpha & 0 \\
 0 & 1/\beta - 1 + \delta - \alpha\delta \\
@@ -140,8 +139,7 @@ $$
 \begin{bmatrix}
 E_t \hat{\theta}_{t+1} \\
 E_t \hat{a}_{t+1}
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
 \rho_\theta & 0 \\
 0 & \rho_a
