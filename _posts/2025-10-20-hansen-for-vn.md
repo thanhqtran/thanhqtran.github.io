@@ -260,10 +260,10 @@ The estimated parameters are:
 | Parameter                                         | Coefficient | Std. Error | t-statistic | p-value       |
 |---------------------------------------------------|-------------|------------|-------------|---------------|
 | Productivity shock mean ($\bar{\theta}$)          | 0.38993     | 0.050089   | 7.7848      | 6.8834e-15    |
-| Productivity persistence ($\rho$)                 | 0.95931     | 0.025398   | 37.772      | 0             |
-| Productivity innovation std ($\sigma_e$)          | 0.099209    | 0.013974   | 7.0997      | 1.2506e-12    |
+| Productivity shock persistence ($\rho$)                 | 0.95931     | 0.025398   | 37.772      | 0             |
+| Productivity shock std ($\sigma_e$)          | 0.099209    | 0.013974   | 7.0997      | 1.2506e-12    |
 | Preference shock persistence ($\rho_a$)           | 0.93936     | 0.01472    | 63.815      | 0             |
-| Innovation of preference shock std ($\sigma_a$)   | 0.25173     | 0.0066917  | 37.619      | 0             |
+| Preference shock std ($\sigma_a$)   | 0.25173     | 0.0066917  | 37.619      | 0             |
 | Output elasticity of capital ($\alpha$)           | 0.26933     | 0.013686   | 19.679      | 0             |
 | Utility function parameter ($\gamma$)             | 0.013093    | 0.0012716  | 10.296      | 0             |
 
