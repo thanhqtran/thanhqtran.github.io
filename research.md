@@ -22,6 +22,10 @@ layout: page
 
 
 ## Conferences
+
+### Upcoming
+- The 16th Vietnam Economist Annual Meeting (TUEBA, December 9, 2025).
+
 ### Past Presentations
 
 - Japanese Economic Association Spring Meeting (May 29, 2022, Yokohama). 
