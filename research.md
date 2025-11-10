@@ -18,7 +18,7 @@ layout: page
 
 (3) Fertility and R&D-based Growth: The Role of Higher Education.
 
-(4) Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam (with Huy Le Vu)
+(4) Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam (with [Huy Le Vu](https://huylevu.com/) )
 
 (5) Rational Addiction, Cigarette Consumption and Quitting Behaviors (with Tuong-Vy Phan, Anh Ngoc Nguyen)
 
