@@ -12,7 +12,7 @@ layout: page
 
 ## Work in Progress
 
-(1) Dual Caregiving, Declining Birth Rate, and Economic Stability, with [Akiomi Kitagawa](https://researchmap.jp/read0118970?lang=en). [DEPOCEN Working Paper](https://ideas.repec.org/p/dpc/wpaper/0325.html)
+(1) Dual Caregiving, Declining Birth Rate, and Economic Stability, with [Akiomi Kitagawa](https://researchmap.jp/read0118970?lang=en). ([DEPOCEN Working Paper 193](https://ideas.repec.org/p/dpc/wpaper/0325.html))
 
 (2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. [R&R]
 
