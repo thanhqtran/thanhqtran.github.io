@@ -12,22 +12,20 @@ layout: page
 
 ## Work in Progress
 
-(1) Dual Caregiving, Declining Birth Rate, and Economic Stability. [[Old WP]](https://www2.econ.tohoku.ac.jp/~PDesign/dp/TUPD-2025-003.pdf) [[Updated Version]](https://www.dropbox.com/scl/fi/lg0g4izfsnwizq5qr79fm/main_dualcare_rev4.pdf?rlkey=yzcm51bt18onqoydwg8cp0zgx&st=1ygirbpv&dl=0)
+(1) Dual Caregiving, Declining Birth Rate, and Economic Stability [[Old WP]](https://www2.econ.tohoku.ac.jp/~PDesign/dp/TUPD-2025-003.pdf) [[Updated Version]](https://www.dropbox.com/scl/fi/lg0g4izfsnwizq5qr79fm/main_dualcare_rev4.pdf?rlkey=yzcm51bt18onqoydwg8cp0zgx&st=1ygirbpv&dl=0), with [Akiomi Kitagawa](https://researchmap.jp/read0118970?lang=en)
 
 (2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. [R&R]
 
-(3) Fertility and R&D-based Growth: The Role of Higher Education.
+(3) Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam (with [Huy Le Vu](https://huylevu.com/))
 
-(4) Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam (with [Huy Le Vu](https://huylevu.com/))
+(4) Rational Addiction, Cigarette Consumption and Quitting Behaviors (with Tuong-Vy Phan, [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen))
 
-(5) Rational Addiction, Cigarette Consumption and Quitting Behaviors (with Tuong-Vy Phan, Anh Ngoc Nguyen)
-
-
+(5) Old-Age Security in an Aging Economy (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
 
 ## Conferences
 
 ### Upcoming
-- The 16th Vietnam Economist Annual Meeting (TUEBA, December 9, 2025).
+- The 16th Vietnam Economist Annual Meeting (TUEBA, December 9-10, 2025).
 
 ### Past Presentations
 
