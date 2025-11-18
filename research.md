@@ -18,7 +18,7 @@ layout: page
 
 (3) Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam (with [Huy Le Vu](https://huylevu.com/))
 
-(4) Rational Addiction, Cigarette Consumption and Quitting Behaviors (with Tuong-Vy Phan, [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen))
+(4) Rational Addiction, Cigarette Consumption and Quitting Behaviors (with [Tuong-Vy Phan](https://ideas.repec.org/e/pph171.html), [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen))
 
 (5) Old-Age Security in an Aging Economy (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
 
