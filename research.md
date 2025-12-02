@@ -22,6 +22,8 @@ layout: page
 
 (5) Old-Age Security in an Aging Economy (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
 
+(6) What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model.
+
 ## Conferences
 
 ### Upcoming
