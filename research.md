@@ -27,7 +27,6 @@ layout: page
 ## Conferences
 
 ### Upcoming
-- The 16th Vietnam Economist Annual Meeting (TUEBA, December 9-10, 2025).
 
 ### Past Presentations
 
@@ -39,3 +38,5 @@ layout: page
 - The 18th Macroeconomics Conference for Young Economists (Kyoto University, 2024).
 - Joint workshop TU Research Center for Policy Design and Sophia Institute for Human Security (Tohoku University, 2024).
 - MFE Seminar (National Economics University, 2025/02)
+- The 16th Vietnam Economist Annual Meeting (TUEBA, December 9-10, 2025).
+
