@@ -24,7 +24,9 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 (5) Old-Age Security in an Aging Economy (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
 
-(6) What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
+(6) What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model.
+
+(7) The Roles of Fiscal and Monetary Policies in Vietnam: A New Keynesian Approach (with Cuong Le Van)
 
 ## Conferences
 
