@@ -1,4 +1,56 @@
-<h2>Contact</h2>
+---
+layout: default
+---
+
+<!doctype html>
+<html>
+  <head>
+    <style>
+      .about-section {
+        display: flex;
+        margin-top: 20px;
+      }
+
+      .headshot-column {
+        flex: 1; /* Headshot takes 1 part of the total space */
+        display: flex;
+        justify-content: center; /* Center the headshot */
+        align-items: center; /* Vertically center the headshot */
+      }
+
+      .headshot-column img {
+        max-width: 100%; /* Ensure it doesn't overflow */
+        border: 2px solid #ccc; /* Optional border styling */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow for aesthetics */
+      }
+
+      .text-column {
+        flex: 2; /* Text takes 2 parts of the total space */
+        padding-left: 20px; /* Add some space between columns */
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <h2>About</h2>
+
+    <div class="about-section">
+      <!-- Headshot Column -->
+      <div class="headshot-column">
+        <img src="headshot.jpg" alt="Your Headshot">
+      </div>
+      
+      <!-- Text Column -->
+      <div class="text-column">
+        <p>I am a Research Fellow at the <a href="https://depocen.org/vi/">Development and Policies Research Center</a> and 
+          a Visiting Fellow at the <a href="https://www2.econ.tohoku.ac.jp/~PDesign/en.html"> Research Center for Policy Design</a>, Graduate School of Economics and Management, Tohoku University</p>
+        <p>I earned my Ph.D. degree in Economics from Tohoku University, Japan, in March 2025 and currently live in Hanoi.</p>
+        <p>My research interests include macroeconomics, growth, and life-cycle dynamics.</p>
+      </div>
+    </div>
+
+    <h2>Contact</h2>
 
 <p>
   <strong>Email:</strong>
@@ -41,3 +93,7 @@
     </span>
   </a>
 </p>
+
+
+  </body>
+</html>
