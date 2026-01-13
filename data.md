@@ -1,6 +1,6 @@
 ---
-title: Vietnam's Economic Indicators
-permalink: /macroeconomicmonitor/
+title: Data
+permalink: /data/
 layout: page
 ---
 
