@@ -28,6 +28,10 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 (7) The Roles of Fiscal and Monetary Policies in Vietnam: A New Keynesian Approach (with Cuong Le Van)
 
+## Non-Peer-Reviewed Publications
+
+(1) Vietnam's Annual Macroeconomic Review 2025 [PDF](https://www.dropbox.com/scl/fi/viono3t1vy0mh1bjha10p/VAMR_2025.pdf?rlkey=5xk9tjov55r3f3pqoy657u9ym&st=cv21oirp&dl=0)
+
 ## Conferences
 
 ### Upcoming
