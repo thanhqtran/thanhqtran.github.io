@@ -16,7 +16,7 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 (1) Dual Caregiving, Declining Birth Rate, and Economic Stability, with [Akiomi Kitagawa](https://researchmap.jp/read0118970?lang=en). ([DEPOCEN Working Paper 193](https://ideas.repec.org/p/dpc/wpaper/0325.html))
 
-(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. [R&R]
+(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. (R&R)
 
 (3) Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam (with [Huy Le Vu](https://huylevu.com/))
 
@@ -47,4 +47,8 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 - Joint workshop TU Research Center for Policy Design and Sophia Institute for Human Security (Tohoku University, 2024).
 - MFE Seminar (National Economics University, 2025/02)
 - The 16th Vietnam Economist Annual Meeting (TUEBA, December 9-10, 2025).
+
+## Referee Service
+
+Energy Economics, Economic Modelling
 
