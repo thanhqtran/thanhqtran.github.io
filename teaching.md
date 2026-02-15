@@ -4,6 +4,14 @@ permalink: /teaching/
 layout: page
 ---
 
+## Vietcombank
+
+- Application of QPM in Economic Forecasting. Spring 2026.
+
+## Center for Advanced Studies in Economics and Data Science (CASED)
+
+- Advanced Macroeconomics. Spring 2026.
+
 ## National Economics University
 
 - Optimization (Tối ưu hóa 1) D403, D407: [[Slides]](https://www.dropbox.com/scl/fo/4p3iq2ncgzevsagn60foq/ADl9H9Cl-sO57_vtF7lekRI?rlkey=3emy4wtvcufpbp40kvehfjtd8&st=mpg5frln&dl=0)
