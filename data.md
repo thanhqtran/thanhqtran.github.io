@@ -6,6 +6,8 @@ layout: page
 
 This page displays some key macroeconomic indicators for Vietnam, including GDP, unemployment rate, inflation rate, and other relevant statistics. I made a script to scrape raw data from the General Statistics Office of Vietnam (GSO). You can download [the latest update of the dataset here](https://github.com/thanhqtran/gso-macro-monitor/releases).
 
+New journal focusing on Vietnamese economy here: [Vietnamese Economic Review](https://vner.org/index.php/vner)
+
 ### Data Sources
 
 - World Bank's Microdata Library [[link]](https://microdata.worldbank.org/index.php/catalog?page=1&sk=vietnam&country%5B%5D=196&sort_by=rank&sort_order=desc&ps=15)
