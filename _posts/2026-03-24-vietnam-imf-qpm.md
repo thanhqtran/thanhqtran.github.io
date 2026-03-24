@@ -9,7 +9,7 @@ tags: [qpm]
 
 This note summarizes the canonical **Quarterly Projection Model (QPM)**, a small open-economy New Keynesian model used by inflation-targeting central banks for monetary policy analysis and forecasting.
 
-![Vietnam data](https://github.com/thanhqtran/thanhqtran.github.io/blob/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp80491646_d5cc_43cd_af99_40322af59cd6_page-0001.jpg)
+![Vietnam data](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp80491646_d5cc_43cd_af99_40322af59cd6_page-0001.jpg)
 
 ## What is the QPM?
 
@@ -161,12 +161,20 @@ All AR coefficients for trends ($\rho$) are estimated in the range 0.70–0.95, 
 
 ## Results from Kalman filtration
 
-![](https://github.com/thanhqtran/thanhqtran.github.io/blob/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp0e03c5eb_6cde_4aa6_b1e7_dff195b3f2eb_page-0001.jpg)
+The Kalman smoother is applied to the full QPM to jointly estimate all unobserved trends and gaps from Vietnamese data. The figures below show the decomposition of key macroeconomic variables into their trend and cyclical components.
 
-![](https://github.com/thanhqtran/thanhqtran.github.io/blob/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp6e4a1cc6_7868_485a_8941_aed4c2043db6_page-0001.jpg)
+The first figure shows the estimated **output gap** and **real exchange rate gap**. The output gap captures the deviation of actual GDP from potential — positive values indicate an overheating economy, negative values indicate slack. The real exchange rate gap measures currency misalignment relative to its long-run equilibrium path.
 
-Some forecasts
+![Gaps](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp0e03c5eb_6cde_4aa6_b1e7_dff195b3f2eb_page-0001.jpg)
 
-![](https://github.com/thanhqtran/thanhqtran.github.io/blob/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0001.jpg)
+The second figure presents the estimated **trends**: potential output growth, equilibrium real interest rate, and the real exchange rate trend. These slow-moving components evolve as AR(1) processes and are largely outside the reach of short-run monetary policy.
 
-![](https://github.com/thanhqtran/thanhqtran.github.io/blob/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0002.png)
+![Trends](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp6e4a1cc6_7868_485a_8941_aed4c2043db6_page-0001.jpg)
+
+## Baseline Forecast
+
+The baseline forecast simulates the model forward from the most recent Kalman-smoothed initial conditions, with foreign-sector variables hard-tuned to assumed external paths. The figures show year-on-year inflation, the output gap, the policy interest rate, and the nominal exchange rate over the forecast horizon. Shaded bands represent fan-chart uncertainty derived from the posterior distribution of shocks.
+
+![Forecast page 1](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0001.jpg)
+
+![Forecast page 2](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0002.png)
