@@ -1,5 +1,7 @@
 ---
-layout: default
+title: Notes
+permalink: /notes/
+layout: page
 ---
 
 <div class="posts">
