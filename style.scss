@@ -434,3 +434,130 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+/******************/
+/* LIGHT/DARK MODE */
+/******************/
+
+#theme-toggle {
+  background: none;
+  border: 1px solid $lightGray;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 20px;
+  padding: 2px 7px;
+  color: $darkGray;
+  vertical-align: middle;
+  line-height: 1.4;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+
+  &:hover {
+    background-color: $lightGray;
+  }
+
+  @include mobile {
+    margin: 0 10px;
+  }
+}
+
+[data-theme="dark"] {
+  body {
+    background: #1a1a1a;
+    color: #ccc;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #ddd;
+  }
+
+  h4 {
+    color: #aaa;
+  }
+
+  a {
+    color: #7ab4e4;
+    &:hover, &:active {
+      color: #7ab4e4;
+    }
+  }
+
+  .wrapper-masthead {
+    background: #1a1a1a;
+  }
+
+  .masthead {
+    border-bottom-color: #444;
+  }
+
+  .site-name a {
+    color: #ddd;
+  }
+
+  .site-description {
+    color: #aaa;
+  }
+
+  nav a {
+    color: #ccc;
+    @include mobile {
+      color: #7ab4e4;
+    }
+  }
+
+  #theme-toggle {
+    color: #ccc;
+    border-color: #555;
+    &:hover {
+      background-color: #333;
+    }
+  }
+
+  .posts > .post {
+    border-bottom-color: #444;
+  }
+
+  .post blockquote {
+    border-left-color: #555;
+    color: #aaa;
+  }
+
+  blockquote {
+    border-left-color: #555;
+  }
+
+  .wrapper-footer {
+    border-top-color: #444;
+    border-bottom-color: #444;
+    background-color: #222;
+  }
+
+  .date {
+    color: #888;
+  }
+
+  code, pre {
+    background-color: #2d2d2d;
+    color: #ccc;
+  }
+
+  .panel {
+    background-color: #222;
+    border-color: #444;
+  }
+
+  .panel-heading {
+    background-color: #2d2d2d;
+    border-bottom-color: #444;
+  }
+
+  #searchBar {
+    #searchString {
+      background-color: #2d2d2d;
+      color: #ccc;
+    }
+    #archives {
+      color: #ccc;
+    }
+  }
+}

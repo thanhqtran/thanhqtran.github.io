@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html data-theme="light">
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -48,6 +48,12 @@
 
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
 
+  <script>
+    (function() {
+      var saved = localStorage.getItem('theme');
+      if (saved) document.documentElement.setAttribute('data-theme', saved);
+    })();
+  </script>
   </head>
 
   <div class="grid" id="searchBar">
@@ -88,6 +94,7 @@
             <a href="/vitae">CV</a>
             <a href="{{ site.baseurl }}/notes">Notes</a>
             <a href="/data">Data</a>
+            <button id="theme-toggle" aria-label="Toggle light/dark mode">&#9790;</button>
           </nav>
         </header>
       </div>
@@ -110,5 +117,6 @@
     {% include open-embed.html %}
     <script type="text/javascript" src="/js/lightbox.js"></script>
     <link rel="stylesheet" href="/css/lightbox.css">
+    <script type="text/javascript" src="/js/theme-toggle.js"></script>
   </body>
 </html>
