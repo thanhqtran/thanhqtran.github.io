@@ -98,19 +98,18 @@ $$i_t = g_1 i_{t-1} + (1-g_1)\bigl[i_t^n + g_2(E_t\pi^4_{t+N} - \pi^T_{t+N}) + g
 
 The central bank smooths the interest rate ($g_1$), reacts to expected inflation deviations from target ($g_2 > 1$, Taylor principle), and to the output gap ($g_3$). The neutral rate is $i_t^n = \bar{r}_t + E_t\pi^4_{t+N}$.
 
-## Key Variable Types
+## Estimation
 
 - **Observed**: GDP, CPI, interest rates, exchange rate, inflation target
 - **Unobserved (estimated via Kalman filter)**: output gap, potential growth, equilibrium real interest rate, real exchange rate trend
 
-## Long-Run Consistency
 
 Trends must satisfy two equilibrium conditions:
 
 - **PPP**: $\Delta\bar{s} = \bar{\pi} - \bar{\pi}^* - \Delta\bar{z}$ — the inflation target and nominal depreciation path must be mutually consistent.
 - **UIP (real)**: $\Delta\bar{z} = \bar{r} - \bar{r}^* - prem$ — real exchange rate trend must be consistent with the real interest rate differential.
 
-## Calibration Guidelines
+### Results
 
 | Parameter | Typical range | Posterior mode | Interpretation |
 | --- | --- | --- | --- |
@@ -157,19 +156,31 @@ The **output gap weight** ($g_3 = 0.397$) is comparable to the inflation weight,
 
 ### Trend Persistence
 
-All AR coefficients for trends ($\rho$) are estimated in the range 0.70–0.95, confirming that equilibrium values evolve slowly. The near-unity estimates for foreign variables ($\rho_{RS\_RW} = \rho_{RR\_RW\_BAR} = 0.95$) reflect that external conditions (global interest rates, foreign output) are highly persistent and largely exogenous to Vietnamese conditions.
+All AR coefficients for trends ($\rho$) are estimated in the range 0.70–0.95, confirming that equilibrium values evolve slowly. The estimates for foreign variables ($\rho_{RS\_RW} = \rho_{RR\_RW\_BAR} = 0.95$) reflect that external conditions (global interest rates, foreign output) are highly persistent and largely exogenous to Vietnamese conditions.
 
 ## Results from Kalman filtration
 
-The Kalman smoother is applied to the full QPM to jointly estimate all unobserved trends and gaps from Vietnamese data. The figures below show the decomposition of key macroeconomic variables into their trend and cyclical components.
+The Kalman smoother is applied to the full QPM to jointly estimate all unobserved trends and gaps from Vietnamese data. The figures below show bar decompositions of each endogenous variable into contributions from its structural drivers.
 
-The first figure shows the estimated **output gap** and **real exchange rate gap**. The output gap captures the deviation of actual GDP from potential — positive values indicate an overheating economy, negative values indicate slack. The real exchange rate gap measures currency misalignment relative to its long-run equilibrium path.
+### Output Gap and MCI Decomposition
+
+The first figure decomposes the **output gap** (top panel) and the **monetary conditions index** (bottom panel). The output gap identifies the phases of Vietnam's business cycle relative to potential.
 
 ![Gaps](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp0e03c5eb_6cde_4aa6_b1e7_dff195b3f2eb_page-0001.jpg)
 
-The second figure presents the estimated **trends**: potential output growth, equilibrium real interest rate, and the real exchange rate trend. These slow-moving components evolve as AR(1) processes and are largely outside the reach of short-run monetary policy.
+**Output gap**: The economy ran a mild positive gap through most of 2015–2019, consistent with Vietnam's strong pre-pandemic growth. The sharpest feature is the large **negative output gap around 2021**, driven by the Covid-19 shock — the bar decomposition shows this was dominated by the residual shock term rather than policy tightening. Recovery was rapid, with the gap returning close to zero by 2022–2023. The forward-looking (lead) component is small throughout, consistent with the low estimated $b_0$, while the lagged component provides the dominant inertial drag each quarter.
+
+**MCI decomposition**: The MCI reflects the combined stance of the real interest rate gap (RIR gap) and real exchange rate gap (RER gap). During the Covid period, the exchange rate channel (orange bars) dominated — a real depreciation of the dong eased monetary conditions and partially offset the demand contraction. The interest rate channel (blue bars) became more prominent from 2022 onward as the SBV began tightening, confirming the estimated high weight of the interest rate in MCI ($b_4 = 0.729$).
+
+### Marginal Cost and Inflation Decomposition
+
+The second figure decomposes **real marginal cost** (top panel) and **inflation** (bottom panel) into structural contributions.
 
 ![Trends](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp6e4a1cc6_7868_485a_8941_aed4c2043db6_page-0001.jpg)
+
+**Marginal cost**: Real marginal cost is driven almost entirely by the output gap component (consistent with $a_3 = 0.900$), with the RER gap playing a minor secondary role. Cost pressures were negative during 2020–2021 (slack conditions), then turned sharply positive in 2022 as the output gap closed and global commodity prices rose.
+
+**Inflation decomposition**: The post-Covid inflation surge (~2022) is attributed primarily to a large **cost-push shock** (residual term), rather than to demand overheating or forward inflation expectations alone. Backward-looking persistence (inertia, $a_1 = 0.419$) amplified and prolonged the initial shock. Forward-looking expectations contributed a stabilizing pull toward target once the SBV signaled its inflation-fighting stance. By 2024–2025, all contributions are small and inflation has returned close to the target, consistent with the model's relatively low inertia estimate.
 
 ## Baseline Forecast
 
