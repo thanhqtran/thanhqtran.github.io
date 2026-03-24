@@ -159,4 +159,10 @@ All AR coefficients for trends ($\rho$) are estimated in the range 0.70–0.95, 
 
 ## Results from Kalman filtration
 
+![]()
 
+![]()
+
+Some forecasts
+
+![]()
