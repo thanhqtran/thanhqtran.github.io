@@ -127,11 +127,9 @@ $$
 $$
 
 
----
+The system can be split into:
 
-## State-space representation
-
-The contemporary equations:
+- The contemporary equations:
 
 $$
 \begin{bmatrix}
@@ -176,7 +174,7 @@ E_t \hat{a}_{t+1}
 \end{bmatrix}
 $$
 
-The dynamic equations:
+- The dynamic equations:
 
 $$
 \begin{align}
