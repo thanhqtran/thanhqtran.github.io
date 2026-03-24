@@ -9,6 +9,8 @@ tags: [qpm]
 
 This note summarizes the canonical **Quarterly Projection Model (QPM)**, a small open-economy New Keynesian model used by inflation-targeting central banks for monetary policy analysis and forecasting.
 
+![Vietnam data](https://github.com/thanhqtran/thanhqtran.github.io/blob/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp80491646_d5cc_43cd_af99_40322af59cd6_page-0001.jpg)
+
 ## What is the QPM?
 
 The QPM is a **semi-structural, general equilibrium, stochastic** model with rational expectations. Prices are sticky, output is demand-determined in the short run, and the central bank uses the interest rate as its policy instrument. 
@@ -159,10 +161,12 @@ All AR coefficients for trends ($\rho$) are estimated in the range 0.70–0.95, 
 
 ## Results from Kalman filtration
 
-![]()
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp0e03c5eb_6cde_4aa6_b1e7_dff195b3f2eb_page-0001.jpg)
 
-![]()
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp6e4a1cc6_7868_485a_8941_aed4c2043db6_page-0001.jpg)
 
 Some forecasts
 
-![]()
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0001.jpg)
+
+![](https://github.com/thanhqtran/thanhqtran.github.io/blob/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0002.png)
