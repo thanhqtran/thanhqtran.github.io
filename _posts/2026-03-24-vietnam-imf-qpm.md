@@ -138,21 +138,21 @@ The **external demand spillover** ($b_3 = 0.342$) is significant and moderate, r
 
 ### Inflation (Phillips Curve)
 
-The **inflation inertia** ($a_1 = 0.419$) is at the lower end of the typical range, suggesting that roughly 58% of firms are forward-looking in price-setting. This is a relatively favorable finding — it implies that inflation expectations are not heavily anchored to the past, reducing the output sacrifice needed to bring inflation back to target following a cost-push shock.
+The **inflation inertia** ($a_1 = 0.419$) is at the lower end of the typical range, suggesting that roughly 58% of firms are forward-looking in price-setting. This implies that inflation expectations are not heavily anchored to the past, reducing the output sacrifice needed to bring inflation back to target following a cost-push shock.
 
-The **cost pass-through** ($a_2 = 0.109$) indicates substantial price rigidity: only about 11% of marginal cost increases translate to inflation each quarter, consistent with a high degree of price stickiness under the Calvo pricing mechanism. The **domestic cost weight** ($a_3 = 0.696$) implies that domestic demand conditions account for roughly 70% of real marginal cost pressures, with imported costs (via the real exchange rate gap) contributing the remaining 30%. This more balanced split — compared to earlier estimates — is consistent with an open economy in which import price movements play a meaningful role in shaping domestic inflation dynamics.
+The **cost pass-through** ($a_2 = 0.109$) indicates substantial price rigidity: only about 11% of marginal cost increases translate to inflation each quarter, consistent with a high degree of price stickiness under the Calvo pricing mechanism. The **domestic cost weight** ($a_3 = 0.696$) implies that domestic demand conditions account for roughly 70% of real marginal cost pressures, with imported costs (via the real exchange rate gap) contributing the remaining 30%. Import price movements play a meaningful role in shaping domestic inflation dynamics.
 
 ### Exchange Rate (UIP)
 
-The **backward-looking FX parameter** ($e_1 = 0.925$) is very high — among the highest plausible values — indicating that exchange rate expectations are strongly extrapolative. Only about 7.5% of the expected exchange rate is determined by forward-looking UIP arbitrage; the remaining 92.5% reflects inertia from past values. This is consistent with Vietnam's managed exchange rate regime, where the State Bank of Vietnam limits sharp movements and market participants rationally expect continuity.
+The **backward-looking FX parameter** ($e_1 = 0.925$) is very high, indicating that exchange rate expectations are weak. Only about 7.5% of the expected exchange rate is determined by forward-looking UIP arbitrage; the remaining 92.5% reflects inertia from past values. This is consistent with Vietnam's managed exchange rate regime, where the State Bank of Vietnam limits sharp movements and market participants rationally expect continuity.
 
 ### Monetary Policy Rule
 
 The **interest rate smoothing** ($g_1 = 0.800$, at its upper bound) confirms a strong "wait-and-see" bias in Vietnamese monetary policy. The central bank adjusts rates gradually rather than responding sharply to new information.
 
-The **inflation response coefficient** ($g_2 = 0.427$) remains below unity, reflecting that the SBV has historically been cautious in raising rates in response to inflationary pressure — the Taylor principle is not strictly satisfied in this estimate.
+The **inflation response coefficient** ($g_2 = 0.427$) hints that the Bank has been cautious in raising rates in response to inflationary pressure. 
 
-The **output gap weight** ($g_3 = 0.392$) is comparable to the inflation weight, suggesting the SBV places significant weight on growth stabilization alongside inflation, consistent with its dual mandate orientation.
+The **output gap weight** ($g_3 = 0.392$) is comparable to the inflation weight, suggesting the SBV places significant weight on growth stabilization alongside inflation, consistent with its dual mandate orientation, although the strength of the transmission mechanism is relatively weak.
 
 ### Trend Persistence
 
@@ -161,6 +161,10 @@ All AR coefficients for trends ($\rho$) are estimated in the range 0.70–0.95, 
 ## Results from Kalman filtration
 
 The Kalman smoother is applied to the full QPM to jointly estimate all unobserved trends and gaps from Vietnamese data. The figures below show bar decompositions of each endogenous variable into contributions from its structural drivers.
+
+Fitness
+
+![Fitness](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tpfbb6418a_1577_4be1_97e6_efa1d8a1813c_page-0001.jpg)
 
 ### Output Gap and MCI Decomposition
 
@@ -184,8 +188,8 @@ The second figure decomposes **real marginal cost** (top panel) and **inflation*
 
 ## Baseline Forecast
 
-The baseline forecast simulates the model forward from the most recent Kalman-smoothed initial conditions, with foreign-sector variables hard-tuned to assumed external paths. The figures show year-on-year inflation, the output gap, the policy interest rate, and the nominal exchange rate over the forecast horizon. Shaded bands represent fan-chart uncertainty derived from the posterior distribution of shocks.
+The baseline forecast simulates the model forward from the most recent Kalman-smoothed initial conditions, with foreign-sector variables hard-tuned to assumed external paths (US' GDP, CPI, Interest rates forecasts are borrowed from [Conference Board](https://www.conference-board.org/research/us-forecast), dated 2026.03.25). The figures show year-on-year inflation, the output gap, the policy interest rate, and the nominal exchange rate over the forecast horizon. Shaded bands represent fan-chart uncertainty derived from the posterior distribution of shocks.
 
-![Forecast page 1](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0001.jpg)
+![Forecast page 1](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0001.png)
 
 ![Forecast page 2](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0002.png)
