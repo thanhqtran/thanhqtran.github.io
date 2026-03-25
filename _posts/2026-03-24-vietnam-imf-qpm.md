@@ -9,6 +9,8 @@ tags: [qpm]
 
 This note summarizes the canonical **Quarterly Projection Model (QPM)**, a small open-economy New Keynesian model used by inflation-targeting central banks for monetary policy analysis and forecasting.
 
+Replication code [HERE](https://github.com/thanhqtran/imf.qpm.vn/tree/main/baseline). If you spot any errors, please let me know.
+
 ![Vietnam data](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp80491646_d5cc_43cd_af99_40322af59cd6_page-0001.jpg)
 
 ## What is the QPM?
