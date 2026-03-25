@@ -164,7 +164,7 @@ The Kalman smoother is applied to the full QPM to jointly estimate all unobserve
 
 Fitness
 
-![Fitness](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tpfbb6418a_1577_4be1_97e6_efa1d8a1813c_page-0001.jpg)
+![Fitness](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/dc32972ab18a045f4f07ac959fbb982b62eab8d9/_posts/_assets/tpfbb6418a_1577_4be1_97e6_efa1d8a1813c_page-0001.jpg)
 
 ### Output Gap and MCI Decomposition
 
@@ -190,6 +190,6 @@ The second figure decomposes **real marginal cost** (top panel) and **inflation*
 
 The baseline forecast simulates the model forward from the most recent Kalman-smoothed initial conditions, with foreign-sector variables hard-tuned to assumed external paths (US' GDP, CPI, Interest rates forecasts are borrowed from [Conference Board](https://www.conference-board.org/research/us-forecast), dated 2026.03.25). The figures show year-on-year inflation, the output gap, the policy interest rate, and the nominal exchange rate over the forecast horizon. Shaded bands represent fan-chart uncertainty derived from the posterior distribution of shocks.
 
-![Forecast page 1](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0001.png)
+![Forecast page 1](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/57f4ab9746b253475d48cbc4faf839ff5056f5ac/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0001.png)
 
-![Forecast page 2](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0002.png)
+![Forecast page 2](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/57f4ab9746b253475d48cbc4faf839ff5056f5ac/_posts/_assets/tp8c184b05_b3d9_473e_95bf_d17534d1ca5b_page-0002.png)
