@@ -113,46 +113,46 @@ Trends must satisfy two equilibrium conditions:
 
 | Parameter | Typical range | Posterior mode | Interpretation |
 | --- | --- | --- | --- |
-| $b_0$ | 0.1–0.9 | 0.085 | Output gap lead |
-| $b_1$ | 0.1–0.9 | 0.573 | Output gap persistence |
-| $b_2$ | 0.1–0.5 | 0.197 | Policy (MCI) pass-through to demand |
-| $b_3$ | 0.1–0.5 | 0.311 | External demand pass-through to demand |
-| $b_4$ | 0.3–0.8 | 0.729 | Weight of interest in MCI |
+| $b_0$ | 0.1–0.9 | 0.083 | Output gap lead |
+| $b_1$ | 0.1–0.9 | 0.593 | Output gap persistence |
+| $b_2$ | 0.1–0.5 | 0.205 | Policy (MCI) pass-through to demand |
+| $b_3$ | 0.1–0.5 | 0.342 | External demand pass-through to demand |
+| $b_4$ | 0.3–0.8 | 0.300 | Weight of interest in MCI |
 | $a_1$ | 0.4–0.9 | 0.419 | Inflation inertia |
-| $a_2$ | 0.1–0.5 | 0.203 | Cost pass-through to prices |
-| $a_3$ | 0.6–0.9 | 0.900 | Weight of domestic costs in RMC |
+| $a_2$ | 0.1–0.5 | 0.109 | Cost pass-through to prices |
+| $a_3$ | 0.6–0.9 | 0.696 | Weight of domestic costs in RMC |
 | $g_1$ | 0.0–0.8 | 0.800 | Interest rate smoothing ("wait-and-see" policy) |
-| $g_2$ | 0.1–Inf | 0.463 | Weight of inflation in policy decision |
-| $g_3$ | 0.1–Inf | 0.397 | Weight of output gap in policy decision |
-| $e_1$ | 0.4–0.9 | 0.921 | FX backward-looking |
+| $g_2$ | 0.1–Inf | 0.427 | Weight of inflation in policy decision |
+| $g_3$ | 0.1–Inf | 0.392 | Weight of output gap in policy decision |
+| $e_1$ | 0.4–0.9 | 0.925 | FX backward-looking |
 
 ## Interpretation of Estimation Results
 
 ### Aggregate Demand (IS Curve)
 
-The estimated **output gap persistence** ($b_1 = 0.573$) is moderate, indicating that business cycles in Vietnam are not excessively prolonged but do carry meaningful inertia. The **forward-looking component** ($b_0 = 0.085$) is small but statistically significant at the 10% level ($p = 0.093$), suggesting agents form some expectations about future output conditions, though backward-looking dynamics dominate.
+The estimated **output gap persistence** ($b_1 = 0.593$) is moderate, indicating that business cycles in Vietnam are not excessively prolonged but do carry meaningful inertia. The **forward-looking component** ($b_0 = 0.083$) is small and only marginally significant ($p = 0.100$), suggesting agents form some expectations about future output conditions, though backward-looking dynamics dominate.
 
-The **MCI pass-through** ($b_2 = 0.197$) is relatively low, consistent with limited financial market depth and weaker-than-average monetary policy transmission typical of developing economies. The high weight of **interest rate in MCI** ($b_4 = 0.729$) implies that the interest rate channel dominates over the exchange rate channel in determining monetary conditions — the opposite of what is often assumed for highly open economies.
+The **MCI pass-through** ($b_2 = 0.205$) is relatively low, consistent with limited financial market depth and weaker-than-average monetary policy transmission typical of developing economies. The low weight of **interest rate in MCI** ($b_4 = 0.300$) implies that the **exchange rate channel** (weight 0.7) dominates over the interest rate channel in determining monetary conditions — a hallmark of a highly open, trade-dependent economy such as Vietnam, where exchange rate movements transmit monetary conditions more powerfully than changes in the policy rate.
 
-The **external demand spillover** ($b_3 = 0.311$) is significant and moderate, reflecting Vietnam's substantial trade openness; foreign demand shocks pass through to domestic output at roughly one-third strength.
+The **external demand spillover** ($b_3 = 0.342$) is significant and moderate, reflecting Vietnam's substantial trade openness; foreign demand shocks pass through to domestic output at roughly one-third strength.
 
 ### Inflation (Phillips Curve)
 
 The **inflation inertia** ($a_1 = 0.419$) is at the lower end of the typical range, suggesting that roughly 58% of firms are forward-looking in price-setting. This is a relatively favorable finding — it implies that inflation expectations are not heavily anchored to the past, reducing the output sacrifice needed to bring inflation back to target following a cost-push shock.
 
-The **cost pass-through** ($a_2 = 0.203$) indicates meaningful price rigidity: only about 20% of marginal cost increases translate to inflation each quarter, consistent with the Calvo pricing mechanism. The **domestic cost weight** ($a_3 = 0.900$, at its upper bound) implies that domestic demand conditions — rather than imported costs — are the dominant driver of marginal cost pressures. This finding may reflect the large share of non-tradables in Vietnam's CPI basket.
+The **cost pass-through** ($a_2 = 0.109$) indicates substantial price rigidity: only about 11% of marginal cost increases translate to inflation each quarter, consistent with a high degree of price stickiness under the Calvo pricing mechanism. The **domestic cost weight** ($a_3 = 0.696$) implies that domestic demand conditions account for roughly 70% of real marginal cost pressures, with imported costs (via the real exchange rate gap) contributing the remaining 30%. This more balanced split — compared to earlier estimates — is consistent with an open economy in which import price movements play a meaningful role in shaping domestic inflation dynamics.
 
 ### Exchange Rate (UIP)
 
-The **backward-looking FX parameter** ($e_1 = 0.921$) is very high — among the highest plausible values — indicating that exchange rate expectations are strongly extrapolative. Only about 8% of the expected exchange rate is determined by forward-looking UIP arbitrage; the remaining 92% reflects inertia from past values. This is consistent with Vietnam's managed exchange rate regime, where the State Bank of Vietnam limits sharp movements and market participants rationally expect continuity.
+The **backward-looking FX parameter** ($e_1 = 0.925$) is very high — among the highest plausible values — indicating that exchange rate expectations are strongly extrapolative. Only about 7.5% of the expected exchange rate is determined by forward-looking UIP arbitrage; the remaining 92.5% reflects inertia from past values. This is consistent with Vietnam's managed exchange rate regime, where the State Bank of Vietnam limits sharp movements and market participants rationally expect continuity.
 
 ### Monetary Policy Rule
 
 The **interest rate smoothing** ($g_1 = 0.800$, at its upper bound) confirms a strong "wait-and-see" bias in Vietnamese monetary policy. The central bank adjusts rates gradually rather than responding sharply to new information.
 
-The **inflation response coefficient** ($g_2 = 0.463$) The low point estimate nonetheless reflects that the SBV has historically been cautious in raising rates in response to inflationary pressure.
+The **inflation response coefficient** ($g_2 = 0.427$) remains below unity, reflecting that the SBV has historically been cautious in raising rates in response to inflationary pressure — the Taylor principle is not strictly satisfied in this estimate.
 
-The **output gap weight** ($g_3 = 0.397$) is comparable to the inflation weight, suggesting the SBV places significant weight on growth stabilization alongside inflation, consistent with its dual mandate orientation.
+The **output gap weight** ($g_3 = 0.392$) is comparable to the inflation weight, suggesting the SBV places significant weight on growth stabilization alongside inflation, consistent with its dual mandate orientation.
 
 ### Trend Persistence
 
@@ -170,7 +170,7 @@ The first figure decomposes the **output gap** (top panel) and the **monetary co
 
 **Output gap**: The economy ran a mild positive gap through most of 2015–2019, consistent with Vietnam's strong pre-pandemic growth. The sharpest feature is the large **negative output gap around 2021**, driven by the Covid-19 shock — the bar decomposition shows this was dominated by the residual shock term rather than policy tightening. Recovery was rapid, with the gap returning close to zero by 2022–2023. The forward-looking (lead) component is small throughout, consistent with the low estimated $b_0$, while the lagged component provides the dominant inertial drag each quarter.
 
-**MCI decomposition**: The MCI reflects the combined stance of the real interest rate gap (RIR gap) and real exchange rate gap (RER gap). During the Covid period, the exchange rate channel (orange bars) dominated — a real depreciation of the dong eased monetary conditions and partially offset the demand contraction. The interest rate channel (blue bars) became more prominent from 2022 onward as the SBV began tightening, confirming the estimated high weight of the interest rate in MCI ($b_4 = 0.729$).
+**MCI decomposition**: The MCI reflects the combined stance of the real interest rate gap (RIR gap) and real exchange rate gap (RER gap). The exchange rate channel (orange bars) dominates throughout the sample, consistent with the low estimated weight of the interest rate in MCI ($b_4 = 0.300$), which assigns a 70% weight to the exchange rate channel. During the Covid period, a real depreciation of the dong eased monetary conditions and partially offset the demand contraction. The interest rate channel (blue bars) became more visible from 2022 onward as the SBV began tightening, but remained the secondary driver.
 
 ### Marginal Cost and Inflation Decomposition
 
@@ -178,7 +178,7 @@ The second figure decomposes **real marginal cost** (top panel) and **inflation*
 
 ![Trends](https://raw.githubusercontent.com/thanhqtran/thanhqtran.github.io/cd5c2fce319b540c0afe4e101527bd725dce1e82/_posts/_assets/tp6e4a1cc6_7868_485a_8941_aed4c2043db6_page-0001.jpg)
 
-**Marginal cost**: Real marginal cost is driven almost entirely by the output gap component (consistent with $a_3 = 0.900$), with the RER gap playing a minor secondary role. Cost pressures were negative during 2020–2021 (slack conditions), then turned sharply positive in 2022 as the output gap closed and global commodity prices rose.
+**Marginal cost**: Real marginal cost is driven primarily by the output gap component, but with a meaningful contribution from the real exchange rate gap (consistent with $a_3 = 0.696$, which assigns approximately 30% weight to imported cost pressures). Cost pressures were negative during 2020–2021 (slack conditions), then turned sharply positive in 2022 as the output gap closed and global commodity prices rose — with both domestic and imported cost channels contributing to the surge.
 
 **Inflation decomposition**: The post-Covid inflation surge (~2022) is attributed primarily to a large **cost-push shock** (residual term), rather than to demand overheating or forward inflation expectations alone. Backward-looking persistence (inertia, $a_1 = 0.419$) amplified and prolonged the initial shock. Forward-looking expectations contributed a stabilizing pull toward target once the SBV signaled its inflation-fighting stance. By 2024–2025, all contributions are small and inflation has returned close to the target, consistent with the model's relatively low inertia estimate.
 
