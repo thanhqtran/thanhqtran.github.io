@@ -21,7 +21,7 @@ The QPM is a **semi-structural, general equilibrium, stochastic** model with rat
 
 ### 1. Aggregate Demand (IS Curve)
 
-$$\hat{y}_t = b_0 \hat{y}_{t+1} + b_1 \hat{y}_{t-1} - b_2\, mci_t + b_3 \hat{y}^* + \varepsilon_t^y$$
+$$\hat{y}_t = b_0 E_t(\hat{y}_{t+1}) + b_1 \hat{y}_{t-1} - b_2\, mci_t + b_3 \hat{y}^* + \varepsilon_t^y$$
 
 Output gap depends on its expectations, its own lag (persistence), the monetary conditions index (MCI), and the foreign output gap. MCI is a weighted average of the real interest rate gap and real exchange rate gap:
 
@@ -90,7 +90,7 @@ $$
 
 The exchange rate can be very volatile and jumpy, especially at high frequencies, indicating that new information is readily incorporated into its determination. However at quarterly frequency, the exchange rate tends to display some inertia, consistent with some backward looking behavior. Thus, we are going to use the following specification
 
-$$s_t = (1-e_1)E_t s_{t+1} + e_1(\cdots) + (i^* - i_t + prem_t)/4 + \varepsilon_t^s$$
+$$s_t = (1-e_1)E_t(s_{t+1}) + e_1(\cdots) + (i^* - i_t + prem_t)/4 + \varepsilon_t^s$$
 
 The UIP condition links the nominal exchange rate to the interest rate differential and country risk premium. A backward-looking component ($e_1$) captures empirical exchange rate inertia.
 
