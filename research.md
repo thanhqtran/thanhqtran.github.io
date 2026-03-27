@@ -8,9 +8,9 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 ## Publications
 
-(2) Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers (2025). Economic Modelling, 107262. [doi.org/10.1016/j.econmod.2025.107262](https://doi.org/10.1016/j.econmod.2025.107262).
+(2) Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers (2025). **Economic Modelling**, 107262. [doi.org/10.1016/j.econmod.2025.107262](https://doi.org/10.1016/j.econmod.2025.107262).
 
-(1) The Aging Tax on Potential Growth in Asia (2022). Journal of Asian Economics, Vol. 81, p.101495. [doi.org/10.1016/j.asieco.2022.101495](https://doi.org/10.1016/j.asieco.2022.101495), [[PDF]](https://www.dropbox.com/scl/fi/85aiq8dqzz2n2qy6f6e0q/QTTran_retirement_aging.pdf?rlkey=8ja8bvfr97cbt0xnop2j218mg&st=w5626qhw&dl=0).
+(1) The Aging Tax on Potential Growth in Asia (2022). **Journal of Asian Economics**, Vol. 81, p.101495. [doi.org/10.1016/j.asieco.2022.101495](https://doi.org/10.1016/j.asieco.2022.101495), [[PDF]](https://www.dropbox.com/scl/fi/85aiq8dqzz2n2qy6f6e0q/QTTran_retirement_aging.pdf?rlkey=8ja8bvfr97cbt0xnop2j218mg&st=w5626qhw&dl=0).
 
 ## Work in Progress
 
@@ -35,6 +35,8 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 ## Conferences
 
 ### Upcoming
+
+- [17th Vietnam Economists Annual Meeting (Hue, 2026)](https://veam.org/)
 
 ### Past Presentations
 
