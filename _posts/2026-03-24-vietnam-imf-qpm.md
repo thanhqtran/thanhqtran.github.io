@@ -90,7 +90,7 @@ $$
 
 The exchange rate can be very volatile and jumpy, especially at high frequencies, indicating that new information is readily incorporated into its determination. However at quarterly frequency, the exchange rate tends to display some inertia, consistent with some backward looking behavior. Thus, we are going to use the following specification
 
-$$s_t = (1-e_1)E_t(s_{t+1}) + e_1(\cdots) + (i^* - i_t + prem_t)/4 + \varepsilon_t^s$$
+$$s_t = (1-e_1)E_t(s_{t+1}) + e_1[ s_{t-1} + 2(\pi^T_t - \bar{\pi}^\ast_t + \Delta \bar{z}_t)/4 ] + (i^\ast - i_t + prem_t)/4 + \varepsilon_t^s$$
 
 The UIP condition links the nominal exchange rate to the interest rate differential and country risk premium. A backward-looking component ($e_1$) captures empirical exchange rate inertia.
 
