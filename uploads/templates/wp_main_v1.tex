@@ -1,0 +1,152 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[right=1 in,left=1 in,top=1 in,bottom=1 in]{geometry}
+
+\usepackage{mathpazo} % Use the Palatino font by default
+% some packages for table
+\usepackage{booktabs}
+\usepackage{threeparttable}
+\usepackage{tabularx}
+% math packages
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools,mathrsfs}
+%\allowdisplaybreaks
+% coloring
+\usepackage{xcolor}
+% graphics and subfigure features
+\usepackage{graphicx}
+\usepackage{subcaption}
+% tikz
+\usepackage{tikz,tikzscale}
+\usetikzlibrary{arrows,calc,automata,patterns,positioning,shapes.geometric,decorations.pathreplacing,decorations.markings, trees, fit}
+\usepackage{pgfplots}
+\usepgfplotslibrary{groupplots}
+\pgfplotsset{width=10cm,compat=1.9}
+
+% Bib package
+% cite with \citet or \citep
+\usepackage{natbib}
+\usepackage{enotez}
+\setenotez{backref=true}
+
+% itemize with number
+\usepackage{enumitem} 
+\usepackage{dcolumn}
+
+% quick colored text
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blue}[1]{\textcolor{blue}{#1}}
+\newcommand{\green}[1]{\textcolor{green}{#1}}
+\newcommand{\teal}[1]{\textcolor{teal}{#1}}
+
+% quick math
+\theoremstyle{definition}\newtheorem{definition}{Definition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}[theorem]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{ass}{Assumption}
+\theoremstyle{definition}\newtheorem{remark}{Remark}
+\theoremstyle{theorem}\newtheorem{prop}{Proposition}
+\theoremstyle{definition}\newtheorem{fact}{Fact}
+
+% hyperref
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,            
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black},
+    hyperfootnotes=true
+}
+
+
+
+\title{ Main Title
+\thanks{
+Any remaining errors are the authors' responsibility. 
+	}
+}
+
+
+\author{ Author 1
+		\thanks{ Affil 1
+		Email: \texttt{author1}. } \\[-1pt]
+{\small Affil1a \& Affil1b}
+\and  Author2 
+		\thanks{Affil 2 
+		Email: \texttt{author2}. } \\[-1pt]
+{\small Affil2 }\\[-7pt]
+}
+\date{\bigskip \bigskip \today}
+
+%\date{\today}
+
+
+%======================================%
+%% TITLE PAGE %%
+%======================================%
+\begin{document}
+    \maketitle
+   
+   \begin{abstract}
+       Abstract
+       
+   \textbf{Keywords:} key1, key2
+   
+   \textbf{JEL:}        E13, J13, J14, J22, J24, O11     
+   \end{abstract}
+      
+\thispagestyle{empty}
+\setcounter{page}{0}
+
+
+%======================================%
+%% CONTENT %%
+%======================================%
+
+\clearpage
+\section{Introduction}
+\section{Model}
+\section{Equilibrium}
+\section{Conclusions}
+
+
+\clearpage
+%% econetrica-style ref
+\bibliographystyle{econ-econometrica}
+%% simplistic style
+%\bibliographystyle{apalike}
+\bibliography{references.bib}
+
+\clearpage
+
+\appendix
+
+\begin{center}
+	\section*{APPENDIX}
+\end{center}
+
+\section{Proofs}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%\clearpage
+%\section{Regression Tables}
+%\input{reg1.tex}
+%\input{reg2.tex}
+%\input{reg3.tex}
+%\input{reg4.tex}
+
+
+
+
+\end{document}
