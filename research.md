@@ -16,7 +16,7 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 (1) Dual Caregiving, Declining Birth Rate, and Economic Stability, with [Akiomi Kitagawa](https://researchmap.jp/read0118970?lang=en). ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/77.html))
 
-(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. ([Working Paper](https://ideas.repec.org/p/dpc/wpaper/0199.html))
+(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/81.html))
 
 (3) Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam (with [Huy Le Vu](https://huylvu.github.io/))
 
