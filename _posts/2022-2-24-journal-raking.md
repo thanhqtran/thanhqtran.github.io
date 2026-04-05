@@ -29,6 +29,8 @@ Here are some quick links to reliable rankings of economics journals.
 
 [JUFO (Finland)](https://jfp.csc.fi/jufoportal)
 
+[SCOPUS](https://www.scopus.com/sourceid/28467#tabs=1)
+
 ## The General Online Rankings
 
 [Web of Science](https://jcr.clarivate.com/jcr/browse-journals)
