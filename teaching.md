@@ -10,16 +10,15 @@ layout: page
 
 
 **National Economics University**. 
-- Optimization | [[course materials]](https://github.com/thanhqtran/course.optimization1)
-
+- Optimization. [[course materials]](https://github.com/thanhqtran/course.optimization1)
 
 
 **Vietcombank**
-Application of QPM in Economic Forecasting. Spring 2026. [course materials](https://github.com/thanhqtran/imf.qpm)
+Application of QPM in Economic Forecasting. Spring 2026. [[course materials](https://github.com/thanhqtran/imf.qpm)]
 
 
 
-## Boot Camp Instructor, Tohoku University
+**Boot Camp Instructor, Tohoku University**
 
 This intensive boot camp is organized by the Graduate Student Association [[URL]](https://thanhqtran.github.io/tohoku_bootcamp/). [[Github]](https://github.com/thanhqtran/tohoku_bootcamp).
 
@@ -29,7 +28,7 @@ This intensive boot camp is organized by the Graduate Student Association [[URL]
 - Mathematics for Economists II. **(Fall2023 Camp)**
 - Mathematics for Economists I. **(Spr2023 Camp)**
 
-## Teaching Assistant, Tohoku University
+**Teaching Assistant, Tohoku University**
 
 - Undergraduate Macroeconomics. Professor: Akiomi Kitagawa. Fall 2022. (Japanese).
 - Advanced Macroeconomics. Professor: Michio Suzuki. Fall 2022. (Japanese).
