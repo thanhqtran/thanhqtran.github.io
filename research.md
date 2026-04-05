@@ -8,25 +8,31 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 ## Publications
 
-(2) Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers (2025). **Economic Modelling**, 107262. [doi.org/10.1016/j.econmod.2025.107262](https://doi.org/10.1016/j.econmod.2025.107262).
+1. Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers (2025). **Economic Modelling**, 107262. [doi.org/10.1016/j.econmod.2025.107262](https://doi.org/10.1016/j.econmod.2025.107262).
 
-(1) The Aging Tax on Potential Growth in Asia (2022). **Journal of Asian Economics**, Vol. 81, p.101495. [doi.org/10.1016/j.asieco.2022.101495](https://doi.org/10.1016/j.asieco.2022.101495), [[PDF]](https://www.dropbox.com/scl/fi/85aiq8dqzz2n2qy6f6e0q/QTTran_retirement_aging.pdf?rlkey=8ja8bvfr97cbt0xnop2j218mg&st=w5626qhw&dl=0).
+2. The Aging Tax on Potential Growth in Asia (2022). **Journal of Asian Economics**, Vol. 81, p.101495. [doi.org/10.1016/j.asieco.2022.101495](https://doi.org/10.1016/j.asieco.2022.101495), [[PDF]](https://www.dropbox.com/scl/fi/85aiq8dqzz2n2qy6f6e0q/QTTran_retirement_aging.pdf?rlkey=8ja8bvfr97cbt0xnop2j218mg&st=w5626qhw&dl=0).
 
 ## Work in Progress
 
-(1) Dual Caregiving, Declining Birth Rate, and Economic Stability, with [Akiomi Kitagawa](https://researchmap.jp/read0118970?lang=en). ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/77.html))
+### with PDF
 
-(2) The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/81.html))
+1. Dual Caregiving, Declining Birth Rate, and Economic Stability, with [Akiomi Kitagawa](https://researchmap.jp/read0118970?lang=en). ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/77.html)) (Submited)
 
-(3) Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam (with [Huy Le Vu](https://huylvu.github.io/))
+2. The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/81.html)) (R&R)
 
-(4) Rational Addiction, Cigarette Consumption and Quitting Behaviors (with [Tuong-Vy Phan](https://vytuongphan.github.io/), [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen))
+### PDF upcoming
 
-(5) Old-Age Security in an Aging Economy (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
+3. Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam (with [Huy Le Vu](https://huylvu.github.io/))
 
-(6) What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model.
+4. Rational Addiction, Cigarette Consumption and Quitting Behaviors (with [Tuong-Vy Phan](https://vytuongphan.github.io/), [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen))
 
-(7) The Roles of Fiscal and Monetary Policies in Vietnam: A New Keynesian Approach (with Cuong Le Van)
+5. Endogenous Technology Choice and Green Transition. (draft coming soon)
+
+6. Old-Age Security in an Aging Economy (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
+
+7. What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model.
+
+8. The Roles of Fiscal and Monetary Policies in Vietnam: A New Keynesian Approach (with Cuong Le Van)
 
 ## Non-Peer-Reviewed Publications
 
