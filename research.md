@@ -6,7 +6,7 @@ layout: page
 
 Research Interests: Macroeconomics, Economic Growth, Demography, Public Economics
 
-## Publications
+## Peer-reviewed Publications
 
 1. Fertility and Career Choices in an Overlapping Generations Model with Sandwich Caregivers (2025). **Economic Modelling**, 107262. [doi.org/10.1016/j.econmod.2025.107262](https://doi.org/10.1016/j.econmod.2025.107262).
 
@@ -59,4 +59,3 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 ## Referee Service
 
 Energy Economics, Economic Modelling
-
