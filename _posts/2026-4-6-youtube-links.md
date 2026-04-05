@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Useful Youtube Playlists for Econs
+title: Some Useful Youtube
 published: true
 date: 2026-04-06
 categories: [Resource]
