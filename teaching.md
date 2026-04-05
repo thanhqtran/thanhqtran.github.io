@@ -14,7 +14,7 @@ layout: page
 
 
 **Vietcombank**
-Application of QPM in Economic Forecasting. Spring 2026. [[course materials](https://github.com/thanhqtran/imf.qpm)]
+- Application of QPM in Economic Forecasting. Spring 2026. [[course materials](https://github.com/thanhqtran/imf.qpm)]
 
 
 
