@@ -2,7 +2,7 @@
 layout: post
 title: Some Useful Youtube
 published: true
-date: 2026-04-06
+date: 2026-4-6
 categories: [Resource]
 tags: [Youtube]
 ---
