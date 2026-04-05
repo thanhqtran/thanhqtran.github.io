@@ -26,7 +26,7 @@ footer-links:
   linkedin: 
   pinterest:
   rss: thanhqtran.github.io # just type anything here for a working RSS icon
-  twitter: 
+  twitter: ptr448
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after 
@@ -37,6 +37,7 @@ footer-links:
   ideas: ptr448.html
   rpubs: thanhqtran
   googlesite: thanhqtran/home
+  bsky: ptr448.bsky.social
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
