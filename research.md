@@ -40,11 +40,11 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 ## Conferences
 
-### Upcoming
+**Upcoming**
 
 - [17th Vietnam Economists Annual Meeting (Hue, 2026)](https://veam.org/)
 
-### Past Presentations
+**Past Presentations**
 
 - Japanese Economic Association Spring Meeting (May 29, 2022, Yokohama). 
 - The 1st RCPD Research Seminar on Contemporary Economics (Tohoku University, 2022).
