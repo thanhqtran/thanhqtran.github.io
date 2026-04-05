@@ -3,7 +3,7 @@ layout: post
 title: Some Useful Youtube Playlists for Econs
 published: true
 date: 2026-04-06
-categories: [Tips]
+categories: [Resource]
 tags: [Youtube]
 ---
 

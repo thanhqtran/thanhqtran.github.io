@@ -3,7 +3,7 @@ layout: post
 title: An estimation of the Hansen model for Vietnam
 published: true
 date: 2025-10-20
-categories: [Modelling]
+categories: [Modeling]
 tags: [rbc]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Notes on RBC calibration
 published: true
 date: 2025-06-07
-categories: [Modelling]
+categories: [Modeling]
 tags: [rbc]
 ---
 

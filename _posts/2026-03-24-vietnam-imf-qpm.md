@@ -3,7 +3,7 @@ layout: post
 title: A Simple QPM Model for Vietnam
 published: true
 date: 2026-03-24
-categories: [Modelling]
+categories: [Modeling]
 tags: [qpm]
 ---
 
