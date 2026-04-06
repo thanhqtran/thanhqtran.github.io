@@ -22,6 +22,7 @@ Some awesome Youtube teaching channels
 11. [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLdgVBOaXkb9C8iPDD5xW0jT-c3dtP4TR5)
 12. [Probability and Statistics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
 13. [Mastering Metrics](https://mru.org/mastering-econometrics-joshua-angrist)
+14. [Dynamic Structural Econometrics](https://www.youtube.com/@dynamicstructuraleconometr2893/courses)
 
 The MIT's Essentials from [MIT Open Course Wave](https://www.youtube.com/@mitocw/courses)
 1.  [Principle of Microeconomics](https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-)
