@@ -14,11 +14,14 @@ Some awesome Youtube teaching channels
 3. [Constantin Burgi](https://www.youtube.com/@constantinburgi3995/playlists). Topics: Constraint Optimization, Dynamic Programming, Solving DSGE.
 4. [David Jinkins](https://www.youtube.com/@davidjinkins8293/playlists). Topics: Macro
 5. [The NyQuil Economist](https://www.youtube.com/@thenyquileconomist5747/courses). Topics: Macro
-6. [Judd's Numerical Methods](https://www.youtube.com/@KenLJudd/courses)
-7. [Financial Theory](https://www.youtube.com/playlist?list=PLEDC55106E0BA18FC)
-8. [Stata Tutorial](https://www.youtube.com/playlist?list=PLRW9kMvtNZOh7Xt1m5Mlhhz2wtr0tCUEE)
-9. [Dynare](https://www.youtube.com/playlist?list=PLpwupdvKxntDIFiWNUO5FWTqvVsESDot-) and [More Dynare](https://www.youtube.com/playlist?list=PLiN_C6lGtCc8bhPOuE781GTgeOqtMA5Bi)
-10. [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLdgVBOaXkb9C8iPDD5xW0jT-c3dtP4TR5)
+6. [Ben Lambert](https://www.youtube.com/@SpartacanUsuals/playlists). Topics: econometrics.
+7. [Judd's Numerical Methods](https://www.youtube.com/@KenLJudd/courses)
+8. [Financial Theory](https://www.youtube.com/playlist?list=PLEDC55106E0BA18FC)
+9. [Stata Tutorial](https://www.youtube.com/playlist?list=PLRW9kMvtNZOh7Xt1m5Mlhhz2wtr0tCUEE) and [Stata Courses by StataCorpLLC](https://www.youtube.com/@statacorp/courses)
+10. [Dynare](https://www.youtube.com/playlist?list=PLpwupdvKxntDIFiWNUO5FWTqvVsESDot-) and [More Dynare](https://www.youtube.com/playlist?list=PLiN_C6lGtCc8bhPOuE781GTgeOqtMA5Bi)
+11. [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLdgVBOaXkb9C8iPDD5xW0jT-c3dtP4TR5)
+12. [Probability and Statistics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
+13. [Mastering Metrics](https://mru.org/mastering-econometrics-joshua-angrist)
 
 The MIT's Essentials from [MIT Open Course Wave](https://www.youtube.com/@mitocw/courses)
 1.  [Principle of Microeconomics](https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-)
