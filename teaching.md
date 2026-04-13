@@ -22,11 +22,11 @@ layout: page
 
 This intensive boot camp is organized by the Graduate Student Association [[URL]](https://thanhqtran.github.io/tohoku_bootcamp/). [[Github]](https://github.com/thanhqtran/tohoku_bootcamp).
 
-- Computational Macroeconomics with Dynare. **(Spr2025 Camp)**
-- Computational Macroeconomics. **(Fall2024 Camp)**
-- Special Topics in Macroeconomics. **(Spr2024 Camp)**
-- Mathematics for Economists II. **(Fall2023 Camp)**
-- Mathematics for Economists I. **(Spr2023 Camp)**
+- Computational Macroeconomics with Dynare. **(Spr2025 Camp)** [[Notes](https://docs.google.com/viewer?url=https://github.com/thanhqtran/tohoku_bootcamp/raw/main/2025_spring/computation/main_revised.pdf)]
+- Computational Macroeconomics. **(Fall2024 Camp)** [[Notes](https://docs.google.com/viewer?url=https://github.com/thanhqtran/tohoku_bootcamp/raw/main/2024_summer/computation/summer_math_24_revised.pdf)] and [[Notes on Spatial](https://docs.google.com/viewer?url=https://github.com/thanhqtran/tohoku_bootcamp/raw/main/2024_summer/computation/Spatial_tony/Spatial.pdf)]
+- Special Topics in Macroeconomics. **(Spr2024 Camp)** [[Notes](https://docs.google.com/viewer?url=https://github.com/thanhqtran/tohoku_bootcamp/raw/main/2024_spring/special_topics_in_macro/springcamp_2024_tedd.pdf)]
+- Mathematics for Economists II. **(Fall2023 Camp)** [[Notes](https://docs.google.com/viewer?url=https://github.com/thanhqtran/tohoku_bootcamp/raw/main/2023_summer/math/summer_math.pdf)]
+- Mathematics for Economists I. **(Spr2023 Camp)** [[Notes](https://docs.google.com/viewer?url=https://github.com/thanhqtran/tohoku_bootcamp/raw/main/2023_spring/math/spring_math.pdf)]
 
 **Teaching Assistant, Tohoku University**
 
