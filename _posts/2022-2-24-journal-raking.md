@@ -58,6 +58,8 @@ The "ambitious" list on p. 134
 
 **Other rankings**:
 
+[SUFE Tenure-Track Journal List in Economics](https://econen.sufe.edu.cn/6619/list.htm)
+
 [Lehmann, R., & Wohlrabe, K. (2017). An Elo ranking for economics journals''. Economics Bulletin, 37(4), 2282-2291.](http://www.accessecon.com/Pubs/EB/2017/Volume37/EB-17-V37-I4-P204.pdf)
 
 [Hole, A. R. (2017). Ranking economics journals using data from a national research evaluation exercise. Oxford Bulletin of Economics and Statistics, 79(5), 621-636.](https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12185)
