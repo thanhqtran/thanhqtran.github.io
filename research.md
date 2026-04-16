@@ -16,23 +16,25 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 **with PDF**
 
-1. Dual Caregiving, Declining Birth Rate, and Economic Stability. (with [Akiomi Kitagawa](https://researchmap.jp/read0118970?lang=en)). ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/77.html)) (Submited)
+1. Dual Caregiving, Declining Birth Rate, and Economic Stability. (with [Akiomi Kitagawa](https://researchmap.jp/read0118970?lang=en)). ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/77.html)) (Under Review)
 
 2. The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/81.html)) (R&R)
 
+3. Fertility When Consumption Takes Time. (Under Review)
+
 **draft coming soon**
 
-3. Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam. (with [Hai Le](https://sites.google.com/view/hai-le/research?authuser=0) and [Huy Le Vu](https://huylvu.github.io/))
+1. Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam. (with [Hai Le](https://sites.google.com/view/hai-le/research?authuser=0) and [Huy Le Vu](https://huylvu.github.io/))
 
-4. Rational Addiction, Cigarette Consumption and Quitting Behaviors. (with [Tuong-Vy Phan](https://vytuongphan.github.io/), [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen))
+2. Rational Addiction, Cigarette Consumption and Quitting Behaviors. (with [Tuong-Vy Phan](https://vytuongphan.github.io/), [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen))
 
-5. Endogenous Technology Choice and Green Transition. (with [Thi Kim Cuong PHAM](https://economix.fr/en/membre/pham-thi-kim-cuong))
+3. Endogenous Technology Choice and Green Transition. (with [Thi Kim Cuong PHAM](https://economix.fr/en/membre/pham-thi-kim-cuong))
 
-6. Old-Age Security in an Aging Economy. (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
+4. Old-Age Security in an Aging Economy. (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
 
-7. What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model. (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/), [Quang Huy Nguyen](https://mfe.neu.edu.vn/nguyenquanghuy/), and [Ha Thi Tran](https://mfe.neu.edu.vn/tranthiha/))
+5. What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model. (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/), [Quang Huy Nguyen](https://mfe.neu.edu.vn/nguyenquanghuy/), and [Ha Thi Tran](https://mfe.neu.edu.vn/tranthiha/))
 
-8. The Roles of Fiscal and Monetary Policies in Vietnam: A New Keynesian Approach (with [Cuong Le Van](https://www.ipag.edu/en/cuong-le-van-0?tab=onglet1))
+6. The Roles of Fiscal and Monetary Policies in Vietnam: A New Keynesian Approach (with [Cuong Le Van](https://www.ipag.edu/en/cuong-le-van-0?tab=onglet1))
 
 ## Policy Papers
 
