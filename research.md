@@ -24,7 +24,7 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 **draft coming soon**
 
-1. Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam. (with [Hai Le](https://sites.google.com/view/hai-le/research?authuser=0) and [Huy Le Vu](https://huylvu.github.io/))
+1. Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam. (with [Hai Le](https://sites.google.com/view/hai-le/research?authuser=0))
 
 2. Rational Addiction, Cigarette Consumption and Quitting Behaviors. (with [Tuong-Vy Phan](https://vytuongphan.github.io/), [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen))
 
