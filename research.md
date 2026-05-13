@@ -43,9 +43,11 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 ## Conferences
 
-**Upcoming**
+**Upcoming (2026)**
 
-- [17th Vietnam Economists Annual Meeting (Hue, 2026)](https://veam.org/)
+- ISEAS - ADBI Joint Seminar: Shaping Southeast Asia’s Future Prosperity with Quality Growth (ISEAS Yusof Ishak Institute, Singapore, May, 2026)
+- British Academy International Writing Workshop (SWU Bangkok, May 2026)
+- [17th Vietnam Economists Annual Meeting (Hue, July 2026)](https://veam.org/)
 
 **Past Presentations**
 
