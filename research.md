@@ -20,7 +20,9 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 2. The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/81.html)) (R&R)
 
-3. Fertility When Consumption Takes Time. 
+3. Fertility When Consumption Takes Time. ([PDF](https://drive.google.com/file/d/1nESbZGDKJn4H55H652w9KYD1oLe9AZ3g/view?usp=sharing))
+
+4. Mission Impossible? Challenges for Countries Escaping the Middle-Income Trap ([PDF](https://drive.google.com/file/d/1hqAyHhJDTG_VWVQvu4JAxe5oTLT0k1Ij/view?usp=sharing))
 
 **draft coming soon**
 
