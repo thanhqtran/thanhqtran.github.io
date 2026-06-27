@@ -39,15 +39,14 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 ## Policy Papers
 
-1. Vietnam's Annual Macroeconomic Review 2025 [[PDF]](https://www.dropbox.com/scl/fi/r2ft04ohqkk3otsq8y55i/VARM_2025.pdf?rlkey=35awrv706lgz5stquoob3mvk1&st=76nfymes&dl=0) | [[Data](https://data.mendeley.com/datasets/r9g78zx8vc/2)]
+1. Vietnam's Annual Macroeconomic Review 2025. [PDF](https://www.dropbox.com/scl/fi/r2ft04ohqkk3otsq8y55i/VARM_2025.pdf?rlkey=35awrv706lgz5stquoob3mvk1&st=76nfymes&dl=0) | [Data](https://data.mendeley.com/datasets/r9g78zx8vc/2)
 
 ## Conferences
 
 **Upcoming (2026)**
 
-- ISEAS - ADBI Joint Seminar: Shaping Southeast Asia’s Future Prosperity with Quality Growth (ISEAS Yusof Ishak Institute, Singapore, May, 2026)
-- British Academy International Writing Workshop (SWU Bangkok, May 2026)
 - [17th Vietnam Economists Annual Meeting (Hue, July 2026)](https://veam.org/)
+- [2026 Vietnam Symposium on Global Economy (HCMC, July 2026)](https://vsge2026.sciencesconf.org/index)
 
 **Past Presentations**
 
@@ -60,6 +59,9 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 - Joint workshop TU Research Center for Policy Design and Sophia Institute for Human Security (Tohoku University, 2024).
 - MFE Seminar (National Economics University, 2025/02)
 - The 16th Vietnam Economist Annual Meeting (TUEBA, December 9-10, 2025).
+- ISEAS - ADBI Joint Seminar: Shaping Southeast Asia's Future Prosperity with Quality Growth (ISEAS Yusof Ishak Institute, Singapore, May, 2026)
+- British Academy International Writing Workshop (SWU Bangkok, May 2026)
+
 
 ## Referee Service
 
