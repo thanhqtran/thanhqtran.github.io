@@ -39,7 +39,7 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 ## Policy Papers
 
-1. Vietnam's Annual Macroeconomic Review 2025 | [PDF](https://www.dropbox.com/scl/fi/r2ft04ohqkk3otsq8y55i/VARM_2025.pdf?rlkey=35awrv706lgz5stquoob3mvk1&st=76nfymes&dl=0) | [Data](https://data.mendeley.com/datasets/r9g78zx8vc/2)
+1. Vietnam's Annual Macroeconomic Review 2025. [PDF](https://www.dropbox.com/scl/fi/r2ft04ohqkk3otsq8y55i/VARM_2025.pdf?rlkey=35awrv706lgz5stquoob3mvk1&st=76nfymes&dl=0) [Data](https://data.mendeley.com/datasets/r9g78zx8vc/2)
 
 ## Conferences
 
