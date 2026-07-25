@@ -23,7 +23,7 @@ Here are some quick links to reliable rankings of economics journals.
 
 [Google Scholar](https://scholar.google.co.jp/citations?view_op=top_venues&hl=en&vq=bus_economics)
 
-[CNRS (French)](https://www.gate.cnrs.fr/research/journal-rankings/)
+[CNRS (French)](https://library.essca.fr/academic-journals-rankings#163)
 
 [ABDC (Australia)](https://abdc.edu.au/abdc-journal-quality-list/)
 
