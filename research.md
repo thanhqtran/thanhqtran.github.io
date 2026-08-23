@@ -20,26 +20,33 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 2. The Explosive Growth and Rapid Contraction of an Overlapping-Generations Economy. ([Working Paper](https://ideas.repec.org/p/toh/tupdaa/81.html)) (R&R)
 
-3. Fertility When Consumption Takes Time. ([PDF](https://drive.google.com/file/d/1nESbZGDKJn4H55H652w9KYD1oLe9AZ3g/view?usp=sharing))
+3. Fertility When Consumption Takes Time. ([PDF](https://app.box.com/s/jpworfeud1uanlgcjjpja2jey9h9m0ds))
 
-4. Mission Impossible? Challenges for Countries Escaping the Middle-Income Trap ([PDF](https://app.box.com/s/83j9i0bianl7h0yo5o6z361i4jkx4h1o))
+4. Mission Impossible? Challenges for Countries Escaping the Middle-Income Trap (with [Quoc Thai Le](https://sites.google.com/view/quocthaile/homepage/research?authuser=0)). ([PDF](https://app.box.com/s/83j9i0bianl7h0yo5o6z361i4jkx4h1o))
 
 5. Rational Addiction, Cigarette Consumption and Quitting Behaviors. (with [Tuong-Vy Phan](https://vytuongphan.github.io/), [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen)) ([PDF](https://app.box.com/s/px43du7mcuy42j5qgxuzu29k4cb9544s))
 
 **draft coming soon**
 
-1. Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam. (with [Hai Le](https://sites.google.com/view/hai-le/research?authuser=0) and [Huy Le Vu](https://huylvu.github.io/))
+1. Fiscal Implications of Aging and Informality in Emerging Asia (with Minh-Chau Pham)
 
 3. Endogenous Technology Choice and Green Transition.
 
-4. Old-Age Security in an Aging Economy. (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
+4. The Devil You Know: Political Selection and the Development Trap
 
-5. What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model. (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/), [Quang Huy Nguyen](https://mfe.neu.edu.vn/nguyenquanghuy/), and [Ha Thi Tran](https://mfe.neu.edu.vn/tranthiha/))
+5. Longevity, Retirement, and Filial Transfers in an Aging Economy (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
+
+6. Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam. (with [Hai Le](https://sites.google.com/view/hai-le/research?authuser=0) and [Huy Le Vu](https://huylvu.github.io/))
+
+7. What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model. (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/), [Quang Huy Nguyen](https://mfe.neu.edu.vn/nguyenquanghuy/), and [Ha Thi Tran](https://mfe.neu.edu.vn/tranthiha/))
+
+8. Foreign Direct Investment, Risk Premium and the Business Cycle in Small Open Emerging Economies.
+
 
 
 ## Policy Papers
 
-1. Vietnam's Annual Macroeconomic Review 2025. [PDF](https://www.dropbox.com/scl/fi/r2ft04ohqkk3otsq8y55i/VARM_2025.pdf?rlkey=35awrv706lgz5stquoob3mvk1&st=76nfymes&dl=0) [Data](https://data.mendeley.com/datasets/r9g78zx8vc/2)
+1. Vietnam's Annual Macroeconomic Review 2025. [PDF](https://www.dropbox.com/scl/fi/r2ft04ohqkk3otsq8y55i/VARM_2025.pdf?rlkey=35awrv706lgz5stquoob3mvk1&st=76nfymes&dl=0). [Data](https://data.mendeley.com/datasets/r9g78zx8vc/2)
 2. Challenges and Strategies for Viet Nam in Escaping the Middle-Income Trap. [PDF](https://ideas.repec.org/p/dpc/wpaper/0202.html)
 
 ## Conferences
