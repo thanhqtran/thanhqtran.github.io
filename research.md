@@ -24,11 +24,11 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 4. Mission Impossible? Challenges for Countries Escaping the Middle-Income Trap ([PDF](https://app.box.com/s/83j9i0bianl7h0yo5o6z361i4jkx4h1o))
 
+5. Rational Addiction, Cigarette Consumption and Quitting Behaviors. (with [Tuong-Vy Phan](https://vytuongphan.github.io/), [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen)) ([PDF](https://app.box.com/s/px43du7mcuy42j5qgxuzu29k4cb9544s))
+
 **draft coming soon**
 
 1. Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam. (with [Hai Le](https://sites.google.com/view/hai-le/research?authuser=0) and [Huy Le Vu](https://huylvu.github.io/))
-
-2. Rational Addiction, Cigarette Consumption and Quitting Behaviors. (with [Tuong-Vy Phan](https://vytuongphan.github.io/), [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen))
 
 3. Endogenous Technology Choice and Green Transition.
 
@@ -40,6 +40,7 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 ## Policy Papers
 
 1. Vietnam's Annual Macroeconomic Review 2025. [PDF](https://www.dropbox.com/scl/fi/r2ft04ohqkk3otsq8y55i/VARM_2025.pdf?rlkey=35awrv706lgz5stquoob3mvk1&st=76nfymes&dl=0) [Data](https://data.mendeley.com/datasets/r9g78zx8vc/2)
+2. Challenges and Strategies for Viet Nam in Escaping the Middle-Income Trap. [PDF](https://ideas.repec.org/p/dpc/wpaper/0202.html)
 
 ## Conferences
 
