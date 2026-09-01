@@ -28,15 +28,15 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 **draft coming soon**
 
-1. Fiscal Implications of Aging and Informality in Emerging Asia (with Minh-Chau Pham)
+1. Fiscal Implications of Aging and Informality in Emerging Asia.
 
-3. Endogenous Technology Choice and Green Transition.
+3. Endogenous Technology Choice and Green Transition (with [Thi-Kim-Cuong Pham](https://economix.fr/en/membre/pham-thi-kim-cuong)).
 
-4. The Devil You Know: Political Selection and the Development Trap
+4. Political Selection and the Development Trap.
 
 5. Longevity, Retirement, and Filial Transfers in an Aging Economy (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/))
 
-6. Demographic Change and Long-Run Inequality Trends: 30 Years of Evidence from Vietnam. (with [Hai Le](https://sites.google.com/view/hai-le/research?authuser=0) and [Huy Le Vu](https://huylvu.github.io/))
+6. The Economic Life Cycle in Viet Nam, 1993--2024: Evidence from National Transfer Accounts (with Minh-Chau Pham).
 
 7. What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model. (with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/), [Quang Huy Nguyen](https://mfe.neu.edu.vn/nguyenquanghuy/), and [Ha Thi Tran](https://mfe.neu.edu.vn/tranthiha/))
 
