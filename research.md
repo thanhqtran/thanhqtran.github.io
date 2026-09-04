@@ -22,7 +22,7 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 3. Fertility When Consumption Takes Time. ([PDF](https://app.box.com/s/jpworfeud1uanlgcjjpja2jey9h9m0ds))
 
-4. Mission Impossible? Challenges for Countries Escaping the Middle-Income Trap (with [Quoc Thai Le](https://sites.google.com/view/quocthaile/homepage/research?authuser=0)). ([PDF](https://app.box.com/s/83j9i0bianl7h0yo5o6z361i4jkx4h1o))
+4. Mission Impossible? Challenges for Countries Escaping the Middle-Income Trap (with [Quoc Thai Le](https://sites.google.com/view/quocthaile/homepage/research?authuser=0)). ([PDF](https://app.box.com/s/0pgc73j9td38l1e19unemmm2froe7h2t))
 
 5. Rational Addiction, Cigarette Consumption and Quitting Behaviors. (with [Tuong-Vy Phan](https://vytuongphan.github.io/), [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen)) ([PDF](https://app.box.com/s/px43du7mcuy42j5qgxuzu29k4cb9544s))
 
