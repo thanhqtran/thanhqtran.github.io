@@ -53,8 +53,7 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 **Upcoming (2026)**
 
-- [17th Vietnam Economists Annual Meeting (Hue, July 2026)](https://veam.org/)
-- [2026 Vietnam Symposium on Global Economy (HCMC, July 2026)](https://vsge2026.sciencesconf.org/index)
+- [ISEAS Comparative Labour Policy in Southeast Asia: Sustaining Work and Wellbeing in a Shifting World (October 15, 2026, Singapore)](https://www.iseas.edu.sg/mec-events/comparative-labour-policy-in-southeast-asia-sustaining-work-and-wellbeing-in-a-shifting-world/)
 
 **Past Presentations**
 
@@ -69,6 +68,9 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 - The 16th Vietnam Economist Annual Meeting (TUEBA, December 9-10, 2025).
 - ISEAS - ADBI Joint Seminar: Shaping Southeast Asia's Future Prosperity with Quality Growth (ISEAS Yusof Ishak Institute, Singapore, May, 2026)
 - British Academy International Writing Workshop (SWU Bangkok, May 2026)
+- [17th Vietnam Economists Annual Meeting (Hue, July 2026)](https://veam.org/)
+- [2026 Vietnam Symposium on Global Economy (HCMC, July 2026)](https://vsge2026.sciencesconf.org/index)
+
 
 
 ## Referee Service
