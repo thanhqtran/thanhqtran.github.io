@@ -6,7 +6,8 @@ layout: page
 
 
 **Center for Advanced Studies in Economics and Data Science (CASED)**
-- Advanced Macroeconomics. Spring 2026.
+- Advanced Macroeconomics. Spring 2026. [[course materials](https://github.com/thanhqtran/intermediate-macro)]
+- Advanced Macroeconomics. Fall 2026. [[course materials](https://github.com/thanhqtran/intermediate-macro)]
 
 
 **National Economics University**. 
