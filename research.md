@@ -53,7 +53,7 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 **Upcoming (2026)**
 
-- **FRL Lab** Ổn định kinh tế và tăng trưởng kinh tế. [Slides](https://app.box.com/s/3yzd69q12dv9lmiws3vt4sji1okayo8r) [Working Paper](https://ideas.repec.org/p/dpc/wpaper/0205.html)
+- **[FRL Lab]** Ổn định kinh tế và tăng trưởng kinh tế. [[Slides]](https://app.box.com/s/3yzd69q12dv9lmiws3vt4sji1okayo8r) [[Working Paper]](https://ideas.repec.org/p/dpc/wpaper/0205.html)
 
 **Past Presentations**
 
