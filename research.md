@@ -53,7 +53,7 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 
 **Upcoming (2026)**
 
-- [ISEAS Comparative Labour Policy in Southeast Asia: Sustaining Work and Wellbeing in a Shifting World (October 15, 2026, Singapore)](https://www.iseas.edu.sg/mec-events/comparative-labour-policy-in-southeast-asia-sustaining-work-and-wellbeing-in-a-shifting-world/)
+- **FRL Lab** Ổn định kinh tế và tăng trưởng kinh tế. [Slides](https://app.box.com/s/3yzd69q12dv9lmiws3vt4sji1okayo8r) [Working Paper](https://ideas.repec.org/p/dpc/wpaper/0205.html)
 
 **Past Presentations**
 
@@ -70,6 +70,7 @@ Research Interests: Macroeconomics, Economic Growth, Demography, Public Economic
 - British Academy International Writing Workshop (SWU Bangkok, May 2026)
 - [17th Vietnam Economists Annual Meeting (Hue, July 2026)](https://veam.org/)
 - [2026 Vietnam Symposium on Global Economy (HCMC, July 2026)](https://vsge2026.sciencesconf.org/index)
+- [ISEAS Comparative Labour Policy in Southeast Asia: Sustaining Work and Wellbeing in a Shifting World (October 15, 2026, Singapore)](https://www.iseas.edu.sg/mec-events/comparative-labour-policy-in-southeast-asia-sustaining-work-and-wellbeing-in-a-shifting-world/)
 
 
 
