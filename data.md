@@ -15,7 +15,7 @@ New journal focusing on Vietnamese economy here: [Vietnamese Economic Review](ht
 - VHLSS (Household Living Standards) [[link]](https://github.com/thanhqtran/dataset/tree/main/vietnam/VHLSS) 
 - LFS (Labor Force) [[link]](https://www.ilo.org/surveyLib/index.php/catalog/LFS/?page=1&country%5B%5D=196&ps=15&repo=LFS)
 - VES (Enterprise Survey) [[link1]](https://dulieunghiencuu.com/shop/subcategory/survey), [[link2]](https://microdata.worldbank.org/index.php/catalog/2664/get-microdata), [[SME]](https://www.wider.unu.edu/database/viet-nam-sme-database)
-- Vietnam consolidated macroeconomic data: [DSBB Standard](http://nsdp.gso.gov.vn/index.htm)
+- Vietnam consolidated macroeconomic data: [NSDP NSO](https://nsdp.nso.gov.vn/)
 - [[Notes on Vietnamese data]](https://sites.google.com/site/briandmccaig/notes-on-vhlsss), [[Notes on VES]](https://www.wider.unu.edu/database/viet-nam-data)
 - The construction of business cycle indicators follows the quarterly reports by the General Statistics Office (GSO) of Vietnam [[link]](https://github.com/thanhqtran/gso-macro-monitor/blob/main/GDP_EXP_Q.csv). Unfortunately, only the Y-o-Y growth rates are reported.
 
