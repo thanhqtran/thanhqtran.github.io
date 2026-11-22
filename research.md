@@ -20,13 +20,13 @@ layout: page
 
 2. Dual Caregiving, Declining Birth Rate, and Economic Stability (Under Review), with [Akiomi Kitagawa](https://researchmap.jp/read0118970?lang=en). [Working Paper](https://ideas.repec.org/p/toh/tupdaa/77.html)
 
-3. Fertility When Consumption Takes Time (Under Review). [PDF](https://app.box.com/s/jpworfeud1uanlgcjjpja2jey9h9m0ds)
+3. Fertility When Consumption Takes Time (Under Review). [Working Paper](https://app.box.com/s/jpworfeud1uanlgcjjpja2jey9h9m0ds)
 
-4. Mission Impossible? Challenges for Countries Escaping the Middle-Income Trap, with [Quoc Thai Le](https://sites.google.com/view/quocthaile/homepage/research?authuser=0). [PDF](https://www2.econ.tohoku.ac.jp/~PDesign/6011.html)
+4. Mission Impossible? Challenges for Countries Escaping the Middle-Income Trap, with [Quoc Thai Le](https://sites.google.com/view/quocthaile/homepage/research?authuser=0). [Working Paper](https://www2.econ.tohoku.ac.jp/~PDesign/6011.html)
 
-5. Rational Addiction, Cigarette Consumption and Quitting Behaviors (Under Review), with [Tuong-Vy Phan](https://vytuongphan.github.io/) and [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen). [PDF](https://depocenwp.org/modules/publications/watch.php?id=208)
+5. Rational Addiction, Cigarette Consumption and Quitting Behaviors (Under Review), with [Tuong-Vy Phan](https://vytuongphan.github.io/) and [Anh Ngoc Nguyen](https://sites.google.com/depocen.org/anhnguyen). [Working Paper](https://depocenwp.org/modules/publications/watch.php?id=208)
 
-6. Challenges and Strategies for Viet Nam in Escaping the Middle-Income Trap (Under Review), with Duc-Thinh Bui, Minh-Chau Pham, and Anh Ngoc Nguyen. [PDF](https://depocenwp.org/modules/publications/watch.php?id=206)
+6. Challenges and Strategies for Viet Nam in Escaping the Middle-Income Trap (Under Review), with Duc-Thinh Bui, Minh-Chau Pham, and Anh Ngoc Nguyen. [Working Paper](https://depocenwp.org/modules/publications/watch.php?id=206)
 
 ### Draft Coming Soon
 
