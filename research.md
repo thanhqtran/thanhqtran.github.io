@@ -30,7 +30,7 @@ layout: page
 
 ### Draft Coming Soon
 
-1. Fiscal Implications of Aging and Informality in Emerging Asia, with Wannaphong Durongkavero and Adilah Abdul Ghapor.
+1. Fiscal Implications of Aging and Informality in Emerging Asia, with [Wannaphong Durongkavero](https://sites.google.com/view/wannaphong-durongkaveroj/home) and [Adilah Abdul Ghapor](https://umexpert.um.edu.my/adilahghapor).
 
 2. Accounting for Productivity Growth in an Open Economy: Evidence from Vietnam.
 
@@ -47,6 +47,8 @@ layout: page
 8. What Drives Business Cycles in Vietnam? Evidence from an Estimated SOE DSGE Model, with [Van-Quy Nguyen](https://sites.google.com/view/vanquy93/), [Quang Huy Nguyen](https://mfe.neu.edu.vn/nguyenquanghuy/), and [Ha Thi Tran](https://mfe.neu.edu.vn/tranthiha/).
 
 9. Foreign Direct Investment, Risk Premium and the Business Cycle in Small Open Emerging Economies.
+
+10. Population Ageing and Poverty in a Life-cycle Model, with [Wannaphong Durongkavero](https://sites.google.com/view/wannaphong-durongkaveroj/home) 
 
 ## Policy Briefs
 
@@ -80,4 +82,4 @@ TBA.
 
 ## Referee Service
 
-Energy Economics, Economic Modelling, Applied Economics, Journal of Southeast Asian Economies, Southeast Asian Journal of Economics.
+Energy Economics, Economic Modelling, Applied Economics, Journal of Southeast Asian Economies, Southeast Asian Journal of Economics, Vietnamese Economic Review, Journal of Economics and Development.
